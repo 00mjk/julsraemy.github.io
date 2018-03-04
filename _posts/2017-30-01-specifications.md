@@ -8,12 +8,10 @@ tags:
   - library and information science
   - universal viewer
   - mirador
-date: 2017-01-30 19:15:28
+date: 2017-01-30 19:15:28 +0100
 ---
 
-_Update: I finished my Bachelor's thesis in Information Science in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498)_
-
-
+_Update: Below is a post I wrote in January 2017 about my Bachelor's thesis in Information Science on IIIF. I presented my results at the [IIIF 2017 Conference](https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador) in the Vatican City and defended it in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498)_
 
 I am about to officially start my Bachelor's thesis at the Haute école de gestion de Genève (HEG). This blog post is from a document that I have just handed in to my professor. I hope it will give a good outline of this assignment to the IIIF community.
 
