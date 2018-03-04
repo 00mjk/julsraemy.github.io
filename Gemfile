@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "jekyll-sitemap"
+
 # use local theme gem for testing
 gem "minimal-mistakes-jekyll", path: "."
 
