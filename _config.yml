@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # default" # "air", "aqua", "contrast", "dirt
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist"
+title                    : "Thoughts and discombobulations of Julien A. Raemy"
 title_separator          : "-"
 name                     : "Julien Antoine Raemy"
 description              : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist interested in the International Image Interoperability Framework (IIIF), user-centred design methods, research data management, A/V transcoding, and digital preservation matters. I am also eager to apply Linked Open Data to enhance discoverability of cultural heritage information."
