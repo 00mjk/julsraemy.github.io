@@ -9,9 +9,6 @@ tags:
   - universal viewer
   - mirador
 date: 2017-01-30 19:15:28 +0100
-header:
-	image: /assets/images/IIIF-logo-500w.png
-	description: "Logo of the International Image Interoperability Framework (IIIF)"
 ---
 
 _Update: Below is a post I wrote in January 2017 about my Bachelor's thesis in Information Science on IIIF. I presented my results at the [IIIF 2017 Conference](https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador) in the Vatican City and defended it in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498)_
