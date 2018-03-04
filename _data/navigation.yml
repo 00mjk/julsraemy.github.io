@@ -4,8 +4,6 @@ main:
     url: /about
   - title: "Posts"
     url: /posts
-  - title: "ORCID"
-    url: https://orcid.org/0000-0002-4711-5759
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
