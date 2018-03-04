@@ -56,7 +56,7 @@ search_full_content      : # true, false (default)
 search_provider          : algolia # lunr (default), algolia
 algolia:
   application_id         : "K2X8ORMWZE"
-  index_name             : "dev_julsraemy"
+  index_name             : "dev_*"
   search_only_api_key    : "915049e2d18180f0b1dddb76cb9d3ca8"
   powered_by             : true # (default), false
 
