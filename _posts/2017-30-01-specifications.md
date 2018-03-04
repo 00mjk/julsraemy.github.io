@@ -1,17 +1,24 @@
 ---
 title: The specifications of my bachelor's thesis
 categories:
-  - lis
+  - posts
+tags:
   - iiif
   - user-centred design
+  - library and information science
+  - universal viewer
+  - mirador
 date: 2017-01-30 19:15:28
 ---
 
 _Update: I finished my Bachelor's thesis in Information Science in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498)_
 
-![IIIF logo](/assets/images/IIIF-logo-500w.png)
+
 
 I am about to officially start my Bachelor's thesis at the Haute école de gestion de Genève (HEG). This blog post is from a document that I have just handed in to my professor. I hope it will give a good outline of this assignment to the IIIF community.
+
+![IIIF logo](/assets/images/IIIF-logo-500w.png)
+
 # 1.     Introduction
 This blog post specifies how the Bachelor’s thesis entitled _The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions_ will be undertaken.
 These specifications define what kind of assignment this Bachelor’s thesis is (§ 2), the general and specific objectives (§ 3), and the resources and methods that will be used (§ 4). A concise bibliography (§ 5) concludes this blog post.
