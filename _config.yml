@@ -5,22 +5,22 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark", # default" # "air", "aqua", "contrast", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Site Title"
+locale                   : "en-GB"
+title                    : "Julien A. Raemy"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : "Julien Antoine Raemy"
+description              : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist interested in the International Image Interoperability Framework (IIIF), user-centred design methods, research data management, A/V transcoding, and digital preservation matters. I am also eager to apply Linked Open Data to enhance discoverability of cultural heritage information."
+url                      : https://julsraemy.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : julsraemy/julsraemy.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
-comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+words_per_minute         : 300
+comments                 : 
+  provider               : "staticman_v2", "google-plus", "disqus", "discourse" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -90,10 +90,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  name             : "Julien A. Raemy"
+  avatar           : "/assets/images/portrait.jpg"
+  bio              : "Research and Teaching Assistant at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, Information Science Department"
+  location         : "Geneva, Switzerland"
   email            :
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -103,19 +103,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : julsraemy
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
+  linkedin         : julienaraemy
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : julsraemy
   vine             :
   weibo            :
   xing             :
@@ -256,6 +256,6 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
