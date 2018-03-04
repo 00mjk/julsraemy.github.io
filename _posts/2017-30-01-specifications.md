@@ -1,7 +1,7 @@
 ---
 title: The specifications of my bachelor's thesis
 categories:
-  - Post
+  - posts
 date: 2017-01-30
 ---
 
