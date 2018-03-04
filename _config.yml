@@ -12,7 +12,7 @@ locale                   : "en-GB"
 title                    : "Thoughts and discombobulations of Julien A. Raemy"
 title_separator          : "-"
 name                     : "Julien Antoine Raemy"
-description              : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist interested in the International Image Interoperability Framework (IIIF), user-centred design methods, research data management, A/V transcoding, and digital preservation matters. I am also eager to apply Linked Open Data to enhance discoverability of cultural heritage information."
+description              : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist interested in the International Image Interoperability Framework (IIIF), Linked Open Data, Information Retrieval, User-centred design methods, Research Data Management, and Digital Preservation matters."
 url                      : https://julsraemy.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : julsraemy/julsraemy.github.io
@@ -189,7 +189,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Zurich # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
