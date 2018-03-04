@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "dark" # default" # "air", "aqua", "contrast", "dirt
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Julien A. Raemy"
+title                    : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist"
 title_separator          : "-"
 name                     : "Julien Antoine Raemy"
 description              : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist interested in the International Image Interoperability Framework (IIIF), user-centred design methods, research data management, A/V transcoding, and digital preservation matters. I am also eager to apply Linked Open Data to enhance discoverability of cultural heritage information."
@@ -20,7 +20,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 300
 comments                 : 
-  provider               : "staticman_v2, google-plus, disqus, discourse" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -32,7 +32,7 @@ comments                 :
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
+  branch                 : "master"
   commitMessage          : # "New comment."
   filename               : # comment-{@timestamp}
   format                 : # "yml"
@@ -47,13 +47,13 @@ staticman:
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : "6LdAaEoUAAAAAFmTDEQAD0YF6_gtqrs6j4098Gvp"
+  secret                 : "HulbAcdubAhgZXkAG2iYcTMc76L1La+rDfHd1CiK+Iq0M4nIm3NK4Mw8+/+RayuUQklQWNlc4KvvErJnVxS41Grdf3YDNcke3RcD2TU+Rcejz2Ic4SEhvVKwF8+eqQvWyZfAVys7YF88drZotZySO9gky663NRmvECpasor/yZc="
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : # true, false (default)
+search                   : true # false (default)
 search_full_content      : # true, false (default)
-search_provider          : # lunr (default), algolia
+search_provider          : algolia # lunr (default), algolia
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -61,8 +61,8 @@ algolia:
   powered_by             : # true (default), false
 
 # SEO Related
-google_site_verification :
-bing_site_verification   :
+google_site_verification : "N2u8ci8IT_ly94H_YevbdGi1qxEoc31fjx54QHK4ilU"
+bing_site_verification   : "FD3F9DD8EAD95C825B92020E24B75D27"
 yandex_site_verification :
 naver_site_verification  :
 
@@ -83,9 +83,9 @@ social:
 
 # Analytics
 analytics:
-  provider               : false # false (default), "google", "google-universal", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "UA-115031522-1"
 
 
 # Site Author
