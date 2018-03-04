@@ -1,10 +1,8 @@
 ---
-title: "About me"
-excerpt: "About Julien A. Raemy"
+title: "About Julien A. Raemy"
+excerpt: "About me"
 permalink: /about/
 ---
-
-# About
 
 ## [First, a little bit about me]
 
@@ -18,12 +16,12 @@ Between September 2013 and July 2017, I undertook on a part-time basis a Bachelo
 
 Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id] for the Professor René Schneider and besides working on his research projects, I help him to coordinate the bilingual curriculum in LIS (French/German). 
 
-### [What about this website?]
+## [What about this website?]
 
 This website is about my work, views and expectations on information retrieval, research data management, digitisation, digital preservation, the [International Image Interoperability Framework][iiif], semantic web technologies, open science, user-centered design, and all sorts of things related to how to curate digital data in the cultural heritage field. From time to time, I think this website will also be dedicated to personal matters, music, and literature.
 
 
-[heg](https://www.hesge.ch/heg/en)
-[bilingue_id](http://campus.hesge.ch/id_bilingue/kontakt/assistenz_fr.asp)
-[metamedia](https://metamedia.epfl.ch/)
-[iiif](http://iiif.io/)
+[heg]:(https://www.hesge.ch/heg/en)
+[bilingue_id]:(http://campus.hesge.ch/id_bilingue/kontakt/assistenz_fr.asp)
+[metamedia]:(https://metamedia.epfl.ch/)
+[iiif]:(http://iiif.io/)
