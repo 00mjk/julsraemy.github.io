@@ -2,7 +2,7 @@
 title: The specifications of my bachelor's thesis
 excerpt: "Specifications of the bachelor's thesis in Information Science that I did between January and July 2017 at the Haute école de gestion de Genève. I conducted usability testing on Mirador and the Universal Viewer, two IIIF-Compliant image viewers."
 categories:
-  - academic
+  - posts
 tags:
   - iiif
   - user-centred design
