@@ -6,7 +6,6 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 minimal_mistakes_skin    : "dark" # default" # "air", "aqua", "contrast", "dirt", "neon", "mint", "plum", "sunrise"
-
 # Site Settings
 locale                   : "en-GB"
 title                    : "Thoughts and discombobulations of Julien A. Raemy"
