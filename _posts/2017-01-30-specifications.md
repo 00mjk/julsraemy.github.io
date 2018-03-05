@@ -4,11 +4,14 @@ excerpt: "Specifications of the bachelor's thesis in Information Science that I 
 categories:
   - posts
 tags:
-  - iiif
-  - user-centred design
-  - library and information science
-  - universal viewer
-  - mirador
+  - IIIF
+  - HEG-GE
+  - User-centred design
+  - Usability testing
+  - Library and Information Science
+  - Universal Viewer
+  - Mirador
+  - Bachelor's thesis
 date: 2017-01-30 19:15:28 +0100
 ---
 
