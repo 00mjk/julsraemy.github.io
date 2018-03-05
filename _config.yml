@@ -156,6 +156,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - minimal-mistakes-jekyll.gemspec
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
 keep_files:
