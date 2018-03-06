@@ -1,6 +1,6 @@
 ---
 title: The specifications of my bachelor's thesis
-excerpt: "Specifications of the bachelor's thesis in Information Science that I did between January and July 2017 at the Haute école de gestion de Genève. I conducted usability testing on Mirador and the Universal Viewer, two IIIF-Compliant image viewers."
+excerpt: "Specifications of the bachelor's thesis in Library and Information Science (LIS) that I did between January and July 2017 at the Haute école de gestion de Genève. I conducted usability testing on Mirador and the Universal Viewer, two IIIF-Compliant image viewers."
 toc: true
 toc_label: "Table of Contents"
 toc_icon: "angle-down"
@@ -18,9 +18,9 @@ tags:
 date: 2017-01-30 19:15:28 +0100
 ---
 
-_Update: Here is a post I wrote in January 2017 about my Bachelor's thesis in Information Science on IIIF. I presented my results at the [IIIF 2017 Conference](https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador) in June 2017 the Vatican City and that I defended in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498). Some of the objectives described below have slightly changed_
+_Update: Here is a post I wrote in January 2017 about my Bachelor's thesis on IIIF where I conducted usability testing on the Universal Viewer and Mirador, two IIIF-Compliant image viewers. I presented my results at the [IIIF 2017 Conference](https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador) in June 2017 the Vatican City and that I defended in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498). Some of the objectives described below have slightly changed_
 
-# My bachelor's thesis in Library and Information Science at the HEG-GE
+# My bachelor's thesis in Library and Information Science (LIS) at the HEG-GE
 
 I am about to officially start my Bachelor's thesis at the Haute école de gestion de Genève (HEG-GE). This blog post is from a document that I have just handed in to my professor. I hope it will give a good outline of this assignment to the IIIF community.
 
