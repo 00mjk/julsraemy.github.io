@@ -12,7 +12,7 @@ locale                   : "en-GB"
 title                    : "Thoughts and discombobulations of Julien A. Raemy"
 title_separator          : "-"
 name                     : "Julien Antoine Raemy"
-description              : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist interested in the International Image Interoperability Framework (IIIF), Linked Open Data, Information Retrieval, User-centred design methods, Research Data Management, and Digital Preservation matters."
+description              : "Thoughts and discombobulations of Julien A. Raemy, a Library and Information Specialist interested in the International Image Interoperability Framework (IIIF), Linked Open Data, Information Retrieval, User-centred design (UCD) methods, Open Science, Research Data Management, Digitisation, Digital Preservation, and all sorts of things related to digital data curation in the cultural heritage field."
 url                      : https://julsraemy.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : julsraemy/julsraemy.github.io
