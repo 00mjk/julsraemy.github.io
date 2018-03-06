@@ -2,7 +2,7 @@
 title: The specifications of my bachelor's thesis
 excerpt: "Specifications of the bachelor's thesis in Information Science that I did between January and July 2017 at the Haute école de gestion de Genève. I conducted usability testing on Mirador and the Universal Viewer, two IIIF-Compliant image viewers."
 toc: true
-toc_label: "My Table of Contents"
+toc_label: "Table of Contents"
 toc_icon: "angle-down"
 categories:
   - posts
@@ -20,20 +20,22 @@ date: 2017-01-30 19:15:28 +0100
 
 _Update: Here is a post I wrote in January 2017 about my Bachelor's thesis in Information Science on IIIF. I presented my results at the [IIIF 2017 Conference](https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador) in June 2017 the Vatican City and that I defended in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498). Some of the objectives described below have slightly changed_
 
+# My bachelor's thesis in Library and Information Science at the HEG-GE
+
 I am about to officially start my Bachelor's thesis at the Haute école de gestion de Genève (HEG-GE). This blog post is from a document that I have just handed in to my professor. I hope it will give a good outline of this assignment to the IIIF community.
 
-# 1.     Introduction
+## 1.     Introduction
 This blog post specifies how the Bachelor’s thesis entitled _The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions_ will be undertaken.
 These specifications define what kind of assignment this Bachelor’s thesis is (§ 2), the general and specific objectives (§ 3), and the resources and methods that will be used (§ 4). A concise bibliography (§ 5) concludes this blog post.
-# 2.     Assignment
-## 2.1     Essence
+## 2.     Assignment
+### 2.1     Essence
 The Bachelor’s thesis will be split into two parts: the first will give an overview of IIIF ('Triple-Eye-Eff'), in terms of technology developed by and around the IIIF community and why IIIF implementation can leverage innovative development within memory institutions. The second part will focus on a practical approach exploring how end users can benefit from IIIF-compliant viewers.
 For the latter, usability tests will be conducted on Mirador (2017a) and the Universal Viewer (UV 2017), the two interfaces that are most used by IIIF members. Mirador is a multi-image viewing platform where several IIIF manifests can be loaded, compared, and annotated. The Universal Viewer is a configurable and embeddable interface (IIIF 2017a).
 There will be a focus on Switzerland for both of these parts, especially on how IIIF can appeal to scientific editions in the humanities in the context of the NIE-INE project (SUC P-2 2016), which is to create a national infrastructure (DHLab 2017):
 '_[…] that meets the specific needs of large and complex edition projects and, in particular, to ensure the electronic publication and long-term availability of research data and results in a central area of national humanities research._'
-## 2.2     Scope
+### 2.2     Scope
 The Bachelor’s thesis will be primarily done in support of IIIF and available to its members and partners, particularly the developing teams of Mirador and the Universal Viewer. In addition, NIE-INE will be the second target audience.
-## 2.3     Origin
+### 2.3     Origin
 The IIIF initiative started in 2011 in California after an informal gathering of technologists from Stanford University, Oxford University, and the British Library. The IIIF community has agreed on common application programming interfaces (APIs) and has developed an ecosystem of compliant servers and clients. The rationale behind developing APIs was to remove silos that cultural institutions created to deliver images on the Web (Snydman, Sanderson, Cramer 2015).
 Since June 2015, IIIF is also a consortium (IIIF-C), and on this day 40 institutions from around the world, mainly libraries and museums, have joined it (IIIF 2017b). The wider IIIF community is growing, with the goal of reaching all kinds of memory institutions and image-driven companies for widespread interoperability in Web-based image delivery (IIIF 2017c). With a view to continuing development and expanding to more institutions, IIIF has organised several events in North America and Europe such as Working Groups Meetings, Outreach Events, and Conferences (IIIF 2017d).
 Last October, I took part in the IIIF Working Groups Meeting in The Hague. This three-day session, where I represented the Ecole polytechnique fédérale de Lausanne (EPFL), gave me a great insight of what IIIF could offer to organizations and their users. I thought it would be interesting to conduct a usability test on IIIF-compliant Web clients and see how intuitive they are to users. Besides, the three goals of IIIF are intrinsically bound to Web usability (IIIF 2017e):
@@ -41,14 +43,14 @@ Last October, I took part in the IIIF Working Groups Meeting in The Hague. This 
 - To define a set of common application programming interfaces that support interoperability between image repositories
 - To develop, cultivate and document shared technologies, such as image servers and web clients, that provide a world-class user experience in viewing, comparing, manipulating and annotating images.
 I drafted a first proposal to IIIF in November 2016 and modified it upon recommendations given by Sheila Rabun, IIIF Community and Communications Officer. My proposal was then accepted by the Haute école de gestion (HEG) and after discussion with Professor Schneider, we thought it would be a good idea to extend the assignment to the scientific community in Switzerland as the NIE-INE project has just started. The thesis is then designed as well to answer this question: How can scientific editions in Switzerland benefit from using IIIF technology?
-## 2.4     Expectations
+### 2.4     Expectations
 Three expectations have been identified for the Bachelor’s thesis:
 - Members of the IIIF community have put together a number of different resources, such as slide decks, blogs, and demos, that reveal the advantages of IIIF for both organizations and end users, but the resources are scattered. It would be interesting in creating a comprehensive explanation of how IIIF can benefit both institutions and users. It will also be the first time that IIIF is a Bachelor’s thesis’ subject.
 - Evaluating two interfaces: the conducted usability tests should focus on specific features that Mirador and the Universal Viewer offer, such as “drag and drop” or the OpenSeaDragon’s “pan and zoom” in order to assess the intuitiveness and overall usability of the two viewers. There will also be an emphasis in terms of learnability and satisfaction, three usability attributes defined by Nielsen (2010, p. 26). The usability tests will be adapted to NIE-INE's target audience and their technical requirements. Findings and analysis outputs of these usability tests will lead to a set of recommendations for both the developers and the scientific community.
 - Reaching the scientific community in Switzerland: The Bachelor’s thesis should not only demonstrate that the IIIF ecosystem can play a _‘[…] central role in the dissemination of scholarly information’_ (Kiley, Crane 2016), but also that scientific communities like NIE-INE have many shared interests in deploying IIIF-compliant technologies. The benefits of IIIF adoption for the NIE-INE initiative will be explored based on the findings of usability tests with Mirador and the Universal Viewer.
-## 2.5     Constraints
+### 2.5     Constraints
 In addition to the general time constraints of this thesis, there are technological and timing constraints related to the use of software for usability testing, and the status of the NIE-INE community.
-### 2.5.1     Technological aspects
+#### 2.5.1     Technological aspects
 For the Bachelor’s thesis, two usability tests are scheduled: one will include in-person and synchronous usability test with LIS students at the HEG and a second remote test with a representative sample of users (cf. § 5). Loop11, an online usability test software (Loop11 2017), has been often used in previous Library and Information Science (LIS) Theses and Reports to carry asynchronous tests on Websites and graphic interfaces (Prongué 2012; Schmidt 2013; Meystre, Rey 2014) or for prototype testing (Guzzon 2016). It is highly customizable: the platform is multilingual, tasks, objectives and usability questions can be assigned, sessions can be recorded, and different analysis outputs are available such as heatmaps and clickstreams. Loop11 works really well with static URLs, but it can’t deal with dynamic ones.
 Yet, the Mirador’s demo Web page (Mirador 2017b) and most of institutions using this interface don’t provide static URLs.
 Three solutions have been considered in order to conduct in-depth usability tests. They are ordered form the least to the most interesting in terms of using Loop11 to its full capacity:
@@ -65,7 +67,7 @@ document.write(unescape("%3cscript src='//cdn.loop11.com/my/loop11.js' type='tex
 ```
 
 IIIF developers and implementers must therefore be warned and asked to insert this JavaScript snippet into all tested Web pages.
-### 2.5.2     The beginning of NIE-INE
+#### 2.5.2     The beginning of NIE-INE
 
 Finally, NIE-INE started not long ago and perhaps it will be difficult to gather enough input by the end of the Bachelor’s thesis. Important information needed from them include:
 
@@ -74,7 +76,7 @@ Finally, NIE-INE started not long ago and perhaps it will be difficult to gather
 - What systems do they want to deploy?
 - What IIIF-compliant technologies would they need?
 
-# 3.     Objectives
+## 3.     Objectives
 Three objectives have been defined as generic (in **bold**) and are essentially linked to the Bachelor’s thesis’ expectations explained in § 2.4. Specific objectives (in _italic_) derived from the three generic and main objectives.
 
 - **Writing a comprehensive description of the International Image Interoperability Framework (IIIF) for potential new implementers**
@@ -94,7 +96,7 @@ Three objectives have been defined as generic (in **bold**) and are essentially 
 	- _Assessing the similarities and differences between memory institutions and the scientific editions community in respect of interests in deploying IIIF-compliant servers and viewers._
 	- _Contacting the NIE-INE team and raising awareness of the IIIF initiative._
 
-# 4. Means and methods
+## 4. Means and methods
 In order to write a comprehensive Bachelor’s thesis, literature reviews on these subjects will be required:
 
 **The International Image Interoperability Framework**
@@ -132,7 +134,7 @@ In addition, different methods will be combined, mainly to receive insight from 
 - Moderated pre-test with LIS students (in-person)
 - Tests with a representative sample of users based on personae (remote or in-person)
 
-# 5. Bibliography
+## 5. Bibliography
 
 - BODLEIAN DIGITAL LIBRARY SYSTEMS & SERVICES, 2017. Have you noticed our growing set of #IIIF buttons on [http://digital.bodleian.ox.ac.uk](http://digital.bodleian.ox.ac.uk)? Twitter [online]. 19 January 2017. [Accessed 23 January 2017]. Available from: [https://twitter.com/BDLSS/status/822108808793178113](https://twitter.com/BDLSS/status/822108808793178113) 
 - DIGITAL HUMANITIES LAB (DHLAB), 2017. NIE — INE. dhlab.unibas.ch [online]. 16 January 2017. [Accessed 22 January 2017]. Available from: [http://dhlab.unibas.ch/nie-ine/](http://dhlab.unibas.ch/nie-ine/) 
