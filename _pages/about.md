@@ -6,7 +6,7 @@ permalink: /about/
 
 ## [First, a little bit about me]
 
-My name is Julien Antoine Raemy and I come from Fribourg, Switzerland. I am a bookseller by trade and I used to work for a book distributor and in a bookshop. After receiving my Certificate of Vocational Education and Training of Bookseller (or in French: Certificat fédéral de capacité de libraire), I decided to brush up on my English and I did a six-month internship in the ELT Marketing Department of Oxford University Press in the UK. I would have loved to stay a bit longer but I had to go back to Switzerland in order to fulfill the mandatory military service period, which I did in one go in ten months.
+My name is Julien Antoine Raemy and I come from Fribourg, Switzerland. I am a bookseller by trade and I used to work for a book distributor and in a bookshop. After receiving my Certificate of Vocational Education and Training of Bookseller (or in French: _Certificat fédéral de capacité de libraire_), I decided to brush up on my English and I did a six-month internship in the [ELT Marketing Department of Oxford University Press][elt] in the UK. I would have loved to stay a bit longer but I had to go back to Switzerland in order to fulfill the mandatory military service period, which I did in one go in ten months.
 
 Then, I worked here and there before I decided that it was time to travel again in Australia (also, I still needed to improve my English skills). It was all great but I didn’t really know what to do. I thought it would be a good idea to become an English Teacher for some time in Poland. Once more, it was an amazing thing to experience. Nevertheless, I decided after a year to go back to my home country. But what shall I do?
 
@@ -20,7 +20,7 @@ Since August 2017, I've been working as a [Research and Teaching Assistant at th
 
 This website is about my work, views and expectations on information retrieval, semantic web technologies, user-centred design, the [International Image Interoperability Framework (IIIF)][iiif], digitisation, digital preservation, open science, research data management, and all sorts of things related to digital data curation in the cultural heritage field. From time to time, I think this website will also be dedicated to personal matters, music, and literature.
 
-
+[elt]: https://elt.oup.com/
 [heg]: https://www.hesge.ch/heg/en
 [bilingue_id_assistanat]: http://campus.hesge.ch/id_bilingue/kontakt/assistenz_fr.asp
 [bilingue_id_projets]: http://campus.hesge.ch/id_bilingue/projekte/index_fr.asp
