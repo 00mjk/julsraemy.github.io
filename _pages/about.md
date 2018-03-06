@@ -18,7 +18,7 @@ Since August 2017, I've been working as a [Research and Teaching Assistant at th
 
 ## [What about this website?]
 
-This website is about my work, views and expectations on information retrieval, semantic web technologies, user-centred design, the [International Image Interoperability Framework][iiif], digitisation, digital preservation, open science, research data management, and all sorts of things related to digital data curation in the cultural heritage field. From time to time, I think this website will also be dedicated to personal matters, music, and literature.
+This website is about my work, views and expectations on information retrieval, semantic web technologies, user-centred design, the [International Image Interoperability Framework (IIIF)][iiif], digitisation, digital preservation, open science, research data management, and all sorts of things related to digital data curation in the cultural heritage field. From time to time, I think this website will also be dedicated to personal matters, music, and literature.
 
 
 [heg]: https://www.hesge.ch/heg/en
