@@ -1,6 +1,6 @@
 ---
 title: "About me"
-excerpt: "About Julien A. Raemy"
+excerpt: "About page about Julien A. Raemy's website"
 permalink: /about/
 ---
 
