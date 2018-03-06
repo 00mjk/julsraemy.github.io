@@ -12,7 +12,7 @@ Then, I worked here and there before I decided that it was time to travel again 
 
 ## [Then, the more interesting stuff about what I do now]
 
-Between September 2013 and July 2017, I undertook on a part-time basis a Bachelor in Library and Information Science (LIS) at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion (HEG-GE)][heg] in Geneva, Switzerland. Between January 2015 and the end of my bachelor's degree, I was also  working for the [EPFL’s MetaMedia Center][metamedia] as a Photo Archivist for the Montreux Jazz Digital Project. I really enjoyed to work and study at the same time.
+Between September 2013 and July 2017, I undertook on a part-time basis a Bachelor in Library and Information Science (LIS) at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg] in Geneva, Switzerland. Between January 2015 and the end of my bachelor's degree, I was also  working for the [EPFL’s MetaMedia Center][metamedia] as a Photo Archivist for the Montreux Jazz Digital Project. I really enjoyed to work and study at the same time.
 
 Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id_assistanat] for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I help him to coordinate the bilingual curriculum in LIS (French/German). 
 
