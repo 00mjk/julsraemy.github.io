@@ -1,6 +1,6 @@
 ---
 title: "BIS and SAB/CLP will merge into Bibliosuisse"
-excerpt: "From 2019 onwards, there will be one national Library Association in Switzerland with the merge of BIS and SAB/CLP into Biliosuisse."
+excerpt: "From 2019 onwards, there will be one national Library Association in Switzerland with the merge of BIS and SAB/CLP into Bibliosuisse."
 categories:
   - posts
 tags:
