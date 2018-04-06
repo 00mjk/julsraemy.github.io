@@ -40,8 +40,16 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - Since January 2018: IIIF [Outreach Community Group][outreach] Co-Chair
 - Since September 2017: IIIF [Code of Conduct][coc] Team Member
 
-- Since March 2014: Member of **Bibliosuisse** (formerly "Bibliothèque Information Suisse")
-- Since January 2008: Member of the **Association des amis de la Maison d'Ailleurs (AMDA)**
+**Bibliosuisse** (formerly "Bibliothèque Information Suisse")
+- Since March 2014: Member
+
+[**Fri-Son**][fri-son]
+- Since October 2010: Member
+- September 2013 - July 2016: Bar Manager
+- September 2010 - August 2013: Bartender
+
+[**Association des amis de la Maison d'Ailleurs (AMDA)**][amda]
+- Since January 2008: Member 
 
 ## Education
 
@@ -72,9 +80,11 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
+[amda]: http://www.ailleurs.ch/en/amda/
+[fri-son]: https://fri-son.ch/
 [archiving]: https://doi.org/10.2352/issn.2168-3204.2017.1.0.68
 [ressi1]: http://www.ressi.ch/num18/article_142
-[ressi2]: ttp://www.ressi.ch/num18/article_143
+[ressi2]: http://www.ressi.ch/num18/article_143
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
 [tb]: http://doc.rero.ch/record/306498
 [midi-agbd]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
