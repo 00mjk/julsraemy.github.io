@@ -19,7 +19,7 @@ Between September 2013 and July 2017, I undertook on a part-time basis a Bachelo
 
 Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id_assistanat] for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I help him to coordinate the bilingual curriculum in LIS (French/German). 
 
-Have a look at my [CV](../cv.md) for further information about my background, my projects and my publications
+Have a look at my [CV](../cv/) for further information about my background, my projects and my publications
 
 ## [What about this website?]
 
