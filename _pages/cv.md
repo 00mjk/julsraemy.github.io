@@ -13,7 +13,7 @@ Below are a selected list of things I am doing or that I have done.
 Since August 2017: **Research and Teaching Assistant in Information Science** at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg]
 - Helping the Professor René Schneider with his projects, assignments, as well as the training sessions that he gives during further education programmes
 - Conducting research, writing reports and creating data models for assigning persistent identifiers in the context of the ICOPAD project
-- 
+- Coordinating the TICKS project and the uptake of the International Image Interoperability Framework (IIIF) in Switzerland
 - Coordinating the French/German curriculum of the Bachelor of Science in LIS delivered at the HEG-GE
 - Submitting and participating in projects related to the sustainability, usability and valorisation of digital data on the Web
 - Developing and delivering presentations, seminars, and courses on Information Science, Library services platforms, Web usability, and Linked Data in Libraries to Bachelor and Master students
@@ -27,12 +27,12 @@ Assessing the photography archives and digitizing pictures for the Montreux Jazz
 - Defining long-term archiving strategies
 - Writing a report on Semantic Web technologies
 - Collating anecdotes for the [Montreux Jazz Heritage Lab II][mjhl] platform designed by EPFL+ECAL Lab
-- Taking part in conferences and working group sessions such as iPRES, the International Image Interoperability Framework (IIIF) and Museomix
+- Taking part in conferences and working group sessions such as iPRES, IIIF and Museomix
 
 August 2016 - October 2016: **University Intern** at the University of Basel, [Digital Humanities Lab][dhlab]
 - Doing a survey and writing a report about the criteria for standard digital video formats for long-term preservation (based on the recommendations from IASA, FADGI and Memoriav)
 - Conducting video transcoding tests with FFmpeg
-- Writing up a conference paper which demonstrate the benefits of elaborating a structure for digital video assets based on the International Image Interoperability Framework (IIIF) concepts for the use in archival environments
+- Writing up a conference paper which demonstrate the benefits of elaborating a structure for digital video assets based on the IIIF concepts for the use in archival environments
 
 ## Organizations
 
@@ -40,7 +40,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - Since January 2018: IIIF [Outreach Community Group][outreach] Co-Chair
 - Since September 2017: IIIF [Code of Conduct][coc] Team Member
 
-- 
+- Since March 2014: Member of **Bibliosuisse** (formerly "Bibliothèque Information Suisse")
+- Since January 2008: Member of the **Association des amis de la Maison d'Ailleurs (AMDA)**
 
 ## Education
 
@@ -55,24 +56,27 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Presentations
 
-- 2018.03.27: [Midi-AGBD][midi-agbd] avec Julien Antoine Raemy, co-lauréat du Prix romand en bibliothéconomie 2017 – présentation de son travail de Bachelor
-- 2017.11.09: [Séminaire en bibliothéconomie][seminaire] - présentation brève du travail de bachelor
-
+- 2018.03.27: [Midi-AGBD][midi-agbd], Uni Mail Genève - "Midi-AGBD avec Julien Antoine Raemy, co-lauréat du Prix romand en bibliothéconomie 2017 – présentation de son travail de Bachelor"
+- 2017.11.09: [Séminaire en bibliothéconomie][seminaire], Haute école de gestion de Genève - *Présentation brève de IIIF et du travail de bachelor*
+- 2017.06.09: [2017 IIIF Conference][vatican-prezi], Vatican City - *Usability testing conducted on the UV and Mirador*
 
 ## Publications
 
-1. RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
-2. RAEMY, Julien A. Interopérabilité des images : de la nécessité des tests d’utilisabilité. *Revue électronique suisse de science de l’information* [online]. 20 December 2017. Available from: http://www.ressi.ch/num18/article_142
-3. RAEMY, Julien A. Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican. *Revue électronique suisse de science de l’information* [online]. 20 December 2017. Available from: http://www.ressi.ch/num18/article_143
-4. RAEMY, Julien Antoine. *The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions* [online]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017. Available from: http://doc.rero.ch/record/306498
-
+1. RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
+2. RAEMY, Julien A. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information* [online]. 20 December 2017.
+3. RAEMY, Julien A. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information* [online]. 20 December 2017.
+4. RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
 
 
 ## Awards
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
-
+[archiving]: https://doi.org/10.2352/issn.2168-3204.2017.1.0.68
+[ressi1]: http://www.ressi.ch/num18/article_142
+[ressi2]: ttp://www.ressi.ch/num18/article_143
+[vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
+[tb]: http://doc.rero.ch/record/306498
 [midi-agbd]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
 [romand]: https://www.agbd.ch/prix-romand-en-bibliotheconomie/
 [seminaire]: https://www.slideshare.net/JulienARaemy/prsentation-brve-de-iiif-et-du-travail-de-bachelor-sminaire-en-bibliothconomie-hegge
