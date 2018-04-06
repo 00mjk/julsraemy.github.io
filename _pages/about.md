@@ -6,6 +6,7 @@ toc_label: Table of Contents
 permalink: /about/
 ---
 
+
 ## [First, a little bit about me]
 
 My name is Julien Antoine Raemy and I come from Fribourg, Switzerland. I am a bookseller by trade and I used to work for a book distributor and in a bookshop. After receiving my Certificate of Vocational Education and Training of Bookseller in August 2008 (or in French: _Certificat fédéral de capacité de libraire_), I decided to brush up on my English and I did a six-month internship in the [ELT Marketing Department of Oxford University Press][elt] in the UK. I would have loved to stay a bit longer but I had to go back to Switzerland in order to fulfill the mandatory military service period, which I did in one go in ten months.
@@ -18,7 +19,7 @@ Between September 2013 and July 2017, I undertook on a part-time basis a Bachelo
 
 Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id_assistanat] for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I help him to coordinate the bilingual curriculum in LIS (French/German). 
 
-Have a look at my [CV](cv.md) for further information about my background, my projects and my publications
+Have a look at my [CV](./cv.md) for further information about my background, my projects and my publications
 
 ## [What about this website?]
 
