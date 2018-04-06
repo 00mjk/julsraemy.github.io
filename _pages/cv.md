@@ -19,7 +19,7 @@ Since August 2017: **Research and Teaching Assistant in Information Science** at
 - Developing and delivering presentations, seminars, and courses on Information Science, Library services platforms, Web usability, and Linked Data in Libraries to Bachelor and Master students
 
 January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the Ecole Polytechnique Fédérale de Lausanne (EPFL), [MetaMedia Center][mmc]
-Assessing the photography archives and digitizing pictures for the Montreux Jazz Digital Project
+- Assessing the photography archives and digitizing pictures for the Montreux Jazz Digital Project
 - Checking the quality process and adding metadata to them on the Montreux Jazz Festival database
 - Conducting research and interviews in order to ensure the authenticity and integrity of the records and the added metadata.
 - Transferring data on our servers and on magnetic tapes (LTO) for long-term preservation
