@@ -17,7 +17,7 @@ tags:
 date: 2017-01-30 19:15:28 +0100
 ---
 
-_Update: Here is a post I wrote in January 2017 about my Bachelor's thesis on IIIF where I conducted usability testing on the Universal Viewer and Mirador, two IIIF-Compliant image viewers. I presented my results at the [2017 IIIF Conference](https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador) in June 2017 the Vatican City and that I defended in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498). Some of the objectives described below have slightly changed_
+_Update: Here is a post I wrote in January 2017 about my Bachelor's thesis on IIIF where I conducted usability testing on the Universal Viewer and Mirador, two IIIF-Compliant image viewers. I presented my results at the [2017 IIIF Conference](https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador) in June 2017 in the Vatican City and that I defended in July 2017. Here is [the link to the full text](http://doc.rero.ch/record/306498). Some of the objectives described below have slightly changed_
 
 # My bachelor's thesis in Library and Information Science (LIS) at the HEG-GE
 
