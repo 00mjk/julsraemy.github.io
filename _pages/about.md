@@ -18,6 +18,8 @@ Between September 2013 and July 2017, I undertook on a part-time basis a Bachelo
 
 Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id_assistanat] for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I help him to coordinate the bilingual curriculum in LIS (French/German). 
 
+Have a look at my [CV](cv.md) for further information about my background, my projects and my publications
+
 ## [What about this website?]
 
 This website is about my work, views and expectations on information retrieval, semantic web technologies, user-centred design, the [International Image Interoperability Framework (IIIF)][iiif], digitisation, digital preservation, open science, research data management, and all sorts of things related to digital data curation in the cultural heritage field. From time to time, I think this website will also be dedicated to personal matters, music, and literature.
