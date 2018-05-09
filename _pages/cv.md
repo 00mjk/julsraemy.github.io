@@ -70,10 +70,11 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Publications
 
-1. RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
+1. RAEMY, Julien A. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
 2. RAEMY, Julien A. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information* [online]. 20 December 2017.
 3. RAEMY, Julien A. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information* [online]. 20 December 2017.
 4. RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
+5. RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
 
 
 ## Awards
@@ -98,3 +99,4 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [dhlab]: http://dhlab.unibas.ch/
 [icopad]: http://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
 [ticks]: http://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
+[arodes-ht]: https://hesso.tind.io/record/2394
