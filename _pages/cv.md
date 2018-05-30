@@ -70,11 +70,12 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Publications
 
-1. RAEMY, Julien A. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
-2. RAEMY, Julien A. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
-3. RAEMY, Julien A. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
-4. RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
-5. RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
+1. RAEMY, Julien A. [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][zenodo-ticks]. *Zenodo*. 2018 IIIF Conference. Library of Congress, Washington D.C. 24 May 2018.
+2. RAEMY, Julien A. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
+3. RAEMY, Julien A. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
+4. RAEMY, Julien A. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
+5. RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
+6. RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
 
 
 ## Awards
@@ -100,3 +101,4 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [icopad]: http://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
 [ticks]: http://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
 [arodes-ht]: https://hesso.tind.io/record/2394
+[zenodo-ticks]: https://doi.org/10.5281/zenodo.1252084
