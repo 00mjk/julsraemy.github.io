@@ -1,7 +1,6 @@
 ---
 title: The specifications of my bachelor's thesis
 excerpt: "Specifications of the bachelor's thesis in Library and Information Science (LIS) that I did between January and July 2017 at the Haute école de gestion de Genève. I conducted usability testing on Mirador and the Universal Viewer, two image viewers compliant to the International Image Interoperability Framework (IIIF) APIs."
-author: Julien A. Raemy
 toc: true
 toc_label: "Table of Contents"
 categories:
