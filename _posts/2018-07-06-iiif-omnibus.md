@@ -130,6 +130,9 @@ The karaoke - With a couple of amazing IIIFers
 
 ## "IIIF to all"
 
+ <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So happy that <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> said that diversity and inclusion is essential for the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community in his closing remarks at the conference. Hoping we can keep that goal in mind for structural support at next year&#39;s conference.</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/1000113372380135424?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 Regional events! 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Conclusion de la conférence <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> 2018 <a href="https://twitter.com/librarycongress?ref_src=twsrc%5Etfw">@librarycongress</a> par <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a>, incitation à organiser des événements <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> régionaux, à l&#39;image de <a href="https://twitter.com/biblissima?ref_src=twsrc%5Etfw">@biblissima</a> en mars dernier à Paris au <a href="https://twitter.com/CampusCondorcet?ref_src=twsrc%5Etfw">@CampusCondorcet</a> <a href="https://t.co/EST2mLeeYT">pic.twitter.com/EST2mLeeYT</a></p>&mdash; Régis Robineau (@regisrob) <a href="https://twitter.com/regisrob/status/1000058783320694786?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
@@ -137,7 +140,7 @@ Regional events!
 
 A IIIF Community Group for archives
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">with a block of sessions at the <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> conference on archives, i wonder if it&#39;s time to create a archives community group</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/999723055873224704?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There was a critical mass of interest in starting a <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community group focused on archives. <a href="https://twitter.com/anarchivist?ref_src=twsrc%5Etfw">@anarchivist</a> volunteered to convene an ad hoc discussion to explore group scope and charter; stay tuned and dial in!</p>&mdash; Tom Cramer (@tcramer) <a href="https://twitter.com/tcramer/status/999746656471060480?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
