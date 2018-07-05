@@ -80,6 +80,11 @@ Kick-off
 
 Silo!! Tom Cramer
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And now the famous Silo image <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> cc <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> <a href="https://t.co/kdkK8qU0Ca">pic.twitter.com/kdkK8qU0Ca</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/998930211537383424?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+
 I can't remember the number of partipants who were new to IIIF, that it was pretty high!
 
 Plenary: 
@@ -104,6 +109,10 @@ On Tuesday, May 22, ... My goodness, this is beautiful
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And finally, last but certainly not least the Folger Shakespeare Library. Location of the Tuesday Showcase reception. <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> Washington Conference. <a href="https://t.co/IARt7bzshD">pic.twitter.com/IARt7bzshD</a></p>&mdash; Glen Robson (@glenrobson) <a href="https://twitter.com/glenrobson/status/998303611858903040?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">IIIF会議のレセプション。Folger Shakespeare Library. <a href="https://t.co/yZ1LJJcFX0">pic.twitter.com/yZ1LJJcFX0</a></p>&mdash; Center for Open Data in the Humanities (CODH) (@rois_codh) <a href="https://twitter.com/rois_codh/status/999179543574470656?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 On Wednesday, May 23, ...
 
