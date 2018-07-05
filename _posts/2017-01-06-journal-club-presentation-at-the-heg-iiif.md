@@ -1,6 +1,7 @@
 ---
 title: "Journal Club Presentation at the HEG-GE: the International Image Interoperability Framework (IIIF)"
 excerpt: "Presentation of the IIIF initiative at the Haute école de gestion de Genève (HEG-GE) during a seminar on Web and Information and Communications Technology (ICT)."
+author: Julien A. Raemy
 categories:
   - posts
 tags:

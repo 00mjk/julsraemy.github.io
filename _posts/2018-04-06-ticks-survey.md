@@ -1,6 +1,7 @@
 ---
 title: Towards IIIF-Compliance Knowledge in Switzerland (TICKS) - Survey
 excerpt: "Link to the TICKS survey. Towards IIIF-Compliance Knowledge in Switzerland (TICKS) has been conceived to help Swiss institutions in implementing IIIF-conform solutions and exposing their digital collections in a more flexible, sustainable and interoperable manner through application programming interfaces (APIs)."
+author: Julien A. Raemy
 toc: true
 toc_label: "Table of Contents"
 categories:
