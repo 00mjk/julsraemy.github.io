@@ -18,7 +18,7 @@ tags:
 date: 2018-07-06 16:15:00 +0100
 ---
 
-# Why I went to the 2018 IIIF Conference
+## Why I went to the 2018 IIIF Conference
 
 Six weeks ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif] to meet the usual suspects ("IIIFers") as well as new folks from this amazing and growing community. The reasons were threefold:
 
@@ -26,7 +26,7 @@ Six weeks ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif]
 2. I had a 20-minute presentation on Thursday, May 24th at the Library of Congress about Towards IIIF-Compliance Knowledge in Switzerland [(TICKS)][ticks-rg], the project that René Schneider, the professor I work with in Geneva, and myself have been conducting. I swear that I haven't reviewed my own proposal. :innocent:
 3. I love the social events and informal activities happening around this community. :beers:   
 
-# The workshops
+## The workshops
 
 On the [Monday][2018-monday], we had workshops at the S. Dillon Ripley Center, which is near the Smithsonian Castle. I chose to follow:
 
@@ -51,7 +51,7 @@ After the break, Jason talked about the [Awesome IIIF list][awesome-iiif] that i
 
 After lunch, Matt McGrattan, Head of Digital Library Solutions at [Digirati][digirati], conducted the [IIIF and Annotations][matt-anno] workshop. There wasn't a fixed agenda...
 
-# Strolling around Washington D.C.
+## Strolling around Washington D.C.
 
 When I discover a new place, I like to do it on foot and as a European, I always find that neat city street systems like grid plan or quadrant are fascinating, especially in North America, Australia, and let's be fair some European cities (such as Lisbon). Only in those cities would a walk with three street changes can take you about 50 minutes.
 
@@ -59,7 +59,7 @@ When I discover a new place, I like to do it on foot and as a European, I always
 
 _Also, I recommend AXNO on Florida Avenue, they have great ciders._
 
-# The IIIF Showcase
+## The IIIF Showcase
 
 On a rainy and stormy Tuesday there was a showcase. 
 
@@ -74,9 +74,7 @@ On a rainy and stormy Tuesday there was a showcase.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/kzwa?ref_src=twsrc%5Etfw">@kzwa</a> acknowleding the intellectual, professional, and emotional labor that goes into community work = fantastic &lt;3 <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a></p>&mdash; oo (@anarchivist) <a href="https://twitter.com/anarchivist/status/998928831712055296?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-
-# The IIIF Conference: plenary and parallel sessions
+## The IIIF Conference: plenary and parallel sessions
 
 Kick-off
 
@@ -100,16 +98,36 @@ Miranda
 British Library
 
 
-# Receptions and other great social activities
+## Receptions and other great social activities
 
-On Wednesday, May 23, ... My goodness, this is beautiful
+On Tuesday, May 22, ... My goodness, this is beautiful
 
-On Thursday, May 24, ...
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And finally, last but certainly not least the Folger Shakespeare Library. Location of the Tuesday Showcase reception. <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> Washington Conference. <a href="https://t.co/IARt7bzshD">pic.twitter.com/IARt7bzshD</a></p>&mdash; Glen Robson (@glenrobson) <a href="https://twitter.com/glenrobson/status/998303611858903040?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+On Wednesday, May 23, ...
 
 The karaoke - With a couple of amazing IIIFers
 
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Taking the new <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> Presentation API 3.0 for a spin <a href="https://t.co/Eqn5SHYTXf">pic.twitter.com/Eqn5SHYTXf</a></p>&mdash; Jack Reed🐧 (@mejackreed) <a href="https://twitter.com/mejackreed/status/999849102807617536?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# "IIIF to all"
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I think “IIIce IIIce Baby” is the official song of the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> karaoke community.</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/999839801712013312?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+## "IIIF to all"
+
+Regional events! 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Conclusion de la conférence <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> 2018 <a href="https://twitter.com/librarycongress?ref_src=twsrc%5Etfw">@librarycongress</a> par <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a>, incitation à organiser des événements <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> régionaux, à l&#39;image de <a href="https://twitter.com/biblissima?ref_src=twsrc%5Etfw">@biblissima</a> en mars dernier à Paris au <a href="https://twitter.com/CampusCondorcet?ref_src=twsrc%5Etfw">@CampusCondorcet</a> <a href="https://t.co/EST2mLeeYT">pic.twitter.com/EST2mLeeYT</a></p>&mdash; Régis Robineau (@regisrob) <a href="https://twitter.com/regisrob/status/1000058783320694786?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+A IIIF Community Group for archives
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">with a block of sessions at the <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> conference on archives, i wonder if it&#39;s time to create a archives community group</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/999723055873224704?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
