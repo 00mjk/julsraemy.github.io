@@ -18,6 +18,8 @@ tags:
 date: 2018-07-06 16:15:00 +0100
 ---
 
+# Why I went to the 2018 IIIF Conference
+
 Six weeks ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif] to meet the usual suspects ("IIIFers") as well as new folks from this amazing and growing community. The reasons were threefold:
 
 1. As part of the Program Committee, I couldn't miss an event that we started organizing in December. Speaking of which, it was a great, but time-consuming, experience. 
