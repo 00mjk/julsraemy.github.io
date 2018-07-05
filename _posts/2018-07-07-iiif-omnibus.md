@@ -30,7 +30,7 @@ Six weeks* ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif
 2. I had a 20-minute presentation on Thursday, May 24th at the Library of Congress about Towards IIIF-Compliance Knowledge in Switzerland [(TICKS)][ticks-rg], the project that René Schneider, the professor I work with in Geneva, and myself have been conducting. I swear that I haven't reviewed my own proposal. :innocent:
 3. I love the social events and informal activities happening around this community. :beers: 
 
-*By the way, it took me four weeks to finish this small blog post. So the introduction used to be "three weeks ago..."*
+*Note: By the way, it took me four weeks to finish this small blog post. So the introduction used to be "three weeks ago..."*
 
 ## Strolling around Washington D.C.
 
@@ -80,20 +80,19 @@ On a rainy and stormy Tuesday there was a showcase.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/kzwa?ref_src=twsrc%5Etfw">@kzwa</a> acknowleding the intellectual, professional, and emotional labor that goes into community work = fantastic &lt;3 <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a></p>&mdash; oo (@anarchivist) <a href="https://twitter.com/anarchivist/status/998928831712055296?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## The IIIF Conference: plenary and parallel sessions
-
-Kick-off
-
 Silo!! Tom Cramer
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And now the famous Silo image <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> cc <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> <a href="https://t.co/kdkK8qU0Ca">pic.twitter.com/kdkK8qU0Ca</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/998930211537383424?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
+## The 2018 IIIF Conference
+
+Kick-off
 
 I can't remember the number of partipants who were new to IIIF, that it was pretty high!
 
-Plenary: 
+### Plenary conference on Wednesday, May 23 
 
 Lighting talks that I really enjoyed:
  - Emma Stanford's metadata blocks
@@ -105,13 +104,12 @@ Lighting talks that I really enjoyed:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-Parallel sessions on Thursday and Friday:
+### Parallel sessions on Thursday and Friday, May 24-25
 
 TICKS
 Image and Presentation APIs 3.0
 Miranda
 British Library
-
 
 ## Receptions and other great social activities
 
