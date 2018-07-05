@@ -18,13 +18,23 @@ tags:
 date: 2018-07-06 16:15:00 +0100
 ---
 
+![2018 IIIF Logo][2018iiif]
+
 ## Why I went to the 2018 IIIF Conference
 
 Six weeks ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif] to meet the usual suspects ("IIIFers") as well as new folks from this amazing and growing community. The reasons were threefold:
 
 1. As part of the Program Committee, I couldn't miss an event that we started organizing in December. Speaking of which, it was a great, but time-consuming, experience. 
 2. I had a 20-minute presentation on Thursday, May 24th at the Library of Congress about Towards IIIF-Compliance Knowledge in Switzerland [(TICKS)][ticks-rg], the project that René Schneider, the professor I work with in Geneva, and myself have been conducting. I swear that I haven't reviewed my own proposal. :innocent:
-3. I love the social events and informal activities happening around this community. :beers:   
+3. I love the social events and informal activities happening around this community. :beers: 
+
+## Strolling around Washington D.C.
+
+When I discover a new place, I like to do it on foot and as a European, I always find that neat city street systems like grid plan or quadrant are fascinating, especially in North America, Australia, and let's be fair some European cities (such as Lisbon). Only in those cities would a walk with three street changes can take you about 50 minutes.
+
+![DC Stroll][dc-stroll]
+
+_Also, I recommend AXNO on Florida Avenue, they have great ciders._  
 
 ## The workshops
 
@@ -50,14 +60,6 @@ We didn't really have time to go though all of Jason's slides before the morning
 After the break, Jason talked about the [Awesome IIIF list][awesome-iiif] that is available on GitHub and we went through some issues and pull resquests as a group. I really liked the hands-on approach of [this workshop][ronallo-awesome]. We can also count on new curators of awesome! -- Please join the crew!
 
 After lunch, Matt McGrattan, Head of Digital Library Solutions at [Digirati][digirati], conducted the [IIIF and Annotations][matt-anno] workshop. There wasn't a fixed agenda...
-
-## Strolling around Washington D.C.
-
-When I discover a new place, I like to do it on foot and as a European, I always find that neat city street systems like grid plan or quadrant are fascinating, especially in North America, Australia, and let's be fair some European cities (such as Lisbon). Only in those cities would a walk with three street changes can take you about 50 minutes.
-
-![DC Stroll][dc-stroll]
-
-_Also, I recommend AXNO on Florida Avenue, they have great ciders._
 
 ## The IIIF Showcase
 
@@ -139,7 +141,7 @@ A IIIF Community Group for archives
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-
+[2018iiif]: https://julsraemy.github.io/assets/images/2018iiif.png
 [dc-stroll]: https://julsraemy.github.io/assets/images/dc-stroll.png
 [digirati]: https://digirati.com/
 [digital-bod]: http://digital.bodleian.ox.ac.uk/
