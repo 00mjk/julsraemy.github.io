@@ -15,18 +15,22 @@ tags:
   - Library and Information Science
   - Digital Humanities
   - TICKS
-date: 2018-07-06 16:15:00 +0100
+date: 2018-07-07 16:15:00 +0100
 ---
 
 ![2018 IIIF Logo][2018iiif]
 
+_Work in progress_
+
 ## Why I went to the 2018 IIIF Conference
 
-Six weeks ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif] to meet the usual suspects ("IIIFers") as well as new folks from this amazing and growing community. The reasons were threefold:
+Six weeks* ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif] to meet the usual suspects ("IIIFers") as well as new folks from this amazing and growing community. The reasons were threefold:
 
 1. As part of the Program Committee, I couldn't miss an event that we started organizing in December. Speaking of which, it was a great, but time-consuming, experience. 
 2. I had a 20-minute presentation on Thursday, May 24th at the Library of Congress about Towards IIIF-Compliance Knowledge in Switzerland [(TICKS)][ticks-rg], the project that René Schneider, the professor I work with in Geneva, and myself have been conducting. I swear that I haven't reviewed my own proposal. :innocent:
 3. I love the social events and informal activities happening around this community. :beers: 
+
+*By the way, it took me four weeks to finish this small blog post. So the introduction used to be "three weeks ago..."*
 
 ## Strolling around Washington D.C.
 
@@ -91,11 +95,15 @@ I can't remember the number of partipants who were new to IIIF, that it was pret
 
 Plenary: 
 
-Lighting talks
- - Marii WAX
+Lighting talks that I really enjoyed:
  - Emma Stanford's metadata blocks
  - Machine Learning Kyoto
  - Jack Reed's
+ - Marri Nyröp (Columbia University Libraries) gave a great last lightning talk on [Wax, "a minimal IIIF exhibitions with Jekyll"][wax]
+
+ <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Final talk of the day: <a href="https://twitter.com/mariinyrop?ref_src=twsrc%5Etfw">@mariinyrop</a> on wax and &quot;minimal <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a>&quot;. wax produces static scholarly exhibitions w/ minimal computing principles--chimes w/ <a href="https://twitter.com/danieltbrennan?ref_src=twsrc%5Etfw">@danieltbrennan</a>&#39;s and <a href="https://twitter.com/tomofhernehill?ref_src=twsrc%5Etfw">@tomofhernehill</a>&#39;s talks.</p>&mdash; Emma Stanford (@e_stanf) <a href="https://twitter.com/e_stanf/status/999388653246967808?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 Parallel sessions on Thursday and Friday:
 
