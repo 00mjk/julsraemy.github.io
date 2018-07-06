@@ -213,7 +213,7 @@ On Wednesday, we had a really great reception at the Smithsonian Castle (well no
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just walking round some of the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> conference venues. This is the amazing Smithsonian Castle location of Wednesday’s reception. <a href="https://t.co/wtFT41nznO">pic.twitter.com/wtFT41nznO</a></p>&mdash; Glen Robson (@glenrobson) <a href="https://twitter.com/glenrobson/status/998287199656468481?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Other days nothing was officially planned but with a couple of amazing IIIFers, we decided on Thursday to go to Muzette, a nice Korean karaoke with private booths. We hope that when the Presentation API 3.0 will be implemented, that every institution will organize IIIF-based karaokes!
+Other days nothing was officially planned but with a couple of amazing IIIFers, we decided on Thursday to go to Muzette, a nice Korean karaoke with private booths. We hope that when the Presentation API 3.0 will be implemented by institutions, they will organize IIIF-based karaokes!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Taking the new <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> Presentation API 3.0 for a spin <a href="https://t.co/Eqn5SHYTXf">pic.twitter.com/Eqn5SHYTXf</a></p>&mdash; Jack Reed🐧 (@mejackreed) <a href="https://twitter.com/mejackreed/status/999849102807617536?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -223,7 +223,7 @@ Other days nothing was officially planned but with a couple of amazing IIIFers, 
 
 ## IIIF Omnibus (IIIF for All)
 
-The [IIIF Code of Conduct][conduct] states that "IIF is an inclusive, friendly and safe community, committed to openness and transparency in all interactions and activities."
+The [IIIF Code of Conduct][conduct] states that "IIIF is an inclusive, friendly and safe community, committed to openness and transparency in all interactions and activities."
 
  But we still have to do our best to reach out to minority groups and make them feel included.
 
