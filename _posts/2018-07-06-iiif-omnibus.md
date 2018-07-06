@@ -36,8 +36,10 @@ Six weeks* ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif
 
 On the [Monday][2018-monday], we had workshops at the S. Dillon Ripley Center, which is near the Smithsonian Castle. I chose to follow:
 
-- *Train the trainer and IIIF Awesome* in the morning 
+- *Train the Trainer and IIIF Awesome* in the morning 
 - *IIIF and Annotations* in the afternoon
+
+### Train the Trainer
 
 [Jason Ronallo][ronallo], Department Head of Digital Library Initatives at the North Carolina State University (NCSU) Libraries, started his Train the trainer workshop (titled here "[Teaching with IIIF][ronallo-teaching]") by asking participants to consider these five key questions:
 
@@ -55,7 +57,9 @@ We didn't really have time to go though all of Jason's slides before the morning
 
 After the break, Jason talked about the [Awesome IIIF list][awesome-iiif] that is available on GitHub and we went through some issues and pull resquests as a group. I really liked the hands-on approach of [this workshop][ronallo-awesome]. We can also count on new curators of awesome! -- Please join the crew!
 
-After lunch, Matt McGrattan, Head of Digital Library Solutions at [Digirati][digirati], conducted the [IIIF and Annotations][matt-anno] workshop. There wasn't a fixed agenda...
+### IIIF and Annotations
+
+After lunch, Matt McGrattan, Head of Digital Library Solutions at [Digirati][digirati], conducted the [IIIF and Annotations][matt-anno] workshop. There wasn't a fixed agenda,
 
 ## The IIIF Showcase
 
@@ -72,10 +76,12 @@ On a rainy and stormy Tuesday there was a showcase.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/kzwa?ref_src=twsrc%5Etfw">@kzwa</a> acknowleding the intellectual, professional, and emotional labor that goes into community work = fantastic &lt;3 <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a></p>&mdash; oo (@anarchivist) <a href="https://twitter.com/anarchivist/status/998928831712055296?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-After being welcomed by Kate Zwaard, we had our (now) traditional presentation from Tom Cramer (Stanford University)
+After being welcomed by Kate Zwaard, we had our (now) traditional presentation from Tom Cramer, Assistant University Librarian and Chief Technoly Strategist at Stanford University, who didn't miss an opportunity to talk about the cultural heritage sector before (or without) IIIF represented by the silos.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And now the famous Silo image <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> cc <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> <a href="https://t.co/kdkK8qU0Ca">pic.twitter.com/kdkK8qU0Ca</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/998930211537383424?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 
 By the way, the IIIF showcase was recorded and all presentations should be at some point available on the [IIIF Youtube channel][youtube-iiif].
 
