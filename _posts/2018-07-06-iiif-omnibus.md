@@ -38,7 +38,7 @@ And if you don't feel confident enough to read these resources in English, here 
 - in Portuguese
   - [Conhecendo o IIIF — Padrões e ferramentas para publicação de imagens na web][germani-medium] by Leo Germani
 
-_I am sorry about the imbalance between the different blocks. As the conference progressed, I took fewer notes. I hold Washington D.C. and its bars responsible. Also, I  punctuated this post with a lot of tweets and images as I didn't want to bore you._
+_I am sorry about the imbalance between the different blocks. As the conference progressed, I took fewer notes. I hold Washington D.C. and its bars responsible. I  punctuated this post with a lot of tweets and images as I didn't want to bore you (and also because most things are better said by others)._
 
 ## Why I went to the 2018 IIIF Conference
 
@@ -52,7 +52,7 @@ Six weeks* ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif
 
 ## The workshops
 
-On the [Monday][2018-monday], we had workshops at the S. Dillon Ripley Center, which is near the Smithsonian Castle. I chose to follow:
+On the [Monday][2018-monday], we had pre-conference workshops at the S. Dillon Ripley Center, which is near the Smithsonian Castle. I chose to follow:
 
 - *Train the Trainer and IIIF Awesome* in the morning 
 - *IIIF and Annotations* in the afternoon
@@ -122,12 +122,10 @@ Last March, I was in Paris at the IIIF event that Biblissima organised and some 
 The rest of the IIIF Showcase was programmed this way:
 
 - IIIF Community Use cases
-- Panel - What does the future look like with interoperable collections?
+- Panel: What does the future look like with interoperable collections?
 - APIs, viewers and A/V
 - Community, Consortium and fun with IIIF
 - Commercial support and innovations
-
-We had 
 
 By the way, the IIIF showcase was recorded and all presentations should be at some point available on the [IIIF Youtube channel][youtube-iiif].
 
@@ -137,15 +135,24 @@ And when I said "rainy and stormy Tuesday", I wasn't kidding at all. Here is the
 
 ## The 2018 IIIF Conference
 
-Kick-off
+I can't remember the number of partipants who were new to IIIF, that it was actually pretty high for the IIIF Showcase and the proportion was a little bit lower for the Conference.
 
-I can't remember the number of partipants who were new to IIIF, that it was pretty high!
+The first day of the conference happened like Tuesday at the Library of Congress Coolidge Auditorium in the Jefferson Building (plenary) and the two other days in the Madison Building (parallel sessions).
 
 ### Plenary conference on Wednesday, May 23 
 
-Lighting talks that I really enjoyed:
+We started the plenary conference with these two blocks: 
+- IIIF Community Group Updates
+- Technical Sepcification Status Update
+
+For each of these sessions, we had one co-chair per group who talked five to ten minutes and some time for the audience to ask questions at the end. To me, the highlight was of course this great slide from Rob Sanderson talking about cross version usage of IIIF APIs:
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">A fair representation of the <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> editors if you want to use Presentation API 3 manifests with Image API 2 cc <a href="https://twitter.com/azaroth42?ref_src=twsrc%5Etfw">@azaroth42</a> <a href="https://twitter.com/jpstroop?ref_src=twsrc%5Etfw">@jpstroop</a> <a href="https://twitter.com/zimeon?ref_src=twsrc%5Etfw">@zimeon</a> <a href="https://twitter.com/mikeapps?ref_src=twsrc%5Etfw">@mikeapps</a> <a href="https://twitter.com/tomofhernehill?ref_src=twsrc%5Etfw">@tomofhernehill</a> <a href="https://t.co/OPQJVLmqsE">pic.twitter.com/OPQJVLmqsE</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/999294348830429184?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+After the break, the lightning talks started and my goodness these were all great! But again, here are the ones I really appreciated:
  - Emma Stanford's metadata blocks
- - Machine Learning Kyoto
+ - Visualizing which parts of IIIF images are looked by users by Chifumi Nishioka and Kiyonori Nagasaki: 
  - Jack Reed's
  - Marri Nyröp (Columbia University Libraries) gave a great last lightning talk on [Wax, "a minimal IIIF exhibitions with Jekyll"][wax]
 
@@ -155,16 +162,18 @@ Lighting talks that I really enjoyed:
 
 ### Parallel sessions on Thursday and Friday, May 24-25
 
-[TICKS][ticks-zenodo]
-Image and Presentation APIs 3.0
-Miranda
-British Library
+- [TICKS][ticks-zenodo]
+- Image and Presentation APIs 3.0
+- Miranda
+- British Library
 
 All the great presentations from the Showcase and the Conference can be found in a [dedicated directory][2018-presentations] of the IIIF Google Drive.
 
 ## Receptions and other great social activities
 
-On Tuesday, we the chance to go to the Folger Shakespeare  for a wine reception with light fare (light? They served an excellent and large buffet) just after the IIIF Showcase. Before going to the reception, I went back to my airbnb, changed my soaked clothes and eventually decided that I should always have an umbrella by my side!
+On Tuesday, we the chance to go to the Folger Shakespeare  for a wine reception with light fare (light? They served an excellent and large buffet) just after the IIIF Showcase. 
+
+Before going to the reception, I went back to my airbnb, changed my soaked clothes and eventually decided that I should always have an umbrella by my side!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And finally, last but certainly not least the Folger Shakespeare Library. Location of the Tuesday Showcase reception. <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> Washington Conference. <a href="https://t.co/IARt7bzshD">pic.twitter.com/IARt7bzshD</a></p>&mdash; Glen Robson (@glenrobson) <a href="https://twitter.com/glenrobson/status/998303611858903040?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -177,7 +186,7 @@ On Wednesday, we had a really great reception at the Smithsonian Castle (well no
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just walking round some of the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> conference venues. This is the amazing Smithsonian Castle location of Wednesday’s reception. <a href="https://t.co/wtFT41nznO">pic.twitter.com/wtFT41nznO</a></p>&mdash; Glen Robson (@glenrobson) <a href="https://twitter.com/glenrobson/status/998287199656468481?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Other days nothing was officially planned but with a couple of amazing IIIFers, we decided on Thursday to go to Muzette, a nice Korean karaoke with private booths. 
+Other days nothing was officially planned but with a couple of amazing IIIFers, we decided on Thursday to go to Muzette, a nice Korean karaoke with private booths. We hope that when the Presentation API 3.0 will be implemented, that every institution will organize IIIF-based karaokes!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Taking the new <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> Presentation API 3.0 for a spin <a href="https://t.co/Eqn5SHYTXf">pic.twitter.com/Eqn5SHYTXf</a></p>&mdash; Jack Reed🐧 (@mejackreed) <a href="https://twitter.com/mejackreed/status/999849102807617536?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -189,7 +198,7 @@ Other days nothing was officially planned but with a couple of amazing IIIFers, 
 
 The [IIIF Code of Conduct][conduct] states that "IIF is an inclusive, friendly and safe community, committed to openness and transparency in all interactions and activities."
 
- But we still have to keep in mind to 
+ But we still have to do our best to reach out to minority groups and make them feel included.
 
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So happy that <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> said that diversity and inclusion is essential for the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community in his closing remarks at the conference. Hoping we can keep that goal in mind for structural support at next year&#39;s conference.</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/1000113372380135424?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -199,7 +208,7 @@ In order to spread the good word of IIIF, we need as a community to organise as 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Conclusion de la conférence <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> 2018 <a href="https://twitter.com/librarycongress?ref_src=twsrc%5Etfw">@librarycongress</a> par <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a>, incitation à organiser des événements <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> régionaux, à l&#39;image de <a href="https://twitter.com/biblissima?ref_src=twsrc%5Etfw">@biblissima</a> en mars dernier à Paris au <a href="https://twitter.com/CampusCondorcet?ref_src=twsrc%5Etfw">@CampusCondorcet</a> <a href="https://t.co/EST2mLeeYT">pic.twitter.com/EST2mLeeYT</a></p>&mdash; Régis Robineau (@regisrob) <a href="https://twitter.com/regisrob/status/1000058783320694786?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-A IIIF Community Group for archives
+A IIIF Community Group for archives will probably come to life by the end of the year. Some information in the last IIIF newsletter: <http://iiif.io/news/2018/07/03/newsletter/>
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There was a critical mass of interest in starting a <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community group focused on archives. <a href="https://twitter.com/anarchivist?ref_src=twsrc%5Etfw">@anarchivist</a> volunteered to convene an ad hoc discussion to explore group scope and charter; stay tuned and dial in!</p>&mdash; Tom Cramer (@tcramer) <a href="https://twitter.com/tcramer/status/999746656471060480?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
