@@ -20,7 +20,7 @@ date: 2018-07-06 13:15:00 +0100
 
 ![2018 IIIF Logo][2018iiif]
 
-_Work in progress_
+_I am sorry about the imbalance between the different blocks. As the conference progressed, I took fewer notes. I hold Washington D.C. and its bars responsible._
 
 ## Why I went to the 2018 IIIF Conference
 
@@ -51,7 +51,7 @@ On the [Monday][2018-monday], we had workshops at the S. Dillon Ripley Center, w
 
 I sadly didn't take any notes, but there should be a couple of things that I should be able to recall! Jason and other participants (Emma Stanford from the University of Oxford's [Bodleian Libraries][digital-bod], Sophie Dixon from [Mnemoscene][mnemo], and someone I can't remember) shared with us their experience and gave us their tips as well as ideas on how to run training sessions around IIIF. It was a great 
 
-I really like the visual aspect of Jason's [new version of the workshop][ronallo-workshop] which contains tips, checkmarks, copy-paste fallbacks as well as bonus material and challenge exercices. For the latter, I see it as a real added value because if it's already hard to manage participants who are in difficulty, it is even more chanllenging (in my opinion) to satisfy people who find the exercises too easy and who might get bored. Emma suggested to create ready-to-go toolkits such as HTML5 templates (pointing to an instance of Mirador) for academics who don't have time to understand how to publish IIIF manifests. Sophie talked about her experience on how Omeka can enhance accessibility of smaller archives project, notably with the integration of the [Universal Viewer][uv].
+I really like the visual aspect of Jason's [new version of the workshop][ronallo-workshop] which contains tips, checkmarks, copy-paste fallbacks as well as bonus material and challenge exercices. For the latter, I see it as a real added value because if it's already hard to manage participants who are in difficulty, it is even more challenging (in my opinion) to satisfy people who find the exercises too easy and who might get bored. Emma suggested to create ready-to-go toolkits such as HTML5 templates (pointing to an instance of Mirador) for academics who don't have time to understand how to publish IIIF manifests. Sophie talked about her experience on how Omeka can enhance accessibility of smaller archives project, notably with the integration of the [Universal Viewer][uv].
 
 We didn't really have time to go though all of Jason's slides before the morning break. I would have liked it to be slightly longer but I reckon that we did cover most aspects of the workshop. I wonder if next time people could simulate a part of a lesson/worksho/seminar on IIIF.
 
@@ -59,7 +59,21 @@ After the break, Jason talked about the [Awesome IIIF list][awesome-iiif] that i
 
 ### IIIF and Annotations
 
-After lunch, Matt McGrattan, Head of Digital Library Solutions at [Digirati][digirati], conducted the [IIIF and Annotations][matt-anno] workshop. There wasn't a fixed agenda,
+After lunch, Matt McGrattan, Head of Digital Library Solutions at [Digirati][digirati], conducted the [IIIF and Annotations][matt-anno] workshop. I chose to do this one in the afternoon because I really want to understand how institutions and inviduals want to implement an annotations server and how they want the annotations to be curated.
+
+There wasn't a fixed agenda (as stated in <https://mattmcgrattan.github.io/Washington%20Annotation%20Workshop/Agenda.html>) but here were the different (and possible) topics that this workshop encompassed:
+
+- IIIF & Annotations 
+- W3C Model and Protocol
+- Annotation Servers & Clients
+- Show & Tell
+- Use Cases
+- Problems
+- Cookbook
+
+ It was a very interesting session where some participants talked about their [use cases][anno-usecases] and the way they want annotations to be handled within the IIIF ecosystem in terms of user experience, authentication, discovery and notification, preservation and versioning, as well as semantics aspects.
+
+ I really liked the emphasis on user experience (who wouldn't?) and I am curious to see if the IIIF Community could provide enough good recipes around annotations in the cookbook. :point_right: please add any cookbook entries here: <https://github.com/IIIF/api/issues/1409>. 
 
 ## The IIIF Showcase
 
@@ -164,6 +178,7 @@ _Also, I recommend AXNO on Florida Avenue, they have great ciders._
 
 
 [2018iiif]: https://julsraemy.github.io/assets/images/2018iiif.png
+[anno-usecases]: https://docs.google.com/document/d/16l2YoU4Portp5E89YEYMs_t0w48aBQut9Y0KjU-TnPs/edit
 [dc-stroll]: https://julsraemy.github.io/assets/images/dc-stroll.png
 [digirati]: https://digirati.com/
 [digital-bod]: http://digital.bodleian.ox.ac.uk/
