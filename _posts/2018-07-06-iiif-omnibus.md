@@ -15,10 +15,12 @@ tags:
   - Library and Information Science
   - Digital Humanities
   - TICKS
-date: 2018-07-06 16:15:00 +0100
+date: 2018-07-06 15:52:00 +0100
 ---
 
 ![2018 IIIF Logo][2018iiif]
+
+## Foreword
 
 Hello there! Here is small blog post about the 2018 IIIF Conference which I had the chance to attend. The event took place in Washington D.C. between May 21 and 25 and was jointly hosted by the Library of Congress, the Smithsonian Institution, and the Folger Shakespeare Library. 
 
@@ -129,9 +131,16 @@ The rest of the IIIF Showcase was programmed this way:
 
 By the way, the IIIF showcase was recorded and all presentations should be at some point available on the [IIIF Youtube channel][youtube-iiif].
 
+During the entire Showcase, we had two American Sign Language (ASL) interpreters and I was fascinated. I was obvisously not the only person.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The two unsung hero’s of <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> today are the two indefatigable ASL interpreters — we talk often about invisible labour, it’s been seriously impressive watching them all day!! <a href="https://t.co/7Ssi6omtLm">pic.twitter.com/7Ssi6omtLm</a></p>&mdash; Anne McLaughlin (@anmcl001) <a href="https://twitter.com/anmcl001/status/999028865052880896?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 And when I said "rainy and stormy Tuesday", I wasn't kidding at all. Here is the video that Tom Cramer captured near the Library of Congress just after the IIIF Showcase: 
 
 <iframe width="320" height="568" src="https://julsraemy.github.io/assets/videos/DCRain_Cramer.mov" frameborder="0" allowfullscreen></iframe>
+
+_All the great presentations from the Showcase and the Conference can be found in a [dedicated directory][2018-presentations] of the IIIF Google Drive._
 
 ## The 2018 IIIF Conference
 
@@ -141,7 +150,7 @@ The first day of the conference happened like Tuesday at the Library of Congress
 
 ### Plenary conference on Wednesday, May 23 
 
-We started the plenary conference with these two blocks: 
+On [Wednesday][2018-wed], we started the plenary conference with these two blocks: 
 - IIIF Community Group Updates
 - Technical Sepcification Status Update
 
@@ -151,23 +160,43 @@ For each of these sessions, we had one co-chair per group who talked five to ten
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 After the break, the lightning talks started and my goodness these were all great! But again, here are the ones I really appreciated:
- - Emma Stanford's metadata blocks
- - Visualizing which parts of IIIF images are looked by users by Chifumi Nishioka and Kiyonori Nagasaki: 
- - Jack Reed's
- - Marri Nyröp (Columbia University Libraries) gave a great last lightning talk on [Wax, "a minimal IIIF exhibitions with Jekyll"][wax]
+ - Emma Stanford's Packing Light: Building the Bodleian's metadata block :point_right: I like the emphasis on best practices on how metadata manifests should look like once displayed in a IIIF viewer 
+ - Visualizing which parts of IIIF images are looked by users by Chifumi Nishioka (Kyoto University) and Kiyonori Nagasaki (University of Tokyo) :point_right: I really loved the use of heatmaps. It was a very interesting machine learning study conducted by the two Japanese universities.
+ - Going beyond the viewer by Jack Reed (Stanford University) :point_right: who wouldn't want to have high-resolution maps on their Apple TV?
+ - GLAM2IIIF: Papering over the cataloguing gaps by Richard Palmer (Victoria and Albert Museum) :point_right: I mean what the V&A does always amazes me and also Richard found great titles to each of his slides.
+ - Marri Nyröp (Columbia University Libraries) gave a great last lightning talk on [Wax, "a minimal IIIF exhibitions with Jekyll"][wax] :point_right: Great ways for students and small institutions to create a IIIF-compliant website and to learn how to use git
 
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Final talk of the day: <a href="https://twitter.com/mariinyrop?ref_src=twsrc%5Etfw">@mariinyrop</a> on wax and &quot;minimal <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a>&quot;. wax produces static scholarly exhibitions w/ minimal computing principles--chimes w/ <a href="https://twitter.com/danieltbrennan?ref_src=twsrc%5Etfw">@danieltbrennan</a>&#39;s and <a href="https://twitter.com/tomofhernehill?ref_src=twsrc%5Etfw">@tomofhernehill</a>&#39;s talks.</p>&mdash; Emma Stanford (@e_stanf) <a href="https://twitter.com/e_stanf/status/999388653246967808?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 ### Parallel sessions on Thursday and Friday, May 24-25
 
-- [TICKS][ticks-zenodo]
-- Image and Presentation APIs 3.0
-- Miranda
-- British Library
+On [Thursday][2018-thursday], I was pretty nervous as I was the first to present [TICKS][ticks-zenodo], my little project on how to persuade Swiss institutions to go IIIF, in the Dining Room A. 
 
-All the great presentations from the Showcase and the Conference can be found in a [dedicated directory][2018-presentations] of the IIIF Google Drive.
+After my presentation, I went mostly the ones that the editors convened (let's ratify, hell yeah!):
+
+- Discussion of Process to Register IIIF API Extensions
+- Discussion and Ratification of Version 3.0 Image and Presentation APIs
+
+Here are the [notes][notes-dc] of these sessions.
+
+In the afternoon, I also went to the A/V presentations in the Montpelier room, especially to listen to my mate Andy and the way the British Library will handle the massive audiovisual collection they have.
+
+On [Friday][2018-friday], I was naturally a little bit sad as it was the last day of a great (and mostly sunny and warm) conference. Because I had some trouble with my credit card, I actually missed most of the presentations and managed to see just the end of "Implementing all of the APIs, lessons learned and challenges tackled" in the Dining Room A. 
+
+I went then to the Montpelier room again to witness three great presentations:
+
+- ‘All the World’s a Stage’: Diverse case studies for IIIF at the Folger Shakespeare Library by Stacey Redick and Meaghan Brown :point_right: I really like the different use cases and user stories that the Folger have come up with to enhance Miranda, their platform to "rule them all" 
+- Improving Access to Primary Sources of Law with IIIF by Mark Matney (University of California, Los Angeles) :point_right: intersting use of Ocracoke to build proof of concept of IIIF in the context of legal documents
+- Beyond the viewer: more windows on our shared digital space by Tom Crane (Digirati) :point_right: amazing presentation about Digirati's Canvas Panel creating "the IIIF round trip experience" which is so better explained by its author in [this blog post][crane-beyond]
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/staceyrdk?ref_src=twsrc%5Etfw">@staceyrdk</a> and <a href="https://twitter.com/EpistolaryBrown?ref_src=twsrc%5Etfw">@EpistolaryBrown</a> and their &quot;simple list of use cases&quot; <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> <a href="https://twitter.com/FolgerLibrary?ref_src=twsrc%5Etfw">@FolgerLibrary</a> <a href="https://t.co/BVDHAJLMZS">pic.twitter.com/BVDHAJLMZS</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/1000033779476549632?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Due to Memoriay Day Weekend in the USA, the conference closed at lunch time. Some of us went to have a look at the Library of Congress wonders. We were guided by one very knowledgeable LoC staff member (I can't remember his name though). 
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Here are some of the pictures I took at <a href="https://twitter.com/librarycongress?ref_src=twsrc%5Etfw">@librarycongress</a> during the tour following the 2018 <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> Conference <a href="https://t.co/uZLKXtUHtk">pic.twitter.com/uZLKXtUHtk</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/1000107564305174528?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 ## Receptions and other great social activities
 
@@ -223,7 +252,7 @@ When I discover a new place, I like to do it on foot and as a European, I always
 
 _Also, I recommend AXNO on Florida Avenue, they have great ciders._  
 
-
+[notes-dc]: https://drive.google.com/drive/folders/1SsRYr7wQ5F3ZweoSjoAufcj20jKQkuxh
 [conduct]: http://iiif.io/event/conduct/
 [silos-to-iiif]: https://julsraemy.github.io/assets/images/silos_to_iiif.gif
 [germani-medium]: https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36
@@ -264,3 +293,4 @@ _Also, I recommend AXNO on Florida Avenue, they have great ciders._
 [uv]: http://universalviewer.io/
 [youtube-iiif]: https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA
 [wax]: http://marii.info/projects/wax
+[crane-beyond]: https://medium.com/@tom.crane/beyond-the-viewer-fragments-and-links-in-annotation-space-b3284e25f34
