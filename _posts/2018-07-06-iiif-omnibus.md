@@ -113,6 +113,9 @@ After being welcomed by Kate Zwaard, we had our (now) traditional presentation f
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And now the famous Silo image <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> cc <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> <a href="https://t.co/kdkK8qU0Ca">pic.twitter.com/kdkK8qU0Ca</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/998930211537383424?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Last March, I was in Paris at the IIIF event that Biblissima organised and some IIIFers thought it'd be a good idea to create a gif. Here is my small contribution (with images taken from presentations given by many individuals from the IIIF community):
+
+![Breaking silos with IIIF][silos-to-iiif]
 
 
 By the way, the IIIF showcase was recorded and all presentations should be at some point available on the [IIIF Youtube channel][youtube-iiif].
@@ -200,6 +203,8 @@ When I discover a new place, I like to do it on foot and as a European, I always
 
 _Also, I recommend AXNO on Florida Avenue, they have great ciders._  
 
+
+[silos-to-iiif]: https://julsraemy.github.io/assets/images/silos_to_iiif.gif
 [germani-medium]: https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36
 [dcrain]: https://julsraemy.github.io/assets/videos/DCRain_Cramer.mov
 [iiif-mdz]: https://www.digitale-sammlungen.de/index.html?c=iiif-info&l=de
