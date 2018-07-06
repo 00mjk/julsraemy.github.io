@@ -113,9 +113,15 @@ After being welcomed by Kate Zwaard, we had our (now) traditional presentation f
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And now the famous Silo image <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> cc <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> <a href="https://t.co/kdkK8qU0Ca">pic.twitter.com/kdkK8qU0Ca</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/998930211537383424?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+Here is the link to the Silo picture (_Grain elevators, Calwell, Idaho_ by Russell Lee taken in 1941): <https://www.flickr.com/photos/library_of_congress/2178285893> (which is held at the Library of Congress!)
+
 Last March, I was in Paris at the IIIF event that Biblissima organised and some IIIFers thought it'd be a good idea to create a gif. Here is my small contribution (with images taken from presentations given by many individuals from the IIIF community):
 
 ![Breaking silos with IIIF][silos-to-iiif]
+
+And I also created this (little more scary) version on Giphy: 
+
+<iframe src="https://giphy.com/embed/2wSJCOsWq3fNKbjgth" width="480" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/api-silos-iiif-2wSJCOsWq3fNKbjgth">via GIPHY</a></p>
 
 
 By the way, the IIIF showcase was recorded and all presentations should be at some point available on the [IIIF Youtube channel][youtube-iiif].
