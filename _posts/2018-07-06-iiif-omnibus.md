@@ -119,7 +119,7 @@ By the way, the IIIF showcase was recorded and all presentations should be at so
 
 And when I said "rainy and stormy Tuesday", I wasn't kidding at all. Here is the video that Tom Cramer captured near the Library of Congress just after the IIIF Showcase: 
 
-<iframe width="420" height="315" src="https://julsraemy.github.io/assets/videos/DCRain_Cramer.mov" frameborder="0" allowfullscreen></iframe>
+<iframe width="320" height="568" src="https://julsraemy.github.io/assets/videos/DCRain_Cramer.mov" frameborder="0" allowfullscreen></iframe>
 
 ## The 2018 IIIF Conference
 
