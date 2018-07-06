@@ -1,5 +1,5 @@
 ---
-title: "IIIF Omnibus - looking back to the 2018 IIIF Conference in Washington D.C."
+title: "IIIF Omnibus - looking back at the 2018 IIIF Conference in Washington D.C."
 excerpt: "The 2018 IIIF Conference took place in Washington D.C. between May 21 and 25. It was co-hosted by the Library of Congress, the Simthsonian Institution, and the Folger Shakespeare Library. In this blogpost are listed some of my best highlights of the conference."
 toc: true
 toc_label: "Table of Contents"
@@ -111,6 +111,8 @@ Image and Presentation APIs 3.0
 Miranda
 British Library
 
+All the great presentations from the Showcase and the Conference can be found in a [dedicated directory][2018-presentations] of the IIIF Google Drive.
+
 ## Receptions and other great social activities
 
 On Tuesday, May 22, ... My goodness, this is beautiful
@@ -134,7 +136,7 @@ The karaoke - With a couple of amazing IIIFers
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-## "IIIF to all"
+## IIIF Omnibus (IIIF for All)
 
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So happy that <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> said that diversity and inclusion is essential for the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community in his closing remarks at the conference. Hoping we can keep that goal in mind for structural support at next year&#39;s conference.</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/1000113372380135424?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
