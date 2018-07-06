@@ -185,6 +185,7 @@ _Also, I recommend AXNO on Florida Avenue, they have great ciders._
 
 
 [intro-iiif]: https://iiif.github.io/training/intro-to-iiif/
+[intro-crane]: https://resources.digirati.com/iiif/an-introduction-to-iiif/ 
 [2018iiif]: https://julsraemy.github.io/assets/images/2018iiif.png
 [anno-usecases]: https://docs.google.com/document/d/16l2YoU4Portp5E89YEYMs_t0w48aBQut9Y0KjU-TnPs/edit
 [dc-stroll]: https://julsraemy.github.io/assets/images/dc-stroll.png
