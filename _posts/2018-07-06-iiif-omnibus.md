@@ -15,7 +15,7 @@ tags:
   - Library and Information Science
   - Digital Humanities
   - TICKS
-date: 2018-07-06 13:15:00 +0100
+date: 2018-07-06 16:15:00 +0100
 ---
 
 ![2018 IIIF Logo][2018iiif]
@@ -27,7 +27,7 @@ If you've never heard of the [International Image Interoperability Framework][ii
 - [Getting started with IIIF][intro-iiif], originally presented by Jack Reed and Drew Winget (Stanford University) during a workshop at the 2017 Code4Lib Conference in Los Angeles, CA
 - [An introduction to IIIF][intro-crane] by Tom Crane, Technical Director at Digirati and one of the IIIF Editors.
 
-And if you don't feel confident enough to read these resources in English, here are a couple of things in other languages:
+And if you don't feel confident enough to read these resources in English, here are a couple of things in three other languages:
 
 - in German
   - [An introduction to IIIF][iiif-german] by Rafael Schwemmer from text&bytes 
@@ -36,7 +36,7 @@ And if you don't feel confident enough to read these resources in English, here 
   - [Introduction à IIIF][iiif-biblissima] and [Comprendre IIIF et l’interopérabilité des bibliothèques numériques][comprendre-iiif] by Régis Robineau from Biblissima
   - [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi-iiif] and [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-iiif] by myself
 - in Portuguese
-  - 
+  - [Conhecendo o IIIF — Padrões e ferramentas para publicação de imagens na web][germani-medium] by Leo Germani
 
 _I am sorry about the imbalance between the different blocks. As the conference progressed, I took fewer notes. I hold Washington D.C. and its bars responsible._
 
@@ -119,7 +119,7 @@ By the way, the IIIF showcase was recorded and all presentations should be at so
 
 And when I said "rainy and stormy Tuesday", I wasn't kidding at all. Here is the video that Tom Cramer captured near the Library of Congress just after the IIIF Showcase: 
 
-![Rain in Washington D.C.][dcrain]
+<iframe width="420" height="315" src="https://julsraemy.github.io/assets/videos/DCRain_Cramer.mov" frameborder="0" allowfullscreen></iframe>
 
 ## The 2018 IIIF Conference
 
@@ -200,6 +200,7 @@ When I discover a new place, I like to do it on foot and as a European, I always
 
 _Also, I recommend AXNO on Florida Avenue, they have great ciders._  
 
+[germani-medium]: https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36
 [dcrain]: https://julsraemy.github.io/assets/videos/DCRain_Cramer.mov
 [iiif-mdz]: https://www.digitale-sammlungen.de/index.html?c=iiif-info&l=de
 [arodes-iiif]: http://arodes.hes-so.ch/record/2394
