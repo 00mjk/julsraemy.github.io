@@ -38,7 +38,7 @@ And if you don't feel confident enough to read these resources in English, here 
 - in Portuguese
   - [Conhecendo o IIIF — Padrões e ferramentas para publicação de imagens na web][germani-medium] by Leo Germani
 
-_I am sorry about the imbalance between the different blocks. As the conference progressed, I took fewer notes. I hold Washington D.C. and its bars responsible._
+_I am sorry about the imbalance between the different blocks. As the conference progressed, I took fewer notes. I hold Washington D.C. and its bars responsible. Also, I  punctuated this post with a lot of tweets and images as I didn't want to bore you._
 
 ## Why I went to the 2018 IIIF Conference
 
@@ -127,7 +127,7 @@ The rest of the IIIF Showcase was programmed this way:
 - Community, Consortium and fun with IIIF
 - Commercial support and innovations
 
-
+We had 
 
 By the way, the IIIF showcase was recorded and all presentations should be at some point available on the [IIIF Youtube channel][youtube-iiif].
 
@@ -164,7 +164,7 @@ All the great presentations from the Showcase and the Conference can be found in
 
 ## Receptions and other great social activities
 
-On Tuesday, May 22, ... My goodness, this is beautiful
+On Tuesday, we the chance to go to the Folger Shakespeare  for a wine reception with light fare (light? They served an excellent and large buffet) just after the IIIF Showcase. Before going to the reception, I went back to my airbnb, changed my soaked clothes and eventually decided that I should always have an umbrella by my side!
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And finally, last but certainly not least the Folger Shakespeare Library. Location of the Tuesday Showcase reception. <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> Washington Conference. <a href="https://t.co/IARt7bzshD">pic.twitter.com/IARt7bzshD</a></p>&mdash; Glen Robson (@glenrobson) <a href="https://twitter.com/glenrobson/status/998303611858903040?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -172,29 +172,29 @@ On Tuesday, May 22, ... My goodness, this is beautiful
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">IIIF会議のレセプション。Folger Shakespeare Library. <a href="https://t.co/yZ1LJJcFX0">pic.twitter.com/yZ1LJJcFX0</a></p>&mdash; Center for Open Data in the Humanities (CODH) (@rois_codh) <a href="https://twitter.com/rois_codh/status/999179543574470656?ref_src=twsrc%5Etfw">May 23, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+On Wednesday, we had a really great reception at the Smithsonian Castle (well not a castle by European standards, but still a very beautiful and impressive mansion I reckon).
 
-On Wednesday, May 23, ...
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Just walking round some of the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> conference venues. This is the amazing Smithsonian Castle location of Wednesday’s reception. <a href="https://t.co/wtFT41nznO">pic.twitter.com/wtFT41nznO</a></p>&mdash; Glen Robson (@glenrobson) <a href="https://twitter.com/glenrobson/status/998287199656468481?ref_src=twsrc%5Etfw">May 20, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-The karaoke - With a couple of amazing IIIFers
+Other days nothing was officially planned but with a couple of amazing IIIFers, we decided on Thursday to go to Muzette, a nice Korean karaoke with private booths. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Taking the new <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> Presentation API 3.0 for a spin <a href="https://t.co/Eqn5SHYTXf">pic.twitter.com/Eqn5SHYTXf</a></p>&mdash; Jack Reed🐧 (@mejackreed) <a href="https://twitter.com/mejackreed/status/999849102807617536?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I think “IIIce IIIce Baby” is the official song of the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> karaoke community.</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/999839801712013312?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
 ## IIIF Omnibus (IIIF for All)
 
-"IIIF is an inclusive, friendly and community, committed to penness and transparency in all interactions and activities."
+The [IIIF Code of Conduct][conduct] states that "IIF is an inclusive, friendly and safe community, committed to openness and transparency in all interactions and activities."
 
- what we should 
+ But we still have to keep in mind to 
 
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So happy that <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> said that diversity and inclusion is essential for the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community in his closing remarks at the conference. Hoping we can keep that goal in mind for structural support at next year&#39;s conference.</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/1000113372380135424?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Regional events! 
+In order to spread the good word of IIIF, we need as a community to organise as many regional events as possible! 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="fr" dir="ltr">Conclusion de la conférence <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> 2018 <a href="https://twitter.com/librarycongress?ref_src=twsrc%5Etfw">@librarycongress</a> par <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a>, incitation à organiser des événements <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> régionaux, à l&#39;image de <a href="https://twitter.com/biblissima?ref_src=twsrc%5Etfw">@biblissima</a> en mars dernier à Paris au <a href="https://twitter.com/CampusCondorcet?ref_src=twsrc%5Etfw">@CampusCondorcet</a> <a href="https://t.co/EST2mLeeYT">pic.twitter.com/EST2mLeeYT</a></p>&mdash; Régis Robineau (@regisrob) <a href="https://twitter.com/regisrob/status/1000058783320694786?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -215,6 +215,7 @@ When I discover a new place, I like to do it on foot and as a European, I always
 _Also, I recommend AXNO on Florida Avenue, they have great ciders._  
 
 
+[conduct]: http://iiif.io/event/conduct/
 [silos-to-iiif]: https://julsraemy.github.io/assets/images/silos_to_iiif.gif
 [germani-medium]: https://medium.com/ecologiadigital/conhecendo-o-iiif-padr%C3%B5es-e-ferramentas-para-publica%C3%A7%C3%A3o-de-imagens-na-web-a62af62a1b36
 [dcrain]: https://julsraemy.github.io/assets/videos/DCRain_Cramer.mov
