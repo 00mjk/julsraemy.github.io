@@ -119,9 +119,14 @@ Last March, I was in Paris at the IIIF event that Biblissima organised and some 
 
 ![Breaking silos with IIIF][silos-to-iiif]
 
-And I also created this (little more scary) version on Giphy: 
+The rest of the IIIF Showcase was programmed this way:
 
-<iframe src="https://giphy.com/embed/2wSJCOsWq3fNKbjgth" width="480" height="233" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/api-silos-iiif-2wSJCOsWq3fNKbjgth">via GIPHY</a></p>
+- IIIF Community Use cases
+- Panel - What does the future look like with interoperable collections?
+- APIs, viewers and A/V
+- Community, Consortium and fun with IIIF
+- Commercial support and innovations
+
 
 
 By the way, the IIIF showcase was recorded and all presentations should be at some point available on the [IIIF Youtube channel][youtube-iiif].
