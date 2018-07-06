@@ -20,6 +20,11 @@ date: 2018-07-06 13:15:00 +0100
 
 ![2018 IIIF Logo][2018iiif]
 
+Hello there! Here is small blog post about the 2018 IIIF Conference which I had the chance to attend. If you've never heard of the International Image Interoperability Framework (IIIF - pronounced "triple-eye-eff"), I recommend you take a look at these two very useful resources:
+
+- [Getting started with IIIF][intro-iiif], originally presented by Jack Reed and Drew Winget (Stanford University) during a workshop at the 2017 Code4Lib Conference in Los Angeles, CA
+- [An introduction to IIIF][intro-crane] by Tom Crane, Technical Director at Digirati and one of the IIIF editors.
+
 _I am sorry about the imbalance between the different blocks. As the conference progressed, I took fewer notes. I hold Washington D.C. and its bars responsible._
 
 ## Why I went to the 2018 IIIF Conference
@@ -168,15 +173,18 @@ A IIIF Community Group for archives
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There was a critical mass of interest in starting a <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community group focused on archives. <a href="https://twitter.com/anarchivist?ref_src=twsrc%5Etfw">@anarchivist</a> volunteered to convene an ad hoc discussion to explore group scope and charter; stay tuned and dial in!</p>&mdash; Tom Cramer (@tcramer) <a href="https://twitter.com/tcramer/status/999746656471060480?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-## Strolling around Washington D.C. (Bonus)
+To conclude, I would like to thank this fantastic community full of amazing people. But I would especially like to thank Glen Robson who does a wonderful job as the IIIF Technical Coordinator.
 
-When I discover a new place, I like to do it on foot and as a European, I always find that neat city street systems like grid plan or quadrant are fascinating, especially in North America, Australia, and let's be fair some European cities (such as Lisbon). Only in those cities would a walk with three street changes can take you about 50 minutes.
+## Bonus: Strolling around Washington D.C.
+
+When I discover a new place, I like to do it on foot and as a European, I always find that neat city street systems like grid plan or quadrant are fascinating, especially in North America, Australia, and let's be fair some European cities (such as Lisbon). Only in those cities would a walk with three street changes can take you about 50 minutes. :walking:
 
 ![DC Stroll][dc-stroll]
 
 _Also, I recommend AXNO on Florida Avenue, they have great ciders._  
 
 
+[intro-iiif]: https://iiif.github.io/training/intro-to-iiif/
 [2018iiif]: https://julsraemy.github.io/assets/images/2018iiif.png
 [anno-usecases]: https://docs.google.com/document/d/16l2YoU4Portp5E89YEYMs_t0w48aBQut9Y0KjU-TnPs/edit
 [dc-stroll]: https://julsraemy.github.io/assets/images/dc-stroll.png
