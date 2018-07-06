@@ -15,7 +15,7 @@ tags:
   - Library and Information Science
   - Digital Humanities
   - TICKS
-date: 2018-07-07 16:15:00 +0100
+date: 2018-07-06 13:15:00 +0100
 ---
 
 ![2018 IIIF Logo][2018iiif]
@@ -31,14 +31,6 @@ Six weeks* ago I was in Washington D.C. for the [2018 IIIF Conference][2018-iiif
 3. I love the social events and informal activities happening around this community. :beers: 
 
 *Note: By the way, it took me four weeks to finish this small blog post. So the introduction used to be "three weeks ago..."*
-
-## Strolling around Washington D.C.
-
-When I discover a new place, I like to do it on foot and as a European, I always find that neat city street systems like grid plan or quadrant are fascinating, especially in North America, Australia, and let's be fair some European cities (such as Lisbon). Only in those cities would a walk with three street changes can take you about 50 minutes.
-
-![DC Stroll][dc-stroll]
-
-_Also, I recommend AXNO on Florida Avenue, they have great ciders._  
 
 ## The workshops
 
@@ -69,7 +61,7 @@ After lunch, Matt McGrattan, Head of Digital Library Solutions at [Digirati][dig
 
 On a rainy and stormy Tuesday there was a showcase. 
 
-[The IIIF Showcase][2018-tuesday] was a free event that took place in the Library of Congress Coolidge Auditorium. [Kate Zwaard][kzwa], Director of Digital Strategy at the LoC, opened the showcase by giving a great speach on how the IIIF ecosystem could empower end users. She also acknowledged the great work done by institutions and inviduals from the IIIF community.
+[The IIIF Showcase][2018-tuesday] was a free event that took place in the Library of Congress Coolidge Auditorium on May 22. [Kate Zwaard][kzwa], Director of Digital Strategy at the LoC, opened the showcase by giving a great speach on how the IIIF ecosystem could empower end users. She also acknowledged the great work done by institutions and inviduals from the IIIF community. 
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/kzwa?ref_src=twsrc%5Etfw">@kzwa</a> introduces the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> showcase <a href="https://t.co/hIuGrfoLvL">pic.twitter.com/hIuGrfoLvL</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/998927548959555584?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -80,11 +72,12 @@ On a rainy and stormy Tuesday there was a showcase.
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">.<a href="https://twitter.com/kzwa?ref_src=twsrc%5Etfw">@kzwa</a> acknowleding the intellectual, professional, and emotional labor that goes into community work = fantastic &lt;3 <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a></p>&mdash; oo (@anarchivist) <a href="https://twitter.com/anarchivist/status/998928831712055296?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-Silo!! Tom Cramer
+After being welcomed by Kate Zwaard, we had our (now) traditional presentation from Tom Cramer (Stanford University)
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">And now the famous Silo image <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> cc <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> <a href="https://t.co/kdkK8qU0Ca">pic.twitter.com/kdkK8qU0Ca</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/998930211537383424?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+By the way, the IIIF showcase was recorded and all presentations should be at some point available on the [IIIF Youtube channel][youtube-iiif].
 
 ## The 2018 IIIF Conference
 
@@ -106,7 +99,7 @@ Lighting talks that I really enjoyed:
 
 ### Parallel sessions on Thursday and Friday, May 24-25
 
-TICKS
+[TICKS][ticks-zenodo]
 Image and Presentation APIs 3.0
 Miranda
 British Library
@@ -138,6 +131,10 @@ The karaoke - With a couple of amazing IIIFers
 
 ## IIIF Omnibus (IIIF for All)
 
+"IIIF is an inclusive, friendly and community, committed to penness and transparency in all interactions and activities."
+
+ what we should 
+
  <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">So happy that <a href="https://twitter.com/tcramer?ref_src=twsrc%5Etfw">@tcramer</a> said that diversity and inclusion is essential for the <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community in his closing remarks at the conference. Hoping we can keep that goal in mind for structural support at next year&#39;s conference.</p>&mdash; Object-Oriented Pokémontology (@anarchivist) <a href="https://twitter.com/anarchivist/status/1000113372380135424?ref_src=twsrc%5Etfw">May 25, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -150,6 +147,14 @@ A IIIF Community Group for archives
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">There was a critical mass of interest in starting a <a href="https://twitter.com/hashtag/iiif?src=hash&amp;ref_src=twsrc%5Etfw">#iiif</a> community group focused on archives. <a href="https://twitter.com/anarchivist?ref_src=twsrc%5Etfw">@anarchivist</a> volunteered to convene an ad hoc discussion to explore group scope and charter; stay tuned and dial in!</p>&mdash; Tom Cramer (@tcramer) <a href="https://twitter.com/tcramer/status/999746656471060480?ref_src=twsrc%5Etfw">May 24, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+## Strolling around Washington D.C. (Bonus)
+
+When I discover a new place, I like to do it on foot and as a European, I always find that neat city street systems like grid plan or quadrant are fascinating, especially in North America, Australia, and let's be fair some European cities (such as Lisbon). Only in those cities would a walk with three street changes can take you about 50 minutes.
+
+![DC Stroll][dc-stroll]
+
+_Also, I recommend AXNO on Florida Avenue, they have great ciders._  
 
 
 [2018iiif]: https://julsraemy.github.io/assets/images/2018iiif.png
@@ -176,4 +181,5 @@ A IIIF Community Group for archives
 [awesome-iiif]: https://github.com/IIIF/awesome-iiif
 [kzwa]: https://twitter.com/kzwa
 [uv]: http://universalviewer.io/
+[youtube-iiif]: https://www.youtube.com/channel/UClcQIkLdYra7ZnOmMJnC5OA
 [wax]: http://marii.info/projects/wax
