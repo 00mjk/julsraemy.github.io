@@ -136,7 +136,7 @@ During the entire Showcase, we had two American Sign Language (ASL) interpreters
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The two unsung hero’s of <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a> today are the two indefatigable ASL interpreters — we talk often about invisible labour, it’s been seriously impressive watching them all day!! <a href="https://t.co/7Ssi6omtLm">pic.twitter.com/7Ssi6omtLm</a></p>&mdash; Anne McLaughlin (@anmcl001) <a href="https://twitter.com/anmcl001/status/999028865052880896?ref_src=twsrc%5Etfw">May 22, 2018</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-And when I said "rainy and stormy Tuesday", I wasn't kidding at all. Go see this video that Tom Cramer captured near the Library of Congress just after the IIIF Showcase: <https://julsraemy.github.io/assets/videos/DCRain_Cramer.mov>
+And when I said "rainy and stormy Tuesday", I wasn't kidding at all. Go see [this video][dcrain] that Tom Cramer captured near the Library of Congress just after the IIIF Showcase.
 
 _All the great presentations from the Showcase and the Conference can be found in a [dedicated directory][2018-presentations] of the IIIF Google Drive._
 
