@@ -18,9 +18,9 @@ date: 2019-02-07 12:00:42 +0100
 
 ## 15.05.2019 - Save the date!
 
-On Wednesday, May 15, 2019, from 9:30 am to 4:45 pm, a IIIF Showcase Event will take place in the Dürrenmatt room of the Swiss National Library in Bern. This event is organized as part of the [Towards IIIF-Compliance Knowledge in Switzerland (TICKS)][ticks-rg] project.
+On Wednesday, May 15, 2019, from 9:30 am to 4:45 pm, a IIIF Showcase Event will take place in the Dürrenmatt room of the Swiss National Library in Bern. This event is organised as part of the [Towards IIIF-Compliance Knowledge in Switzerland (TICKS)][ticks-rg] project.
 
-Presentations will be conducted in English by representatives of international and Swiss organizations. We will have the chance to have the following people presenting:
+Presentations will be conducted in English by representatives of international and Swiss organisations. We will have the chance to have the following people presenting:
 
 - Glen Robson (IIIF-Consortium)
 - Antoine Isaac (Europeana)
@@ -40,13 +40,13 @@ This Showcase Event will be divided into four main sessions consisting of presen
 3. IIIF in Switzerland
 4. How to better implement and promote IIIF 
 
-After general introductions to IIIF, representatives of European organisations will talk about their role as data aggregators, discuss a case study on medieval manuscripts as well as work on the preservation and dissemination of audio-visual resources at the British Library (such as the [Save our Sounds project][sos]). 
+After general introductions to IIIF, representatives of European organisations will talk about their role as cultural heritage data aggregators, discuss a case study on medieval manuscripts as well as work on the preservation and dissemination of audio-visual resources at the British Library (such as the [Save our Sounds project][sos]). 
 
-Thirdly, the developments of IIIF in Switzerland will highlight the work of different platforms that will comply or that have complied with the specifications, such as [e-newspaperarchives.ch][news] and [e-manuscripta][manuscripta]. For the latter platform, [a small video that demonstrated some interoperability potential][video-emanuscripta] with the Universal Viewer and the Mirador was made in July 2018. 
+Thirdly, the developments of IIIF in Switzerland will highlight the work of different platforms that will comply or that have recently complied with the specifications (IIIF Image and Presentation APIs), such as [e-newspaperarchives.ch][news] and [e-manuscripta][manuscripta]. For the latter platform, [a small video that demonstrated some interoperability potential][video-emanuscripta] with the Universal Viewer and the Mirador was made in July 2018. 
 
 Then, there will also be a demonstration of the work of a Digital Humanities Lab and their use of IIIF. At the end of the event, there will be a presentation of [IIIF360][iiif360], a service that supports and promotes IIIF in France. This will hopefully give participants ideas during the break-out sessions to reflect on how to better implement IIIF, especially in Swiss institutions.  
 
-:eyes: Have a look at the [draft programme][programme].
+:eyes: Have a look at the [draft programme][programme]. :eyes:
 
 ## Registration
 
