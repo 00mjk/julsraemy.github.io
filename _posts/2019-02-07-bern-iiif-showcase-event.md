@@ -40,9 +40,13 @@ This Showcase Event will be divided into four main sessions consisting of presen
 3. IIIF in Switzerland
 4. How to better implement and promote IIIF 
 
-After general introductions to IIIF, representatives of European organisations will talk about their role as data aggregators, discuss a case study on medieval manuscripts as well as work on the preservation and dissemination of audio-visual resources at the British Library (such as the [Save our Sounds project][sos]). Thirdly, the developments of IIIF in Switzerland will highlight the work of different platforms that will comply or that have complied with the specifications, such as [e-newspaperarchives.ch][news] and [e-manuscripta][[manuscripta]. For the latter platform, [a small video that demonstrated some interoperability potential][video-emanuscripta] with the Universal Viewer and the Mirador was made in July 2018. Then, there will also be a demonstration of the work of a Digital Humanities Lab and their use of IIIF. At the end of the event, there will be a presentation of [IIIF360][iiif360], a service that supports and promotes IIIF in France. This will hopefully give participants ideas during the break-out sessions to reflect on how to better implement IIIF, especially in Swiss institutions.  
+After general introductions to IIIF, representatives of European organisations will talk about their role as data aggregators, discuss a case study on medieval manuscripts as well as work on the preservation and dissemination of audio-visual resources at the British Library (such as the [Save our Sounds project][sos]). 
 
-Have a look at the draft programme: <https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/bern_iiif_showcase_programme.pdf>
+Thirdly, the developments of IIIF in Switzerland will highlight the work of different platforms that will comply or that have complied with the specifications, such as [e-newspaperarchives.ch][news] and [e-manuscripta][[manuscripta]. For the latter platform, [a small video that demonstrated some interoperability potential][video-emanuscripta] with the Universal Viewer and the Mirador was made in July 2018. 
+
+Then, there will also be a demonstration of the work of a Digital Humanities Lab and their use of IIIF. At the end of the event, there will be a presentation of [IIIF360][iiif360], a service that supports and promotes IIIF in France. This will hopefully give participants ideas during the break-out sessions to reflect on how to better implement IIIF, especially in Swiss institutions.  
+
+:eyes: Have a look at the [draft programme][programme].
 
 ## Registration
 
@@ -55,6 +59,7 @@ Registrations will be open from March 1st on the following link: <https://campus
 [iiif360]: https://projet.biblissima.fr/en/resources/iiif-360
 [news]: https://www.e-newspaperarchives.ch/
 [manuscripta]: https://www.e-manuscripta.ch/ 
+[programme]: https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/bern_iiif_showcase_programme.pdf
 [sos]: https://www.bl.uk/projects/save-our-sounds
 [ticks-rg]: https://www.researchgate.net/project/Towards-IIIF-Compliance-Knowledge-in-Switzerland-TICKS
 [ticks-logo]: https://julsraemy.github.io/assets/images/ticks.png
