@@ -18,7 +18,7 @@ date: 2019-02-07 12:00:42 +0100
 
 ## 15.05.2019 - Save the date!
 
-On Wednesday, May 15, 2019, from 9:30 am to 4:45 pm, a [IIIF][iiif] Showcase Event will take place in the Dürrenmatt room of the Swiss National Library in Bern. This event is organised as part of the [Towards IIIF-Compliance Knowledge in Switzerland (TICKS)][ticks-rg] project.
+On Wednesday, May 15, 2019, from 9:15am to 5pm, a [IIIF][iiif] Showcase Event will take place in the Dürrenmatt room of the Swiss National Library in Bern. This event is organised as part of the [Towards IIIF-Compliance Knowledge in Switzerland (TICKS)][ticks-rg] project.
 
 Presentations will be conducted in English by representatives of international and Swiss organisations. We will have the chance to have the following people presenting:
 
@@ -29,6 +29,7 @@ Presentations will be conducted in English by representatives of international a
 - Florian Steffen (Swiss National Library)
 - Alexa Renggli (Zentralbibliothek Zürich)
 - Maud Ehrmann (Ecole Polytechnique Fédérale de Lausanne)
+- Fabian Würtz (Schweizerisches Sozialarchiv)
 - Régis Robineau (Biblissima, Campus Condorcet, Ecole Pratique des Hautes Etudes-Paris Sciences & Lettres)
 
 ## Four-session event
