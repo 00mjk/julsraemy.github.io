@@ -37,6 +37,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 ## Organizations
 
 **International Image Interoperability Framework (IIIF)**
+- Since February 2019: IIIF [Technical Review Committee][trc] Community Representative
 - Since January 2018: IIIF [Outreach Community Group][outreach] Co-Chair
 - Since September 2017: IIIF [Code of Conduct][coc] Team Member
 
@@ -53,6 +54,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Education
 
+- 2018-2020 (expected): **Master of Science in Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2013-2017: **Bachelor of Science in Library and Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2010-2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the Ecole professionnelle artisanale et commerciale (EPAC)
 - 2005-2008: **Federal Certificate of Vocational Education of Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
@@ -60,23 +62,22 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 ## Projects
 
 - Since March 2018: Towards IIIF-Compliance Knowledge in Switzerland [(TICKS)][ticks]
-- Since June 2017: Identités de confiance pour les données de l’art et du design [(ICOPAD)][icopad]
+- June 2017-December 2018: Identités de confiance pour les données de l’art et du design [(ICOPAD)][icopad]
 
 ## Presentations
 
+-2018.05.24: [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][zenodo-ticks]. *Zenodo*. 2018 IIIF Conference. Library of Congress, Washington D.C.
 - 2018.03.27: [Midi-AGBD][midi-agbd], Uni Mail Genève - "Midi-AGBD avec Julien Antoine Raemy, co-lauréat du Prix romand en bibliothéconomie 2017 – présentation de son travail de Bachelor"
 - 2017.11.09: [Séminaire en bibliothéconomie][seminaire], Haute école de gestion de Genève - *Présentation brève de IIIF et du travail de bachelor*
 - 2017.06.09: [2017 IIIF Conference][vatican-prezi], Vatican City - *Usability testing conducted on the UV and Mirador*
 
 ## Publications
-
-1. RAEMY, Julien A. [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][zenodo-ticks]. *Zenodo*. 2018 IIIF Conference. Library of Congress, Washington D.C. 24 May 2018.
-2. RAEMY, Julien A. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
-3. RAEMY, Julien A. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
-4. RAEMY, Julien A. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
-5. RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
-6. RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
-
+ 
+- RAEMY, Julien A. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
+- RAEMY, Julien A. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
+- RAEMY, Julien A. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
+- RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
+- RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
 
 ## Awards
 
@@ -88,7 +89,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [ressi1]: http://www.ressi.ch/num18/article_142
 [ressi2]: http://www.ressi.ch/num18/article_143
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
-[tb]: http://doc.rero.ch/record/306498
+[tb]: https://doc.rero.ch/record/306498/
 [midi-agbd]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
 [romand]: https://www.agbd.ch/prix-romand-en-bibliotheconomie/
 [seminaire]: https://www.slideshare.net/JulienARaemy/prsentation-brve-de-iiif-et-du-travail-de-bachelor-sminaire-en-bibliothconomie-hegge
@@ -100,5 +101,6 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [dhlab]: http://dhlab.unibas.ch/
 [icopad]: http://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
 [ticks]: http://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
+[trc]: https://iiif.io/community/trc/
 [arodes-ht]: https://hesso.tind.io/record/2394
 [zenodo-ticks]: https://doi.org/10.5281/zenodo.1252084
