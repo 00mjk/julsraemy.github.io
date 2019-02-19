@@ -36,27 +36,24 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Organizations
 
-### International Image Interoperability Framework (IIIF)
+### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
 - Since February 2019: IIIF [Technical Review Committee][trc] Community Representative
 - Since January 2018: IIIF [Outreach Community Group][outreach] Co-Chair
 - Since September 2017: IIIF [Code of Conduct][coc] Team Member
 
-### Bibliosuisse
+### Bibliosuisse [:link:][bibliosuisse]
 *formerly "Bibliothèque Information Suisse" (BIS)*
-[:link:][bibliosuisse]
 
 - Since March 2014: Member
 
-### Fri-Son
-[:link:][fri-son]
+### Fri-Son [:link:][fri-son]
 
 - Since October 2010: Member
 - September 2013 - July 2016: Bar Manager
 - September 2010 - August 2013: Bartender
 
-### Association des amis de la Maison d'Ailleurs (AMDA)
-[:link:][amda]
+### Association des amis de la Maison d'Ailleurs (AMDA) [:link:][amda]
 
 - Since January 2008: Member 
 
@@ -99,6 +96,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 [amda]: http://www.ailleurs.ch/en/amda/
 [bibliosuisse]: https://bibliosuisse.ch/
+[iiif]: https://iiif.io/
 [idcc-19]: https://doi.org/10.5281/zenodo.2415995
 [blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
 [fri-son]: https://fri-son.ch/
