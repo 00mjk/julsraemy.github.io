@@ -66,7 +66,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Presentations
 
--2018.05.24: [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][zenodo-ticks]. *Zenodo*. 2018 IIIF Conference. Library of Congress, Washington D.C.
+- 2018.05.24: [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][zenodo-ticks]. *Zenodo*. 2018 IIIF Conference. Library of Congress, Washington D.C.
 - 2018.03.27: [Midi-AGBD][midi-agbd], Uni Mail Genève - "Midi-AGBD avec Julien Antoine Raemy, co-lauréat du Prix romand en bibliothéconomie 2017 – présentation de son travail de Bachelor"
 - 2017.11.09: [Séminaire en bibliothéconomie][seminaire], Haute école de gestion de Genève - *Présentation brève de IIIF et du travail de bachelor*
 - 2017.06.09: [2017 IIIF Conference][vatican-prezi], Vatican City - *Usability testing conducted on the UV and Mirador*
@@ -93,8 +93,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [midi-agbd]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
 [romand]: https://www.agbd.ch/prix-romand-en-bibliotheconomie/
 [seminaire]: https://www.slideshare.net/JulienARaemy/prsentation-brve-de-iiif-et-du-travail-de-bachelor-sminaire-en-bibliothconomie-hegge
-[coc]: http://iiif.io/event/conduct/
-[outreach]: http://iiif.io/community/groups/outreach/
+[coc]: https://iiif.io/event/conduct/
+[outreach]: https://iiif.io/community/groups/outreach/
 [heg]: https://www.hesge.ch/heg/
 [mmc]: https://metamedia.epfl.ch/
 [mjhl]: http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/

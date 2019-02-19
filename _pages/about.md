@@ -17,7 +17,9 @@ Then, I worked here and there before I decided that it was time to travel again 
 
 Between September 2013 and July 2017, I undertook on a part-time basis a Bachelor in Library and Information Science (LIS) at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg] in Geneva, Switzerland. Between January 2015 and the end of my bachelor's degree, I was also  working for the [EPFL’s MetaMedia Center][metamedia] as a Photo Archivist for the Montreux Jazz Digital Project. I really enjoyed to work and study at the same time.
 
-Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id_assistanat] for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I help him to coordinate the bilingual curriculum in LIS (French/German). 
+Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id_assistanat] for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I help him to coordinate the bilingual curriculum in LIS (French/German).
+
+Since September 2018, I started a [Master's degree in Information Science][master-is] in addition to my work. This programme is expected to end in August 2020.
 
 Have a look at my [CV](../cv/) for further information about my background, my projects and my publications
 
@@ -31,4 +33,5 @@ This website is about my work, views and expectations on information retrieval, 
 [bilingue_id_assistanat]: http://campus.hesge.ch/id_bilingue/kontakt/assistenz_fr.asp
 [bilingue_id_projets]: http://campus.hesge.ch/id_bilingue/projekte/index_fr.asp
 [metamedia]: https://metamedia.epfl.ch/
-[iiif]: http://iiif.io/
+[master-is]: https://www.hesge.ch/heg/formation-base/masters-science/master-en-sciences-linformation
+[iiif]: https://iiif.io/
