@@ -47,6 +47,10 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 - Since March 2014: Member
 
+### Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD) [:link:][agbd]
+
+- Since May 2018: Member
+
 ### Fri-Son [:link:][fri-son]
 
 - Since October 2010: Member
@@ -66,8 +70,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Projects
 
-- Since March 2018: Towards IIIF-Compliance Knowledge in Switzerland [(TICKS)][ticks]
-- June 2017-December 2018: Identités de confiance pour les données de l’art et du design [(ICOPAD)][icopad]
+- Since March 2018: Towards IIIF-Compliance Knowledge in Switzerland (TICKS) [:link:][ticks]
+- June 2017-December 2018: Identités de confiance pour les données de l’art et du design (ICOPAD) [:link:][icopad]
 
 ## Publications
  
@@ -94,6 +98,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
+[agbd]: https://www.agbd.ch/
 [amda]: http://www.ailleurs.ch/en/amda/
 [bibliosuisse]: https://bibliosuisse.ch/
 [iiif]: https://iiif.io/
