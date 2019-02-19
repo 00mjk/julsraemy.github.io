@@ -64,26 +64,34 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - Since March 2018: Towards IIIF-Compliance Knowledge in Switzerland [(TICKS)][ticks]
 - June 2017-December 2018: Identités de confiance pour les données de l’art et du design [(ICOPAD)][icopad]
 
-## Presentations
-
-- 2018.05.24: [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][zenodo-ticks]. *Zenodo*. 2018 IIIF Conference. Library of Congress, Washington D.C.
-- 2018.03.27: [Midi-AGBD][midi-agbd], Uni Mail Genève - "Midi-AGBD avec Julien Antoine Raemy, co-lauréat du Prix romand en bibliothéconomie 2017 – présentation de son travail de Bachelor"
-- 2017.11.09: [Séminaire en bibliothéconomie][seminaire], Haute école de gestion de Genève - *Présentation brève de IIIF et du travail de bachelor*
-- 2017.06.09: [2017 IIIF Conference][vatican-prezi], Vatican City - *Usability testing conducted on the UV and Mirador*
-
 ## Publications
  
-- RAEMY, Julien A. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
-- RAEMY, Julien A. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
-- RAEMY, Julien A. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
+- RAEMY, Julien Antoine. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
+- RAEMY, Julien Antoine. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
+- RAEMY, Julien Antoine. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
 - RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
-- RAEMY, Julien A., FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
+- RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
+
+## Presentations
+
+- SCHNEIDER, René and RAEMY, Julien Antoine. [Towards Trusted Identities for Swiss Researchers  and their Data][idcc-19]. *14th International Digital Curation Conference (IDCC)*. Melbourne, Australia. 6 February 2019.
+- RAEMY, Julien Antoine. [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][zenodo-ticks]. *2018 IIIF Conference*. Library of Congress, Washington D.C. 24 May 2018.
+- RAEMY, Julien Antoine. [The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions][midi-agbd]. *Midi-AGBD - Prix romand en bibliothéconomie 2017*. Université de Genève, Site Uni Mail. 27 March 2018.
+- RAEMY, Julien Antoine. [Présentation brève de IIIF et du travail de bachelor][seminaire]. *Séminaire en bibliothéconomie*. Haute école de gestion de Genève. 9 November 2017.
+- Raemy, Julien Antoine. [Usability testing conducted on the UV and Mirador][vatican-prezi], *2017 IIIF Conference*. Augustinianum, The Vatican City. 5 June 2017. 
+
+
+## Posts
+
+- RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018. 
 
 ## Awards
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
 [amda]: http://www.ailleurs.ch/en/amda/
+[idcc-19]: https://doi.org/10.5281/zenodo.2415995
+[blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
 [fri-son]: https://fri-son.ch/
 [archiving]: https://doi.org/10.2352/issn.2168-3204.2017.1.0.68
 [ressi1]: http://www.ressi.ch/num18/article_142
@@ -99,8 +107,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [mmc]: https://metamedia.epfl.ch/
 [mjhl]: http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/
 [dhlab]: http://dhlab.unibas.ch/
-[icopad]: http://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
-[ticks]: http://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
+[icopad]: https://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
+[ticks]: https://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
 [trc]: https://iiif.io/community/trc/
 [arodes-ht]: https://hesso.tind.io/record/2394
 [zenodo-ticks]: https://doi.org/10.5281/zenodo.1252084
