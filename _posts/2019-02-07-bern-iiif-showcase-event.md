@@ -51,7 +51,7 @@ Then, there will also be a demonstration of the work of a Digital Humanities Lab
 
 ## Registration
 
-Registrations will be open from March 1st on the following link: <https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html>. In the meantime, don't forget to mark this date in your agenda. The capacity will be approximately 70 people. The participation fee is CHF 50 (including lunch and snacks during breaks). Students will benefit from a discount of 50% discount (subject to change).
+Registrations will be open from March 1st on the following link: <https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html>. In the meantime, don't forget to mark this date in your agenda. The capacity will be approximately 80 people. The participation fee is CHF 70 per person (lunch and snacks during breaks included). The reduced price for students is CHF 40. 
 
 *Swiss National Library, Hallwylstrasse 15, CH-3003 Bern, Switzerland*
 
