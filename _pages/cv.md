@@ -86,7 +86,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Swiss institutions climbing up the IIIF ladder][ticks-19]. *2019 IIIF Conference*. Alte Mensa, Georg-August-Universität, Göttingen, Germany. 26 June 2019. DOI 10.5281/zenodo.3238161
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Assigning persistent identifiers to art and design entities][vkks]. *Fourth Swiss Congress for Art History, Quid pro quo: linked data in art history research. VKKS 2019*. Accademia di architettura, Mendrisio, Switzerland. 7 June 2019. DOI 10.5281/zenodo.3241453
-- SCHNEIDER, René and RAEMY, Julien Antoine. [Towards Trusted Identities for Swiss Researchers  and their Data][idcc-19]. *14th International Digital Curation Conference (IDCC)*. Melbourne, Australia. 6 February 2019.
+- SCHNEIDER, René and RAEMY, Julien Antoine. [Towards Trusted Identities for Swiss Researchers  and their Data][idcc-19]. *14th International Digital Curation Conference (IDCC)*. Melbourne, Australia. 6 February 2019. DOI 10.5281/zenodo.2415996
 - RAEMY, Julien Antoine. [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][ticks-18]. *2018 IIIF Conference*. Library of Congress, Washington D.C. 24 May 2018. DOI 10.5281/zenodo.1252084
 - RAEMY, Julien Antoine. [The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions][midi-agbd]. *Midi-AGBD - Prix romand en bibliothéconomie 2017*. Université de Genève, Site Uni Mail. 27 March 2018.
 - RAEMY, Julien Antoine. [Présentation brève de IIIF et du travail de bachelor][seminaire]. *Séminaire en bibliothéconomie*. Haute école de gestion de Genève. 9 November 2017.
