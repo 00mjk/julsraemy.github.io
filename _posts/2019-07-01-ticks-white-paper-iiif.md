@@ -42,6 +42,7 @@ This post focuses on the following four sections:
 (...)
 
 ![TICKS Logo][ticks-steps]
+An SVG version of the IIIF step-by-step platform can be found [on the Zenodo platform](https://zenodo.org/record/2640416/files/RAEMY_SCHNEIDER_TICKS_IIIF%20Step-by-Step_v1_1_logos.svg?download=1) as well as here: <https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/step_by_step.svg>. 
 
 ### Use cases and suggested measures
 
@@ -60,7 +61,7 @@ Since this document could not have been produced without the help of the wider I
 
 ### A possible follow-up project
 
-(...)
+I am thinking about how to carry out a follow-up project and see which institutions would be interested in a TICKS V2 while also relying on the results of the break-out session that happened during the Bern IIIF Showcase event on May 15th (presentations and notes of this event can be found at the following URL address: <http://bit.ly/iiifbern>). The event participants were particularly interested in a platform that would guide institutions wishing to implement IIIF based somewhat on the French approach provided by Biblissima, known as [IIIF360](https://projet.biblissima.fr/en/resources/iiif-360).  
 
 [ticks-wp]: https://doi.org/10.5281/zenodo.2640415 
 [ticks-rg]: https://www.researchgate.net/project/Towards-IIIF-Compliance-Knowledge-in-Switzerland-TICKS
