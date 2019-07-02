@@ -24,9 +24,11 @@ This short blog post provides information on the main components of the white pa
 
 ## Main components 
 
-The white paper starts with the main principles of the IIIF, notably indicating the [different technical specifications](https://iiif.io/api/), or application programming interfaces (APIs), produced by the IIIF community as well as the platforms of Swiss projects or institutions that have deployed IIIF. Going from general to specific, a generic IIIF step-by-step graph and six more precise use cases reflecting different needs of the GLAM (Galleries, Libraries, Archives, Museums) sector giving implementation measures have been produced. 
+### Abstract's abstract
 
-Finally, the document contains recommendations for further action as well as some information on the possible reuse of this document for other regions of the world or for other scientific fields.
+_The white paper starts with the main principles of the IIIF, notably indicating the [different technical specifications](https://iiif.io/api/), or application programming interfaces (APIs), produced by the [IIIF community](https://iiif.io/community/) as well as the platforms of Swiss projects or institutions that have deployed IIIF. Going from general to specific, a generic [IIIF step-by-step graph](https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/step_by_step.svg) and six more precise use cases reflecting different needs of the GLAM (Galleries, Libraries, Archives, Museums) sector giving implementation measures have been produced._ 
+
+_Finally, the document contains recommendations for further action as well as some information on the possible reuse of this document for other regions of the world or for other scientific fields._
 
 This post focuses on the following four sections: 
 
@@ -34,13 +36,6 @@ This post focuses on the following four sections:
 - IIIF step-by-step
 - Use cases and suggested measures
 - Further recommendations 
-
-<iframe
-   class="preview-iframe"
-   id="preview-iframe"
-   width="100%"
-   height="400"
-  src="https://zenodo.org/record/2640416/preview/RAEMY_SCHNEIDER_Suggested_measures_IIIF_TICKS_whitepaper_v1.pdf"></iframe>
 
 ### The IIIF ecosystem
 
