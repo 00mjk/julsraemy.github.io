@@ -28,6 +28,12 @@ _The white paper starts with the main principles of the IIIF, notably indicating
 
 _Finally, the document contains recommendations for further action as well as some information on the possible reuse of this document for other regions of the world or for other scientific fields._
 
+### Friedrich Washbar
+
+The first version of the TICKS white paper is called 'Friedrich Washbar'. It was so named because we had the IIIF event in the Friedrich Dürrenmatt room of the Swiss National Library and because we found a place called the Washbar...
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/iiifbern?src=hash&amp;ref_src=twsrc%5Etfw">#iiifbern</a> post-event drinks (but we do have discussion about <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a>) <a href="https://t.co/AVzEdQlw1m">pic.twitter.com/AVzEdQlw1m</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/1128690845228703744?ref_src=twsrc%5Etfw">May 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 ## Main components 
 
 This post focuses on the following four sections: 
@@ -41,32 +47,48 @@ This post focuses on the following four sections:
 
 The first important part of the white paper is called "The IIIF ecosystem" and attempts to answer the following questions:  **what, who, where and when?**. 
 
+In this section, the usual introductions (the IIIF community, APIs, compatible software, etc.) have been integrated. It should be noted, however, that this part is in fact relatively short. To overcome this, small red boxes with a IIIF logo containing useful links are scattered throughout the white paper.
+
 ![wp-ecosystem][wp-ecosystem]
 
 ### IIIF step-by-step
 
-(...)
+The IIIF step-by-step diagram gives a generic approach to implement IIIF, which mainly takes into account the instructions up to the implementation of the Presentation API.
 
 ![TICKS Logo][ticks-steps]
 
-An SVG version of the IIIF step-by-step diagram can be found [on the Zenodo platform](https://zenodo.org/record/2640416/files/RAEMY_SCHNEIDER_TICKS_IIIF%20Step-by-Step_v1_1_logos.svg?download=1) as well as here: <https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/step_by_step.svg>. 
+An SVG version of the IIIF step-by-step diagram can be downloaded [on the Zenodo platform](https://zenodo.org/record/2640416/files/RAEMY_SCHNEIDER_TICKS_IIIF%20Step-by-Step_v1_1_logos.svg?download=1) or can be viewed at the following URL: <https://campus.hesge.ch/id_bilingue/projekte/ticks/assets/step_by_step.svg>. 
 
 ### Use cases and suggested measures
 
-(...)
+This section answers the following questions: "to whom and how?". There are of course some biases in the recommendations, for example software or the way to create IIIF Manifests.
 
-![wp-usecases][wp-usescases]
+The six case studies in the white paper are as follows:
+
+1. A  platform  specialised  in  the  description and dissemination of  images of  ancient  books  and manuscripts seeking to adapt to IIIF specifications.
+2. A  researcher  wanting  to  create her/hisown  IIIF  manifests   with  images   from  various institutions (and publish them on her/his own website).
+3. A museum seeking to deploy a IIIF-compliant annotation server to enable their end-users to have a richer experience.
+4. A  newspaper  project  seeking  to  disseminate  its  journals  by  allowing  users  to  navigate  by publication date or issue number directly on a IIIF-compliant viewer.
+5. An archive that needs to publish its digitised resources in accordance with the classification of the collection while restricting access to sensitive resources.
+6. A platform mainly dedicated to the diffusion of audio-visual materials showing interest in the IIIF Presentation API 3.0.
+
+Each use case is divided into five parts and is composed of the following elements: 1) context, background, tier, implementation effort, APIs to implement, 2) success story, 3) recommendations, 4) useful links, 5) IIIF point of contact such as on the IIIF Community or Technical Specification Groups.
+
+![wp-usecases][wp-usecases]
 
 ### Further recommendations
 
-(...)
+For almost all institutions, IIIF is often included in a broader spectrum and it is necessary to imagine that the use cases or the implementation of specifications within a system is much more complex. That is why a section titled "further recommendations" has been created. It contains the following subsections:  
 
-Tips for small institutions, Discovering the IIIF universe, Persistent identifiers (PIDs), The IIIF Cookbook
+* Tips for small institutions
+* Discovering the IIIF universe
+* Persistent identifiers (PIDs)
+* The IIIF Cookbook
 
 ![wp-further][wp-further]
 
 ## Perspectives
-### TICKS White paper - future versions
+### TICKS white paper - future versions
 
 The purpose of this white paper is to be updated as regularly as possible when technical specifications change, for instance, or even to be adapted to other regions or scientific disciplines. It would also be very useful to translate parts or the entire document into the Swiss official languages (German, French, Italian).
 
@@ -90,7 +112,7 @@ The number of IIIF-compliant systems in Switzerland should also increase when Im
 
 ### Communicating IIIF to end-users
 
-It is worth noting that the white paper is intended for GLAM institutions (or rather members of these institutions) who would like to implement IIIF, whether at the organisational level, at a project level or even for individual needs.
+It is worth noting that the white paper is intended for GLAM institutions (or rather members of these institutions) who would like to implement IIIF, whether at the organisational level, at a project level or even for individual needs. It has been conceived as well for those who have just implemented IIIF or wish to do so in the near future.
 
 The needs of end-users are only slightly addressed in this document. There is a lack of documentation within the IIIF community to communicate directly the benefits of the framework without going into too much technical detail. Some institutions (e. g. Yale or the University of Cambridge) have nevertheless started to integrate IIIF into pedagogical training courses without necessarily talking about APIs right away or even without talking about IIIF (or at least not in the title of the training).  
 
