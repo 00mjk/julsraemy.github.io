@@ -30,6 +30,8 @@ _Finally, the document contains recommendations for further action as well as so
 
 ### Friedrich Washbar
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2640416.svg)](https://doi.org/10.5281/zenodo.2640416)
+
 The first version of the TICKS white paper is called 'Friedrich Washbar'. It was so named because we had the IIIF event in the Friedrich Dürrenmatt room of the Swiss National Library and because we found a place called the Washbar...
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/iiifbern?src=hash&amp;ref_src=twsrc%5Etfw">#iiifbern</a> post-event drinks (but we do have discussion about <a href="https://twitter.com/hashtag/IIIF?src=hash&amp;ref_src=twsrc%5Etfw">#IIIF</a>) <a href="https://t.co/AVzEdQlw1m">pic.twitter.com/AVzEdQlw1m</a></p>&mdash; Julien A. Raemy (@julsraemy) <a href="https://twitter.com/julsraemy/status/1128690845228703744?ref_src=twsrc%5Etfw">May 15, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
