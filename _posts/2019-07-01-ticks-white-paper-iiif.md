@@ -40,7 +40,7 @@ This post focuses on the following four sections:
    id="preview-iframe"
    width="100%"
    height="400"
-   src="https://hesso.tind.io/record/3607/files/Published%20version.pdf"></iframe>
+  src="https://zenodo.org/record/2640416/preview/RAEMY_SCHNEIDER_Suggested_measures_IIIF_TICKS_whitepaper_v1.pdf"></iframe>
 
 ### The IIIF ecosystem
 
