@@ -41,6 +41,8 @@ This post focuses on the following four sections:
 
 The first important part of the white paper is called "The IIIF ecosystem" and attempts to answer the following questions:  **what, who, where and when?**. 
 
+![wp-ecosystem][wp-ecosystem]
+
 ### IIIF step-by-step
 
 (...)
@@ -53,9 +55,15 @@ An SVG version of the IIIF step-by-step diagram can be found [on the Zenodo plat
 
 (...)
 
+![wp-usecases][wp-usescases]
+
 ### Further recommendations
 
 (...)
+
+Tips for small institutions, Discovering the IIIF universe, Persistent identifiers (PIDs), The IIIF Cookbook
+
+![wp-further][wp-further]
 
 ## Perspectives
 ### TICKS White paper - future versions
@@ -63,6 +71,22 @@ An SVG version of the IIIF step-by-step diagram can be found [on the Zenodo plat
 The purpose of this white paper is to be updated as regularly as possible when technical specifications change, for instance, or even to be adapted to other regions or scientific disciplines. It would also be very useful to translate parts or the entire document into the Swiss official languages (German, French, Italian).
 
 Since this document could not have been produced without the help of the wider IIIF community, they would also have to support me with a new version. One way to help me is to comment directly on the Google Doc version: <http://bit.ly/wpticks>. 
+
+### IIIF in Switzerland
+
+For the moment (and to my knowledge), there are eight IIIF-compatible Swiss platforms: 
+
+* [e-codices](https://e-codices.ch/), the Virtual Manuscript Library of Switzerland, 2263 IIIF Manifests
+* [e-manuscripta](https://www.e-manuscripta.ch/), the digital platform for manuscripts material from Swiss libraries and archives, more than 80,000 IIIF Manifests
+* [e-rara](https://www.e-rara.ch/), the platform for digitised rare books from Swiss libraries, more than 70,000 IIIF Manifests
+* [e-newspaperarchives.ch](https://www.e-newspaperarchives.ch/), collections of digitised Swiss newspapers, 32 public domain titles comprising 280,000 IIIF Manifests
+* [Fragmentarium](https://fragmentarium.ms/), Digital Research Laboratory for Medieval Manuscript Fragments, 882 IIIF Manifests
+* [Bodmer Lab](https://bodmerlab.unige.ch/), "Une bibliothèque numérique de la littérature mondiale", more than 800 IIIF Manifests (manuscripts and printed books)
+* [Plume EPFL](https://plume.epfl.ch/), "collections patrimoniales numérisées de la Bibliothèque de l'EPFL" (precious books, published between the 15th and the 18th centuries, and kept in the EPFL Library), 68 IIIF Manifests (in the future about 600 digitised books will be available on the platform)
+
+![IIIF in Switzerland][map-switzerland]
+
+The number of IIIF-compliant systems in Switzerland should also increase when Image and Presentation APIs 3.x become stable, since it will allow to disseminate audio-visualresources through this medium. It will indeed be interesting to see which organisations will start to take an interest in it and how the IIIF universe can grow. In a nutshell, I would like to see more dots in the above map.
 
 ### Communicating IIIF to end-users
 
@@ -78,3 +102,7 @@ I am thinking about how to carry out a follow-up project and see which instituti
 
 [ticks-logo]: https://julsraemy.github.io/assets/images/ticks.png
 [ticks-steps]: https://julsraemy.github.io/assets/images/iiif-step-by-step.jpg
+[map-switzerland]: https://julsraemy.github.io/assets/images/iiif-map-switzerland.png 
+[wp-ecosystem]: https://julsraemy.github.io/assets/images/wp-ecosystem.png
+[wp-usecases]: https://julsraemy.github.io/assets/images/wp-usecases.png
+[wp-further]: https://julsraemy.github.io/assets/images/wp-further.png
