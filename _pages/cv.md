@@ -39,8 +39,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 ### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
 - Since February 2019: IIIF [Technical Review Committee][trc] Community Representative
-- Since January 2018: IIIF [Outreach Community Group][outreach] Co-Chair
-- Since September 2017: IIIF [Code of Conduct][coc] Team Member
+- January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
+- September 2017 - September 2019: IIIF [Code of Conduct][coc] Team Member
 
 ### Bibliosuisse [:link:][bibliosuisse]
 *formerly "Bibliothèque Information Suisse" (BIS)*
