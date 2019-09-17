@@ -70,14 +70,16 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Projects
 
-- March 2018 to February 2019: Towards IIIF-Compliance Knowledge in Switzerland (TICKS) [:link:][ticks]
-- June 2017 to December 2018: Identités de confiance pour les données de l’art et du design (ICOPAD) [:link:][icopad]
+- March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) [:link:][ticks]
+- June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
 ## Workshops, assignments and mandates
 
-- 5 December 2018: The role of the Swiss National Library in the digital society (_Rolle der National Bibliothek in der digitalen Gesellschaft_) - presentations, moderation of the workshop and summary of the results 
-- 27-28 November 2017: Web Usability Workshop at the European Organization for Nuclear Research (CERN)
-- Since October 2017: User Friendly Online Services for Scientific Information (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019)
+- 15 May 2019: *Bern IIIF Showcase Event* - presentations, moderation and organization of the event at the Swiss National Library as part of the TICKS project [:link:][bern-iiif]
+- 5 December 2018: *The role of the Swiss National Library in the digital society* (_Rolle der National Bibliothek in der digitalen Gesellschaft_) - presentations, moderation of the workshop and summary of the results 
+- 21 June 2018: *Data Professionals Day* - presentation, moderation of questions and organization of the half-day event with Professor René Schneider as part of the 100th anniversary of training in Information sciences in Geneva (_100 ID_) [:link:][100id-dpd]
+- 27-28 November 2017: *Web Usability* Workshop at the European Organization for Nuclear Research (CERN)
+- Since October 2017: *User Friendly Online Services for Scientific Information* (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019)
 
 ## Publications
  
@@ -139,3 +141,5 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [vkks]: https://doi.org/10.5281/zenodo.3241452
 [swisspidhub-post1]: https://campus.hesge.ch/blog-master-is/un-pid-pour-les-gouverner-tous/
 [ufo]: https://www.fhgr.ch/fhgr/angewandte-zukunftstechnologien/schweizerisches-institut-fuer-informationswissenschaft-sii/projekte/ufo/
+[bern-iiif]: https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html
+[100id-dpd]: https://www.hesge.ch/heg/100id-programme
