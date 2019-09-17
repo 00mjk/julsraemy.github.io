@@ -73,6 +73,12 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - March 2018 to February 2019: Towards IIIF-Compliance Knowledge in Switzerland (TICKS) [:link:][ticks]
 - June 2017 to December 2018: Identités de confiance pour les données de l’art et du design (ICOPAD) [:link:][icopad]
 
+## Workshops, assignments and mandates
+
+- 5 December 2018: The role of the Swiss National Library in the digital society (_Rolle der National Bibliothek in der digitalen Gesellschaft_) - presentations, moderation of the workshop and summary of the results 
+- 27-28 November 2017: Web Usability Workshop at the European Organization for Nuclear Research (CERN)
+- Since October 2017: User Friendly Online Services for Scientific Information (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019)
+
 ## Publications
  
 - RAEMY, Julien Antoine, SCHNEIDER, René. [*Suggested measures for deploying IIIF in Swiss cultural heritage institutions*][ticks-wp]. White Paper. Geneva, Haute école de gestion de Genève. 29 May 2019. DOI 10.5281/zenodo.2640416
@@ -132,3 +138,4 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [arodes-ht]: https://hesso.tind.io/record/2394
 [vkks]: https://doi.org/10.5281/zenodo.3241452
 [swisspidhub-post1]: https://campus.hesge.ch/blog-master-is/un-pid-pour-les-gouverner-tous/
+[ufo]: https://www.fhgr.ch/fhgr/angewandte-zukunftstechnologien/schweizerisches-institut-fuer-informationswissenschaft-sii/projekte/ufo/
