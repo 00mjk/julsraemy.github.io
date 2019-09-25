@@ -83,6 +83,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Publications
  
+- RAEMY, Julien Antoine, SCHNEIDER, René. Les métiers des données : à l’intérieur, à l’extérieur et entre les mondes de la bibliothéconomie et de l‘archivistique. *Hors-Texte*. September 2019. Vol. 2019, no. 117, p. 46-52
 - RAEMY, Julien Antoine, SCHNEIDER, René. [*Suggested measures for deploying IIIF in Swiss cultural heritage institutions*][ticks-wp]. White Paper. Geneva, Haute école de gestion de Genève. 29 May 2019. DOI 10.5281/zenodo.2640416
 - RAEMY, Julien Antoine. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
 - RAEMY, Julien Antoine. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
