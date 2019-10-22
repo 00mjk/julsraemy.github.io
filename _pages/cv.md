@@ -75,14 +75,16 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Workshops, assignments and mandates
 
+- 30 September - 1 October 2019: *User centred design for the Handschriftenportal project* Two-day workshop given at the Berlin State Library (Staatsbibliothek zu Berlin) [:link:][hsp]
 - 15 May 2019: *Bern IIIF Showcase Event* - presentations, moderation and organization of the event at the Swiss National Library as part of the TICKS project [:link:][bern-iiif]
 - 5 December 2018: *The role of the Swiss National Library in the digital society* (_Rolle der National Bibliothek in der digitalen Gesellschaft_) - presentations, moderation of the workshop and summary of the results 
 - 21 June 2018: *Data Professionals Day* - presentation, moderation of questions and organization of the half-day event with Professor René Schneider as part of the 100th anniversary of training in Information sciences in Geneva (_100 ID_) [:link:][100id-dpd]
-- 27-28 November 2017: *Web Usability* Workshop at the European Organization for Nuclear Research (CERN)
-- Since October 2017: *User Friendly Online Services for Scientific Information* (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019)
+- 27-28 November 2017: *Web Usability* Two-day workshop given at the European Organization for Nuclear Research (CERN)
+- Since October 2017: *User Friendly Online Services for Scientific Information* (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019), histHub (2019)
 
 ## Publications
- 
+
+- RAEMY, Julien Antoine, SCHNEIDER, René. Towards Trusted Identities for Swiss Researchers and their Data. *International Journal of Digital Curation (IJDC)*. September 2019. Vol. 14, no. 1
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Les métiers des données : à l’intérieur, à l’extérieur et entre les mondes de la bibliothéconomie et de l‘archivistique][arodes-ht2]. *Hors-Texte*. September 2019. Vol. 2019, no. 117, p. 46-52
 - RAEMY, Julien Antoine, SCHNEIDER, René. [*Suggested measures for deploying IIIF in Swiss cultural heritage institutions*][ticks-wp]. White Paper. Geneva, Haute école de gestion de Genève. 29 May 2019. DOI 10.5281/zenodo.2640416
 - RAEMY, Julien Antoine. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht1]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
@@ -145,3 +147,4 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [ufo]: https://www.fhgr.ch/fhgr/angewandte-zukunftstechnologien/schweizerisches-institut-fuer-informationswissenschaft-sii/projekte/ufo/
 [bern-iiif]: https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html
 [100id-dpd]: https://www.hesge.ch/heg/100id-programme
+[hsp]: https://handschriftenportal.de/
