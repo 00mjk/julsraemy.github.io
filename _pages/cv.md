@@ -16,7 +16,7 @@ Since August 2017: **Research and Teaching Assistant in Information Science** at
 - Coordinating the TICKS project and the uptake of the International Image Interoperability Framework (IIIF) in Switzerland
 - Coordinating the French/German curriculum of the Bachelor of Science in LIS delivered at the HEG-GE
 - Submitting and participating in projects related to the sustainability, usability and valorisation of digital data on the Web
-- Developing and delivering presentations, seminars, and courses on Information Science, Library services platforms, Web usability, and Linked Data in Libraries to Bachelor and Master students
+- Developing and delivering presentations, seminars, and courses on Information Science, Library services platforms, User Centred Design, and Linked Data in Libraries to Bachelor and Master students
 
 January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the Ecole Polytechnique Fédérale de Lausanne (EPFL), [MetaMedia Center][mmc]
 - Assessing the photography archives and digitizing pictures for the Montreux Jazz Digital Project
@@ -95,18 +95,19 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Presentations
 
+- RAEMY, Julien Antoine. [Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web][iiif-alexandria]. *Informationsanlass Alexandria*. Bibliothek am Guisanplatz, Bern, Switzerland. 30 October 2019. DOI 10.5281/zenodo.3463088
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Swiss institutions climbing up the IIIF ladder][ticks-19]. *2019 IIIF Conference*. Alte Mensa, Georg-August-Universität, Göttingen, Germany. 26 June 2019. DOI 10.5281/zenodo.3238161
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Assigning persistent identifiers to art and design entities][vkks]. *Fourth Swiss Congress for Art History, Quid pro quo: linked data in art history research. VKKS 2019*. Accademia di architettura, Mendrisio, Switzerland. 7 June 2019. DOI 10.5281/zenodo.3241453
 - SCHNEIDER, René and RAEMY, Julien Antoine. [Towards Trusted Identities for Swiss Researchers  and their Data][idcc-19]. *14th International Digital Curation Conference (IDCC)*. Melbourne, Australia. 6 February 2019. DOI 10.5281/zenodo.2415996
-- RAEMY, Julien Antoine. [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][ticks-18]. *2018 IIIF Conference*. Library of Congress, Washington D.C. 24 May 2018. DOI 10.5281/zenodo.1252084
-- RAEMY, Julien Antoine. [The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions][midi-agbd]. *Midi-AGBD - Prix romand en bibliothéconomie 2017*. Université de Genève, Site Uni Mail. 27 March 2018.
-- RAEMY, Julien Antoine. [Présentation brève de IIIF et du travail de bachelor][seminaire]. *Séminaire en bibliothéconomie*. Haute école de gestion de Genève. 9 November 2017.
+- RAEMY, Julien Antoine. [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][ticks-18]. *2018 IIIF Conference*. Library of Congress, Washington D.C., USA, 24 May 2018. DOI 10.5281/zenodo.1252084
+- RAEMY, Julien Antoine. [The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions][midi-agbd]. *Midi-AGBD - Prix romand en bibliothéconomie 2017*. Université de Genève, Site Uni Mail, Genève, Switzerland. 27 March 2018.
+- RAEMY, Julien Antoine. [Présentation brève de IIIF et du travail de bachelor][seminaire]. *Séminaire en bibliothéconomie*. Haute école de gestion de Genève, Carouge, Switzerland. 9 November 2017.
 - Raemy, Julien Antoine. [Usability testing conducted on the UV and Mirador][vatican-prezi], *2017 IIIF Conference*. Augustinianum, The Vatican City. 5 June 2017. 
 
 
 ## Posts
 
-- CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
+- CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour enfin? les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
 - RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018. 
 
 ## Awards
@@ -148,3 +149,4 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 [bern-iiif]: https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html
 [100id-dpd]: https://www.hesge.ch/heg/100id-programme
 [hsp]: https://handschriftenportal.de/
+[iiif-alexandria]: https://doi.org/10.5281/zenodo.3463087
