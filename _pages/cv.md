@@ -107,7 +107,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Posts
 
-- CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour enfin? les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
+- CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
 - RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018. 
 
 ## Awards
