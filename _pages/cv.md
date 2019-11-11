@@ -75,7 +75,9 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Workshops, assignments and mandates
 
-- 30 September - 1 October 2019: *User centred design for the Handschriftenportal project* Two-day workshop given at the Berlin State Library (Staatsbibliothek zu Berlin) [:link:][hsp]
+- 11 November 2019: *Research Data Literacy : acquérir des compétences
+pour la gestion des données de la recherche*  One day workshop given in the context of the Bibliosuisse's continuing education programme at Bibliomedia, Lausanne [:link:][bibliosuisse]
+- 30 September - 1 October 2019: *User centred design for the Handschriftenportal project* Two-day workshop given in the context of the creation of the Handschriftenportal, a DFG-funded project, at the Berlin State Library (Staatsbibliothek zu Berlin) [:link:][hsp]
 - 15 May 2019: *Bern IIIF Showcase Event* - presentations, moderation and organization of the event at the Swiss National Library as part of the TICKS project [:link:][bern-iiif]
 - 5 December 2018: *The role of the Swiss National Library in the digital society* (_Rolle der National Bibliothek in der digitalen Gesellschaft_) - presentations, moderation of the workshop and summary of the results 
 - 21 June 2018: *Data Professionals Day* - presentation, moderation of questions and organization of the half-day event with Professor René Schneider as part of the 100th anniversary of training in Information sciences in Geneva (_100 ID_) [:link:][100id-dpd]
