@@ -97,6 +97,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Presentations
 
+- CEVEY, Matthieu and RAEMY, Julien Antoine, 2019. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008 
 - RAEMY, Julien Antoine. [Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web][iiif-alexandria]. *Informationsanlass Alexandria*. Bibliothek am Guisanplatz, Bern, Switzerland. 30 October 2019. DOI 10.5281/zenodo.3463088
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Swiss institutions climbing up the IIIF ladder][ticks-19]. *2019 IIIF Conference*. Alte Mensa, Georg-August-Universität, Göttingen, Germany. 26 June 2019. DOI 10.5281/zenodo.3238161
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Assigning persistent identifiers to art and design entities][vkks]. *Fourth Swiss Congress for Art History, Quid pro quo: linked data in art history research. VKKS 2019*. Accademia di architettura, Mendrisio, Switzerland. 7 June 2019. DOI 10.5281/zenodo.3241453
@@ -134,6 +135,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [coc]: https://iiif.io/event/conduct/
 [outreach]: https://iiif.io/community/groups/outreach/
 [heg]: https://www.hesge.ch/heg/
+[hub-poster]: https://doi.org/10.5281/zenodo.3551007
 [mmc]: https://metamedia.epfl.ch/
 [mjhl]: http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/
 [dhlab]: http://dhlab.unibas.ch/
