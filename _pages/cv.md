@@ -8,7 +8,7 @@ permalink: /cv/
 
 Below are a selected list of things I am doing or that I have done.
 
-## Experience [:office:]
+## Experience :office:
 
 Since August 2017: **Research and Teaching Assistant in Information Science** at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg]
 - Helping the Professor René Schneider with his projects, assignments, as well as the training sessions that he gives during further education programmes
@@ -34,7 +34,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - Conducting video transcoding tests with FFmpeg
 - Writing up a conference paper which demonstrate the benefits of elaborating a structure for digital video assets based on the IIIF concepts for the use in archival environments
 
-## Organizations [:busts_in_silhouette:]
+## Organizations :busts_in_silhouette:
 
 ### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
@@ -61,19 +61,19 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 - Since January 2008: Member 
 
-## Education [:school:]
+## Education :school:
 
 - 2018-2020 (expected): **Master of Science in Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2013-2017: **Bachelor of Science in Library and Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2010-2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the Ecole professionnelle artisanale et commerciale (EPAC)
 - 2005-2008: **Federal Certificate of Vocational Education of Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
 
-## Projects [:wrench:]
+## Projects :wrench:
 
 - March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) [:link:][ticks]
 - June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
-## Workshops, assignments and mandates [:mortar_board:]
+## Workshops, assignments and mandates :mortar_board:
 
 - 11 November 2019: *Research Data Literacy : acquérir des compétences
 pour la gestion des données de la recherche*  One-day workshop given in the context of the Bibliosuisse's continuing education programme at Bibliomedia, Lausanne [:link:][bibliosuisse]
@@ -84,7 +84,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - 27-28 November 2017: *Web Usability* Two-day workshop given at the European Organization for Nuclear Research (CERN)
 - Since October 2017: *User Friendly Online Services for Scientific Information* (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019), histHub (2019)
 
-## Publications [:pencil:]
+## Publications :pencil:
 
 - RAEMY, Julien Antoine, SCHNEIDER, René. Towards Trusted Identities for Swiss Researchers and their Data. *International Journal of Digital Curation (IJDC)*. September 2019. Vol. 14, no. 1
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Les métiers des données : à l’intérieur, à l’extérieur et entre les mondes de la bibliothéconomie et de l‘archivistique][arodes-ht2]. *Hors-Texte*. September 2019. Vol. 2019, no. 117, p. 46-52
@@ -95,7 +95,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
 
-## Presentations [:microphone:]
+## Presentations :microphone:
 
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008 
 - RAEMY, Julien Antoine. [Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web][iiif-alexandria]. *Informationsanlass Alexandria*. Bibliothek am Guisanplatz, Bern, Switzerland. 30 October 2019. DOI 10.5281/zenodo.3463088
@@ -107,12 +107,12 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - RAEMY, Julien Antoine. [Présentation brève de IIIF et du travail de bachelor][seminaire]. *Séminaire en bibliothéconomie*. Haute école de gestion de Genève, Carouge, Switzerland. 9 November 2017.
 - Raemy, Julien Antoine. [Usability testing conducted on the UV and Mirador][vatican-prezi], *2017 IIIF Conference*. Augustinianum, The Vatican City. 5 June 2017. 
 
-## Posts [:computer:]
+## Posts :computer:
 
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
 - RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018. 
 
-## Awards [:tada:]
+## Awards :tada:
 
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
