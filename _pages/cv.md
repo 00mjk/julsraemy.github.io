@@ -44,7 +44,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ### ARKs in the Open (AITO) Project [:link:][aito]
 
-- Since January 2020: AITO [Outreach Working Group][outreach-aito] Member
+- Since January 2020: AITO [Outreach Working Group][aito-outreach] Member
 
 ### Bibliosuisse [:link:][bibliosuisse]
 *formerly "Bibliothèque Information Suisse" (BIS)*
