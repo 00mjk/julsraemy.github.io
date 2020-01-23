@@ -39,8 +39,12 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 ### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
 - Since February 2019: IIIF [Technical Review Committee][trc] Community Representative
+- Since September 2017: IIIF [Code of Conduct][coc] Team Member
 - January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
-- September 2017 - September 2019: IIIF [Code of Conduct][coc] Team Member
+
+### ARKs in the Open (AITO) Project [:link:][aito]
+
+- Since January 2020: AITO [Outreach Working Group][outreach-aito] Member
 
 ### Bibliosuisse [:link:][bibliosuisse]
 *formerly "Bibliothèque Information Suisse" (BIS)*
@@ -117,6 +121,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - November 2017: [Prix romand en bibliothéconomie][romand]
 
 [agbd]: https://www.agbd.ch/
+[aito]: https://wiki.lyrasis.org/display/ARKs/ARKs+in+the+Open+Project
+[aito-outreach]: https://wiki.lyrasis.org/display/ARKs/Outreach+Working+Group
 [amda]: http://www.ailleurs.ch/en/amda/
 [bibliosuisse]: https://bibliosuisse.ch/
 [iiif]: https://iiif.io/
