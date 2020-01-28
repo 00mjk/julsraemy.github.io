@@ -113,6 +113,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Posts :computer:
 
+- CEVEY, Matthieu and RAEMY, Julien Antoine. [Ce Hub a plus d’une corde à son arc !][swisspidhub-post2]. *Recherche d’IdéeS*. 28 January 2020. 
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
 - RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018. 
 
@@ -155,6 +156,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [arodes-ht2]: https://hesso.tind.io/record/4063
 [vkks]: https://doi.org/10.5281/zenodo.3241452
 [swisspidhub-post1]: https://campus.hesge.ch/blog-master-is/un-pid-pour-les-gouverner-tous/
+[swisspidhub-post2]: https://campus.hesge.ch/blog-master-is/ce-hub-a-plus-dune-corde-a-son-arc/
 [ufo]: https://www.fhgr.ch/fhgr/angewandte-zukunftstechnologien/schweizerisches-institut-fuer-informationswissenschaft-sii/projekte/ufo/
 [bern-iiif]: https://campus.hesge.ch/id_bilingue/projekte/ticks/bern-iiif-showcase-event_fr.html
 [100id-dpd]: https://www.hesge.ch/heg/100id-programme
