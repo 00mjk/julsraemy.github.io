@@ -90,7 +90,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Publications :pencil:
 
-- RAEMY, Julien Antoine, SCHNEIDER, René. Towards Trusted Identities for Swiss Researchers and their Data. *International Journal of Digital Curation (IJDC)*. September 2019. Vol. 14, no. 1
+- RAEMY, Julien Antoine, SCHNEIDER, René. [Towards Trusted Identities for Swiss Researchers and their Data][ijdc-19]. *International Journal of Digital Curation (IJDC)*. 11 September 2019. Vol. 14, no. 1, p. 303–314. DOI 10.2218/ijdc.v14i1.596
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Les métiers des données : à l’intérieur, à l’extérieur et entre les mondes de la bibliothéconomie et de l‘archivistique][arodes-ht2]. *Hors-Texte*. September 2019. Vol. 2019, no. 117, p. 46-52
 - RAEMY, Julien Antoine, SCHNEIDER, René. [*Suggested measures for deploying IIIF in Swiss cultural heritage institutions*][ticks-wp]. White Paper. Geneva, Haute école de gestion de Genève. 29 May 2019. DOI 10.5281/zenodo.2640416
 - RAEMY, Julien Antoine. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht1]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
@@ -128,6 +128,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [bibliosuisse]: https://bibliosuisse.ch/
 [iiif]: https://iiif.io/
 [idcc-19]: https://doi.org/10.5281/zenodo.2415995
+[ijdc-19]: https://doi.org/10.2218/ijdc.v14i1.596 
 [blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
 [fri-son]: https://fri-son.ch/
 [climbing-video]: https://youtu.be/SaXfzLLD5TY
