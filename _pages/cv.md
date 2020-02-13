@@ -70,7 +70,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - 2018-2020 (expected): **Master of Science in Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2013-2017: **Bachelor of Science in Library and Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2010-2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the Ecole professionnelle artisanale et commerciale (EPAC)
-- 2005-2008: **Federal Certificate of Vocational Education of Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
+- 2005-2008: **Federal Diploma of Vocational Education and Training - Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
 
 ## Projects :wrench:
 
