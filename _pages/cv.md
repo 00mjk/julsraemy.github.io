@@ -34,7 +34,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - Conducting video transcoding tests with FFmpeg
 - Writing up a conference paper which demonstrate the benefits of elaborating a structure for digital video assets based on the IIIF concepts for the use in archival environments
 
-## Organizations :busts_in_silhouette:
+## Memberships :busts_in_silhouette:
 
 ### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
@@ -74,7 +74,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Projects :wrench:
 
-- January 2020 to December 2020: *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT)
+- January 2020 to December 2020: *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) [:link:][incipit]
 - March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) [:link:][ticks]
 - June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
@@ -164,3 +164,4 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [100id-dpd]: https://www.hesge.ch/heg/100id-programme
 [hsp]: https://handschriftenportal.de/
 [iiif-alexandria]: https://doi.org/10.5281/zenodo.3463087
+[incipit]: https://www.researchgate.net/project/INCIPIT-3
