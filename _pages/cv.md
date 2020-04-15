@@ -11,12 +11,16 @@ Below are a selected list of things I am doing or that I have done.
 ## Experience :office:
 
 Since August 2017: **Research and Teaching Assistant in Information Science** at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg]
-- Helping the Professor René Schneider with his projects, assignments, as well as the training sessions that he gives during further education programmes
-- Conducting research, writing reports and creating data models for assigning persistent identifiers in the context of the ICOPAD project
-- Coordinating the TICKS project and the uptake of the International Image Interoperability Framework (IIIF) in Switzerland
-- Coordinating the French/German curriculum of the Bachelor of Science in LIS delivered at the HEG-GE
-- Submitting and participating in projects related to the sustainability, usability and valorisation of digital data on the Web
-- Developing and delivering presentations, seminars, and courses on Information Science, Library services platforms, User Centred Design, and Linked Data in Libraries to Bachelor and Master students
+- Coordinating the bilingual French-German curriculum of the Bachelor in Library and Information Science
+- Teaching the course "Informations- und Dokumentationssysteme"
+- Ensuring the hands-on exercises during the courses "User-centered design" and "Linked Open Data in Libraries”
+- Helping Professor René Schneider with his research projects, assignments, as well as the training sessions that he gives during further education programmes
+	- Two-day continuing training courses on “Web Usability” at the CERN in 2017 and for members of the Handschriftenportal (HSP) project in 2019
+	- Workshop "Rolle der Schweizerischen Nationalbibliothek (NB) in der digitalen Gesellschaft" (_Role of the Swiss National Library (NL) in the digital society_) - 05.12.2018
+	- User Friendly Online Services for Scientific Information (UFO) assignments with the Fachhochschule Graubünden (FHGR)
+	- Conducting research, reporting and presentations, as well as developing models and approaches for assigning persistent identifiers as part of the "Identités de confiance pour les données de l’art et du design" (ICOPAD) project
+	- Coordinating the "Towards IIIF-Compliance Knowledge in Switzerland" (TICKS) project and the uptake of the International Image Interoperability Framework (IIIF) in Switzerland
+	- Coordinating the "Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project aimed at developing an Archival Resource Key (ARK) allocation service in Switzerland.
 
 January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the Ecole Polytechnique Fédérale de Lausanne (EPFL), [MetaMedia Center][mmc]
 - Assessing the photography archives and digitizing pictures for the Montreux Jazz Digital Project
