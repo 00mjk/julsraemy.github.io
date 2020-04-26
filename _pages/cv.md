@@ -22,7 +22,7 @@ Since August 2017: **Research and Teaching Assistant in Information Science** at
 	- Coordinating the "Towards IIIF-Compliance Knowledge in Switzerland" (TICKS) project and the uptake of the International Image Interoperability Framework (IIIF) in Switzerland
 	- Coordinating the "Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project aimed at developing an Archival Resource Key (ARK) allocation service in Switzerland.
 
-January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the Ecole Polytechnique Fédérale de Lausanne (EPFL), [MetaMedia Center][mmc]
+January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the Ecole Polytechnique Fédérale de Lausanne (EPFL), [Cultural Heritage & Innovation Center][mmc]
 - Assessing the photography archives and digitizing pictures for the Montreux Jazz Digital Project
 - Checking the quality process and adding metadata to them on the Montreux Jazz Festival database
 - Conducting research and interviews in order to ensure the authenticity and integrity of the records and the added metadata.
