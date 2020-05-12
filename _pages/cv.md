@@ -11,18 +11,17 @@ Below are a selected list of things I am doing or that I have done.
 ## Experience :office:
 
 Since August 2017: **Research and Teaching Assistant in Information Science** at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg]
-- Coordinating the bilingual French-German curriculum of the Bachelor in Library and Information Science
-- Teaching the course "Informations- und Dokumentationssysteme"
-- Ensuring the hands-on exercises during the courses "User-centered design" and "Linked Open Data in Libraries”
+- Coordinating the bilingual French-German curriculum of the BSc in Information Science
+- Teaching the course "Informations- und Dokumentationssysteme" and ensuring the hands-on exercises during the "User-centred design" and "Linked Open Data in Libraries” courses
 - Helping Professor René Schneider with his research projects, assignments, as well as the training sessions that he gives during further education programmes
 	- Two-day continuing training courses on “Web Usability” at the CERN in 2017 and for members of the Handschriftenportal (HSP) project in 2019
-	- Workshop "Rolle der Schweizerischen Nationalbibliothek (NB) in der digitalen Gesellschaft" (_Role of the Swiss National Library (NL) in the digital society_) - 05.12.2018
+	- Moderation of the "Rolle der Schweizerischen Nationalbibliothek (NB) in der digitalen Gesellschaft" (_Role of the Swiss National Library (NL) in the digital society_) workshop on 05.12.2018
 	- User Friendly Online Services for Scientific Information (UFO) assignments with the Fachhochschule Graubünden (FHGR)
-	- Conducting research, reporting and presentations, as well as developing models and approaches for assigning persistent identifiers as part of the "Identités de confiance pour les données de l’art et du design" (ICOPAD) project
+	- Conducting research, reporting and presentations, as well as developing models and approaches for assigning persistent identifiers as part of the "Identités de confiance pour les données de l’art et du design" (ICOPAD) project in partnership with the Swiss Institute for Art Research (SIK-ISEA), the Zentralbibliothek Zürich and the Zürcher Hochschule der Künste
 	- Coordinating the "Towards IIIF-Compliance Knowledge in Switzerland" (TICKS) project and the uptake of the International Image Interoperability Framework (IIIF) in Switzerland
 	- Coordinating the "Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project aimed at developing an Archival Resource Key (ARK) allocation service in Switzerland.
 
-January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the Ecole Polytechnique Fédérale de Lausanne (EPFL), [Cultural Heritage & Innovation Center][mmc]
+January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the Ecole Polytechnique Fédérale de Lausanne (EPFL), [Cultural Heritage & Innovation Center (previously MetaMedia Center)][mmc]
 - Assessing the photography archives and digitizing pictures for the Montreux Jazz Digital Project
 - Checking the quality process and adding metadata to them on the Montreux Jazz Festival database
 - Conducting research and interviews in order to ensure the authenticity and integrity of the records and the added metadata.
@@ -30,7 +29,7 @@ January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Projec
 - Conducting guided tours for artists, sponsors, and friends during the festival in Claude Nobs' Chalet in Caux where the original audiovisual records are stored.
 - Defining long-term archiving strategies
 - Writing a report on Semantic Web technologies
-- Collating anecdotes for the [Montreux Jazz Heritage Lab II][mjhl] platform designed by EPFL+ECAL Lab
+- Collating anecdotes for the [Montreux Jazz Heritage Lab II][mjhl] designed by the EPFL+ECAL Lab
 - Taking part in conferences and working group sessions such as iPRES, IIIF and Museomix
 
 August 2016 - October 2016: **University Intern** at the University of Basel, [Digital Humanities Lab][dhlab]
