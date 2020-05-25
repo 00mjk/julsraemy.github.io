@@ -47,6 +47,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ### ARKs in the Open (AITO) Project [:link:][aito]
 
+- Since April 2020: AITO [NAAN Registry Working Group][aito-naan] Member
+- Since April 2020: AITO [Technical Working Group][aito-technical] Member
 - Since January 2020: AITO [Outreach Working Group][aito-outreach] Member
 
 ### Bibliosuisse [:link:][bibliosuisse]
@@ -94,6 +96,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Publications :pencil:
 
+- CEVEY, Matthieu, RAEMY, Julien Antoine and SCHNEIDER, René (dir). [*Swiss PID Hub : Création d’un Hub pour la gestion des identifiants pérennes en Suisse*][hub-rero]. Research report. Geneva, Switzerland : Haute école de gestion de Genève, 2020.
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Towards Trusted Identities for Swiss Researchers and their Data][ijdc-19]. *International Journal of Digital Curation (IJDC)*. 11 September 2019. Vol. 14, no. 1, p. 303–314. DOI 10.2218/ijdc.v14i1.596
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Les métiers des données : à l’intérieur, à l’extérieur et entre les mondes de la bibliothéconomie et de l‘archivistique][arodes-ht2]. *Hors-Texte*. September 2019. Vol. 2019, no. 117, p. 46-52
 - RAEMY, Julien Antoine, SCHNEIDER, René. [*Suggested measures for deploying IIIF in Swiss cultural heritage institutions*][ticks-wp]. White Paper. Geneva, Haute école de gestion de Genève. 29 May 2019. DOI 10.5281/zenodo.2640416
@@ -128,6 +131,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [agbd]: https://www.agbd.ch/
 [aito]: https://wiki.lyrasis.org/display/ARKs/ARKs+in+the+Open+Project
 [aito-outreach]: https://wiki.lyrasis.org/display/ARKs/Outreach+Working+Group
+[aito-naan]: https://wiki.lyrasis.org/display/ARKs/NAAN+Registry+Working+Group
+[aito-technical]: https://wiki.lyrasis.org/display/ARKs/Technical+Working+Group
 [amda]: http://www.ailleurs.ch/en/amda/
 [bibliosuisse]: https://bibliosuisse.ch/
 [iiif]: https://iiif.io/
@@ -148,6 +153,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [outreach]: https://iiif.io/community/groups/outreach/
 [heg]: https://www.hesge.ch/heg/
 [hub-poster]: https://doi.org/10.5281/zenodo.3551007
+[hub-rero]: https://doc.rero.ch/record/328460
 [mmc]: https://metamedia.epfl.ch/
 [mjhl]: http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/
 [dhlab]: http://dhlab.unibas.ch/
