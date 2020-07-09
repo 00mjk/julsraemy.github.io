@@ -10,6 +10,14 @@ Below are a selected list of things I am doing or that I have done.
 
 ## Experience :office:
 
+Since July 2020: **Knowledge Graph Engineer** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
+- Developing an overarching strategy for the integration of IIIF 
+- Implementing IIIF within the system architecture 
+- Carrying out data curation using common target ontologies (CIDOC-CRM, RDF, OWL, SKOS)
+- Integrating data in alignment with the existing technology stack (ETL process)
+- Deploying and maintaining research platforms
+- Representing SARI on relevant expert committees and working groups (IIIF, Linked Art)
+
 Since August 2017: **Research and Teaching Assistant in Information Science** at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg]
 - Coordinating the bilingual French-German curriculum of the BSc in Information Science
 - Teaching the course "Informations- und Dokumentationssysteme" and ensuring the hands-on exercises during the "User-centred design" and "Linked Open Data in Libraries” courses
@@ -174,3 +182,4 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [hsp]: https://handschriftenportal.de/
 [iiif-alexandria]: https://doi.org/10.5281/zenodo.3463087
 [incipit]: https://www.researchgate.net/project/INCIPIT-3
+[sari]: https://swissartresearch.net/
