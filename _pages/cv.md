@@ -10,7 +10,7 @@ Below are a selected list of things I am doing or that I have done.
 
 ## Experience :office:
 
-Since July 2020: **Knowledge Graph Engineer** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
+Since July 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
 - Developing an overarching strategy for the integration of IIIF 
 - Implementing IIIF within the system architecture 
 - Carrying out data curation using common target ontologies (CIDOC-CRM, RDF, OWL, SKOS)
