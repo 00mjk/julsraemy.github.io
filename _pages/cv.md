@@ -6,7 +6,7 @@ toc_label: Table of Contents
 permalink: /cv/
 ---
 
-Below are a selected list of things I am doing or that I have done.
+Below are a selected list of things I am doing or that I have done. See [here][name] my preferred pronouns and how to pronounce my name. 
 
 ## Experience :office:
 
@@ -183,3 +183,4 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [iiif-alexandria]: https://doi.org/10.5281/zenodo.3463087
 [incipit]: https://www.researchgate.net/project/INCIPIT-3
 [sari]: https://swissartresearch.net/
+[name]: https://name.pn/julien-antoine-raemy
