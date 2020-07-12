@@ -20,7 +20,7 @@ Since August 2017, I've been working as a [Research and Teaching Assistant at th
 
 Since September 2018, I started a [Master's degree in Information Science][master-is] in addition to my work. This programme is expected to end in August 2020.
 
-Starting in July 2020 and in parallel to my assistantship in Geneva, I have been working as a Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Research Infrastructure](sari) (SARI) of the University of Zurich.
+Starting in July 2020 and in parallel to my assistantship in Geneva, I have been working as a Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Research Infrastructure][sari] (SARI) of the University of Zurich.
 
 Have a look at my [CV](../cv/) for further information about my background, my projects and my publications
 
