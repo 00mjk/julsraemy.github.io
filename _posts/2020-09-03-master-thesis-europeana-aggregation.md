@@ -45,15 +45,15 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Oral defence
 
-<iframe src="https://player.vimeo.com/video/453003769" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-<p><a href="https://vimeo.com/453003769">Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions</a> from <a href="https://vimeo.com/user114267213">Julien A. Raemy</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+The master's thesis oral defence happened on 28 August 2020 at the Haute école de gestion de Genève (and virtually through Zoom). The jury members consisted of Arnaud Gaudinat, Associate Professor and Emmanuelle Bermès, Deputy Director for Services and Networks at the French National Library (BnF). Antoine Isaac, R&D Manager at Europeana was also invited to participate. 
 
-<iframe
-   class="preview-iframe"
-   id="preview-iframe"
-   width="100%"
-   height="400"
-   src="https://zenodo.org/record/3975523/preview/Raemy_master_thesis_oral_presentation_20200828.pdf"></iframe>
+Below is the recording of the defence which began with a twenty-minute presentation and followed by forty minutes of questions. 
+
+<iframe src="https://player.vimeo.com/video/453003769" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+<p>Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions from <a href="https://vimeo.com/user114267213">Julien A. Raemy</a></p>
+
+Slide deck available on <https://zenodo.org/record/3975523/preview/Raemy_master_thesis_oral_presentation_20200828.pdf>
+
 
 
 
