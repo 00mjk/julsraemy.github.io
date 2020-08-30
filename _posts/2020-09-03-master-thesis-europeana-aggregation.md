@@ -49,9 +49,7 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Dissertation
 
-The [final version][pdf] of the dissertation is embedded below. As the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
-
-<iframe width="100%" height="400" src="https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf"></iframe>
+The [final version][pdf] is available on this website. Besides, as the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
 
 ## Oral defence
 
