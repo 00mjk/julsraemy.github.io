@@ -49,7 +49,7 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Dissertation
 
-The final version of the dissertation is embedded below. As the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
+The [final version][pdf] of the dissertation is embedded below. As the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
 
 <iframe width="100%" height="400" src="https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf"></iframe>
 
@@ -63,6 +63,8 @@ Below is the recording of the defence which began with a twenty-minute presentat
 
 Slide deck available on <https://zenodo.org/record/3975523/preview/Raemy_master_thesis_oral_presentation_20200828.pdf>
 
+
+[pdf]: https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf
 
 
 
