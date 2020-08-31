@@ -52,7 +52,7 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Dissertation
 
-The [final version][pdf] is available on this website and on [ResearchGate][rg]. Besides, as the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
+The final version in PDF is available on this [website][pdf] and on [ResearchGate][rg]. Besides, as the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
 
 ## Oral defence
 
