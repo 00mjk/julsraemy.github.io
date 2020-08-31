@@ -36,8 +36,8 @@ This master’s thesis was done as part of the final examination requirements of
 
 In this post are listed:
 - the abstract;
-- a link to the dissertation in PDF;
-- the recording of the oral defence. 
+- links to the [dissertation][tm];
+- the [recording][tm-defence] of the oral defence. 
 
 ## Abstract
 
@@ -52,7 +52,7 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Dissertation
 
-The final version in PDF is available on this [website][pdf] and on [ResearchGate][rg]. Besides, as the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
+The final version in PDF is available on this [website][tm] and on [ResearchGate][rg]. Besides, as the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
 
 ## Oral defence
 
@@ -65,7 +65,8 @@ Below is the recording of the defence which began with a twenty-minute presentat
 Slide deck available on <https://zenodo.org/record/3975523/preview/Raemy_master_thesis_oral_presentation_20200828.pdf>
 
 [master-is]: https://www.hesge.ch/heg/formation-base/masters-science/master-en-sciences-linformation
-[pdf]: https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf
+[tm]: https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf
+[tm-defence]: https://vimeo.com/453003769
 [rg]: https://doi.org/10.13140/RG.2.2.14690.35521
 
 
