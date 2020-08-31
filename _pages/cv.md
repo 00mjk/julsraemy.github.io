@@ -80,7 +80,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Education :school:
 
-- 2018-2020 (expected): **Master of Science in Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
+- 2018-2020: **Master of Science in Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2013-2017: **Bachelor of Science in Library and Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2010-2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the Ecole professionnelle artisanale et commerciale (EPAC)
 - 2005-2008: **Federal Diploma of Vocational Education and Training - Bookseller** ("Certificat fédéral de capacité de libraire") at the Ecole professionnelle commerciale de Lausanne (EPCL)
@@ -104,18 +104,20 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Publications :pencil:
 
-- CEVEY, Matthieu, RAEMY, Julien Antoine and SCHNEIDER, René (dir). [*Swiss PID Hub : Création d’un Hub pour la gestion des identifiants pérennes en Suisse*][hub-rero]. Research report. Geneva, Switzerland : Haute école de gestion de Genève, 2020.
+- RAEMY, Julien Antoine. [*Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions*][tm]. Master's thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
+- CEVEY, Matthieu, RAEMY, Julien Antoine and SCHNEIDER, René (dir). [*Swiss PID Hub : Création d’un Hub pour la gestion des identifiants pérennes en Suisse*][hub-rero]. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Towards Trusted Identities for Swiss Researchers and their Data][ijdc-19]. *International Journal of Digital Curation (IJDC)*. 11 September 2019. Vol. 14, no. 1, p. 303–314. DOI 10.2218/ijdc.v14i1.596
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Les métiers des données : à l’intérieur, à l’extérieur et entre les mondes de la bibliothéconomie et de l‘archivistique][arodes-ht2]. *Hors-Texte*. September 2019. Vol. 2019, no. 117, p. 46-52
 - RAEMY, Julien Antoine, SCHNEIDER, René. [*Suggested measures for deploying IIIF in Swiss cultural heritage institutions*][ticks-wp]. White Paper. Geneva, Haute école de gestion de Genève. 29 May 2019. DOI 10.5281/zenodo.2640416
 - RAEMY, Julien Antoine. [IIIF ou comment enfin valoriser ses images numériques de manière optimale et interopérable][arodes-ht1]. *Hors-Texte*. 25 April 2018. Vol. 2018, no. 115, p. 22-32.
 - RAEMY, Julien Antoine. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
 - RAEMY, Julien Antoine. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
-- RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : Haute école de gestion de Genève, 2017.
+- RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
 
 ## Presentations :microphone:
 
+RAEMY, Julien Antoine. [Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions][tm-prezi]. *Master's thesis oral defence*. Haute école de gestion de Genève, Geneva, Switzerland. 28 August 2020. DOI: 10.5281/zenodo.3975522 - Video recording: [:video_camera:][tm-defence]
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008 
 - RAEMY, Julien Antoine. [Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web][iiif-alexandria]. *Informationsanlass Alexandria*. Bibliothek am Guisanplatz, Bern, Switzerland. 30 October 2019. DOI 10.5281/zenodo.3463088
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Swiss institutions climbing up the IIIF ladder][ticks-19]. *2019 IIIF Conference*. Alte Mensa, Georg-August-Universität, Göttingen, Germany. 26 June 2019. DOI 10.5281/zenodo.3238161 - Video recording: [:video_camera:][climbing-video]
@@ -154,6 +156,9 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [ressi2]: http://www.ressi.ch/num18/article_143
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
 [tb]: https://doc.rero.ch/record/306498/
+[tm]: https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf
+[tm-prezi]: https://doi.org/10.5281/zenodo.3975522
+[tm-defence]: https://vimeo.com/453003769
 [midi-agbd]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
 [romand]: https://www.agbd.ch/prix-romand-en-bibliotheconomie/
 [seminaire]: https://www.slideshare.net/JulienARaemy/prsentation-brve-de-iiif-et-du-travail-de-bachelor-sminaire-en-bibliothconomie-hegge

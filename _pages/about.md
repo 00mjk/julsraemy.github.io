@@ -18,9 +18,9 @@ Between September 2013 and July 2017, I undertook on a part-time basis a Bachelo
 
 Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id_assistanat] for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I help him to coordinate the bilingual curriculum in LIS (French/German). 
 
-Since September 2018, I started a [Master's degree in Information Science][master-is] in addition to my work. This programme is expected to end in August 2020.
+Between September 2018 and August 2020, I carried out a [Master's degree in Information Science][master-is] on a part-time basis so that I can keep working alongside my studies.
 
-Starting in July 2020 and in parallel to my assistantship in Geneva, I have been working as a Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Research Infrastructure][sari] (SARI) of the University of Zurich.
+Starting in July 2020 and in parallel to my assistantship in Geneva, I have been working as a Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Research Infrastructure][sari] (SARI) hosted at the University of Zurich and operated in cooperation with the Swiss Federal Institute of Technology in Zurich (ETH Zurich) and the Swiss Institute for Art Research (SIK-ISEA). 
 
 Have a look at my [CV](../cv/) for further information about my background, my projects and my publications
 

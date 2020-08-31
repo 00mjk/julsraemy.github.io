@@ -25,16 +25,19 @@ tags:
   - SEO
   - Sitemaps
   - Social Web Protocols
-date: 2020-09-03 12:00:42 +0100
+date: 2020-08-31 12:00:42 +0100
 ---
 
 ## Preamble
 
 Between mid-February and mid-August 2020 I carried out a master’s thesis, titled *"Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions"*, with the collaboration of Europeana Research and Development (R&D) team. 
 
-This master’s thesis was done as part of the final examination requirements of the Haute école de gestion de Genève (HEG-GE), for obtaining the Master of Science HES-SO in Information Science. I obtained a mark of 5.7 out of 6, which is equivalent to an A on the ECTS scale.
+This master’s thesis was done as part of the final examination requirements of the Haute école de gestion de Genève (HEG-GE), for obtaining the [Master of Science HES-SO in Information Science][master-is]. I obtained a mark of 5.7 out of 6, which is equivalent to an A on the European Credit Transfer and Accumulation System (ECTS) scale.
 
-In this post are listed the abstract, a link to the dissertation in PDF as well as the recording of the oral defence. 
+In this post are listed:
+- the abstract;
+- a link to the dissertation in PDF;
+- the recording of the oral defence. 
 
 ## Abstract
 
@@ -49,20 +52,21 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Dissertation
 
-The [final version][pdf] is available on this website. Besides, as the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
+The [final version][pdf] is available on this website and on [ResearchGate][rg]. Besides, as the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
 
 ## Oral defence
 
 The master's thesis oral defence happened on 28 August 2020 at the HEG-GE (and virtually through Zoom). The jury members who assessed the master's thesis consisted of Arnaud Gaudinat, Associate Professor in Information Science at the HES-SO University of Applied Sciences and Arts, and Emmanuelle Bermès, Deputy Director for Services and Networks at the French National Library. Antoine Isaac, R&D Manager at Europeana, was also invited to participate. 
 
-Below is the recording of the defence which began with a twenty-minute presentation and followed by forty minutes of questions. 
+Below is the recording of the defence which began with a twenty-minute presentation and was followed by about forty minutes of questions. 
 
 <iframe src="https://player.vimeo.com/video/453003769" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 Slide deck available on <https://zenodo.org/record/3975523/preview/Raemy_master_thesis_oral_presentation_20200828.pdf>
 
-
+[master-is]: https://www.hesge.ch/heg/formation-base/masters-science/master-en-sciences-linformation
 [pdf]: https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf
+[rg]: https://doi.org/10.13140/RG.2.2.14690.35521
 
 
 
