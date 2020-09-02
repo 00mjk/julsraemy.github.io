@@ -118,6 +118,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 ## Presentations :microphone:
 
 - RAEMY, Julien Antoine. [Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions][tm-prezi]. *Master's thesis oral defence*. Haute école de gestion de Genève, Geneva, Switzerland. 28 August 2020. DOI: 10.5281/zenodo.3975522 - Video recording: [:video_camera:][tm-defence]
+- RAEMY, Julien Antoine and FREIRE, Nuno. [Overview of alternative technologies for (meta)data aggregation][eaf-prezi]. *Europeana Aggregators Forum Spring 2020*. Virtual event. 6 May 2020. DOI: 10.5281/zenodo.4011512 - Video recording: [:video_camera:][eaf-video]
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008 
 - RAEMY, Julien Antoine. [Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web][iiif-alexandria]. *Informationsanlass Alexandria*. Bibliothek am Guisanplatz, Bern, Switzerland. 30 October 2019. DOI 10.5281/zenodo.3463088
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Swiss institutions climbing up the IIIF ladder][ticks-19]. *2019 IIIF Conference*. Alte Mensa, Georg-August-Universität, Göttingen, Germany. 26 June 2019. DOI 10.5281/zenodo.3238161 - Video recording: [:video_camera:][climbing-video]
@@ -150,6 +151,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [ijdc-19]: https://doi.org/10.2218/ijdc.v14i1.596 
 [blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
 [fri-son]: https://fri-son.ch/
+[eaf-prezi]: https://doi.org/10.5281/zenodo.4011512
+[eaf-video]: https://vimeo.com/410919947/3023e31d7c
 [climbing-video]: https://youtu.be/SaXfzLLD5TY
 [archiving]: https://doi.org/10.2352/issn.2168-3204.2017.1.0.68
 [ressi1]: http://www.ressi.ch/num18/article_142
