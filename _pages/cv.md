@@ -117,7 +117,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Presentations :microphone:
 
-- SCHNEIDER, René and RAEMY, Julien Antoine. [Auspacken, Identifizieren, Anpacken: Überlegungen zur Konvergenz von Linked Data und persistenter Identifikation][digitalverpackt]. *Informationen - digital verpackt*. Virtual event - Zentralbibliothek Zürich, Switzerland. 22 September 2020 DOI: 10.5281/zenodo.4043572 
+- SCHNEIDER, René and RAEMY, Julien Antoine. [Auspacken, Identifizieren, Anpacken: Überlegungen zur Konvergenz von Linked Data und persistenter Identifikation][digitalverpackt]. *Informationen - digital verpackt*. Virtual event - Zentralbibliothek Zürich, Switzerland. 22 September 2020 DOI: 10.5281/zenodo.4043572 [:video_camera:][dv-video]
 - RAEMY, Julien Antoine. [Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions][tm-prezi]. *Master's thesis oral defence*. Haute école de gestion de Genève, Geneva, Switzerland. 28 August 2020. DOI: 10.5281/zenodo.3975522 - Video recording: [:video_camera:][tm-defence]
 - RAEMY, Julien Antoine and FREIRE, Nuno. [Overview of alternative technologies for (meta)data aggregation][eaf-prezi]. *Europeana Aggregators Forum Spring 2020*. Virtual event. 6 May 2020. DOI: 10.5281/zenodo.4011512 - Video recording: [:video_camera:][eaf-video]
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008 
@@ -194,3 +194,4 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [incipit]: https://www.researchgate.net/project/INCIPIT-3
 [sari]: https://swissartresearch.net/
 [name]: https://name.pn/julien-antoine-raemy
+[dv-video]: https://www.youtube.com/watch?v=1Z5EfUC_OQ0
