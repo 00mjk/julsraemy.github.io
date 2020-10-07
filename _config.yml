@@ -18,7 +18,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : julsraemy/julsraemy.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 breadcrumbs              : # false (default)
-words_per_minute         : 300
+words_per_minute         : 250
 comments                 : 
   provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "staticman_v2" "custom"
   disqus:
@@ -114,7 +114,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : juls.raemy
+  instagram        : 
   lastfm           :
   linkedin         : julienaraemy
   orcid            : "0000-0002-4711-5759"
