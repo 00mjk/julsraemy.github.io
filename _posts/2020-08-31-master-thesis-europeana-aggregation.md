@@ -52,7 +52,7 @@ In order to encourage the adoption of new aggregation mechanisms, a list of prop
 
 ## Dissertation
 
-The final version in PDF is available on this [website][tm] and on [ResearchGate][rg]. Besides, as the mark of the master's thesis is higher than 5, it will also be archived in the <https://doc.rero.ch> repository within a few months.
+The final version in PDF is available on this [website][tm], on [ResearchGate][rg] as well as on the [Réro doc][rerodoc] repository.
 
 ## Oral defence
 
@@ -68,6 +68,7 @@ Slide deck available on <https://zenodo.org/record/3975523/preview/Raemy_master_
 [tm]: https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf
 [tm-defence]: https://vimeo.com/453003769
 [rg]: https://doi.org/10.13140/RG.2.2.14690.35521
+[rerodoc]: https://doc.rero.ch/record/329698
 
 
 

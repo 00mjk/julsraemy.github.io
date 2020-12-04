@@ -161,8 +161,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [ressi1]: http://www.ressi.ch/num18/article_142
 [ressi2]: http://www.ressi.ch/num18/article_143
 [vatican-prezi]: https://www.slideshare.net/JulienARaemy/iiif-preconference-usability-testing-conducted-on-the-uv-and-mirador
-[tb]: https://doc.rero.ch/record/306498/
-[tm]: https://julsraemy.github.io/assets/doc/Mastersthesis_europeana_raemyjulien_FV.pdf
+[tb]: https://doc.rero.ch/record/306498
+[tm]: https://doc.rero.ch/record/329698
 [tm-prezi]: https://doi.org/10.5281/zenodo.3975522
 [tm-defence]: https://vimeo.com/453003769
 [midi-agbd]: https://www.agbd.ch/wp-content/uploads/JARaemy_IIIF_pr%C3%A9sentation-min.pdf
