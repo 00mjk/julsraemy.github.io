@@ -10,7 +10,7 @@ Below are a selected list of things I am doing or that I have done. See [here][n
 
 ## Experience :office:
 
-Since July 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
+July 2020 - December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
 - Developing an overarching strategy for the integration of IIIF 
 - Implementing IIIF within the system architecture 
 - Carrying out data curation using common target ontologies (CIDOC-CRM, RDF, OWL, SKOS)
@@ -18,7 +18,7 @@ Since July 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [
 - Deploying and maintaining research platforms
 - Representing SARI on relevant expert committees and working groups (IIIF, Linked Art)
 
-Since August 2017: **Research and Teaching Assistant in Information Science** at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg]
+August 2017 - January 2021: **Research and Teaching Assistant in Information Science** at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg]
 - Coordinating the bilingual French-German curriculum of the BSc in Information Science
 - Teaching the course "Informations- und Dokumentationssysteme" and ensuring the hands-on exercises during the "User-centred design" and "Linked Open Data in Libraries” courses
 - Helping Professor René Schneider with his research projects, assignments, as well as the training sessions that he gives during further education programmes
