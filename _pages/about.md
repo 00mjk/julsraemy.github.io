@@ -16,11 +16,11 @@ Then, I worked here and there before I decided that it was time to travel again 
 
 Between September 2013 and July 2017, I undertook on a part-time basis a Bachelor in Library and Information Science (LIS) at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg] in Geneva, Switzerland. Between January 2015 and the end of my bachelor's degree, I was also  working for the [EPFL’s MetaMedia Center][metamedia] as a Photo Archivist for the Montreux Jazz Digital Project. I really enjoyed to work and study at the same time.
 
-Since August 2017, I've been working as a [Research and Teaching Assistant at the HEG-GE][bilingue_id_assistanat] for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I help him to coordinate the bilingual curriculum in LIS (French/German). 
+Between August 2017 and January 2021, I was working as a Research and Teaching Assistant at the HEG-GE for the Professor René Schneider and besides working on his [research projects][bilingue_id_projets], I helped him to coordinate the bilingual curriculum in LIS (French/German). During that I also carried out a [Master's degree in Information Science][master-is] on a part-time basis so that I can keep working alongside my studies.
 
-Between September 2018 and August 2020, I carried out a [Master's degree in Information Science][master-is] on a part-time basis so that I can keep working alongside my studies.
+Starting July 2020 and in parallel to my assistantship in Geneva, I started working as a Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Research Infrastructure][sari] (SARI) hosted at the University of Zurich and operated in cooperation with the Swiss Federal Institute of Technology in Zurich (ETH Zurich) and the Swiss Institute for Art Research (SIK-ISEA). I was committed to working there for a longer period of time but finally I stayed there for six months until the end of 2020 as I received an opportunity to pursue a funded PhD at the University of Basel.  
 
-Starting in July 2020 and in parallel to my assistantship in Geneva, I have been working as a Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Research Infrastructure][sari] (SARI) hosted at the University of Zurich and operated in cooperation with the Swiss Federal Institute of Technology in Zurich (ETH Zurich) and the Swiss Institute for Art Research (SIK-ISEA). 
+Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, [Digital Humanities Lab][dhlab] in the context of the multidisciplinary project funded by the SNSF titled "Participatory Knowledge Practices in Analogue and Digital Image Archive". Simultaneously, I have also started working as a scientific collaborator at the [Data & Service Center for the Humanities (DaSCH)][dasch].
 
 Have a look at my [CV](../cv/) for further information about my background, my projects and my publications
 
@@ -38,3 +38,5 @@ This website is about my work, views and expectations on information retrieval, 
 [iiif]: https://iiif.io/
 [name]: https://name.pn/julien-antoine-raemy
 [sari]: https://swissartresearch.net/
+[dhlab]: https://dhlab.philhist.unibas.ch/
+[dasch]: https://dasch.swiss/

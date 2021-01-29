@@ -10,13 +10,16 @@ Below are a selected list of things I am doing or that I have done. See [here][n
 
 ## Experience :office:
 
+Since February 2021: **PhD Student in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
+
+Since February 2021: **Scientific Collaborator** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
+
 July 2020 - December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
-- Developing an overarching strategy for the integration of IIIF 
-- Implementing IIIF within the system architecture 
-- Carrying out data curation using common target ontologies (CIDOC-CRM, RDF, OWL, SKOS)
-- Integrating data in alignment with the existing technology stack (ETL process)
-- Deploying and maintaining research platforms
-- Representing SARI on relevant expert committees and working groups (IIIF, Linked Art)
+- Developing an overarching strategy for the integration of the International Image Interoperability Framework (IIIF) within the Swiss Art Research Infrastructure (SARI)
+- Conceiving different IIIF implementation scenarios and assessing which IIIF APIs should be leveraged for the Bilder der Schweiz Online (BSO) project
+- Assessing the conformance of image formats and the optimal conversion recipes for their dissemination on the research platform and the BSO website
+- Building a IIIF Manifest template
+- Representing SARI on relevant IIIF committees and working groups
 
 August 2017 - January 2021: **Research and Teaching Assistant in Information Science** at the HES-SO University of Applied Sciences and Arts, [Haute école de gestion de Genève (HEG-GE)][heg]
 - Coordinating the bilingual French-German curriculum of the BSc in Information Science
@@ -27,7 +30,7 @@ August 2017 - January 2021: **Research and Teaching Assistant in Information Sci
 	- User Friendly Online Services for Scientific Information (UFO) assignments with the Fachhochschule Graubünden (FHGR)
 	- Conducting research, reporting and presentations, as well as developing models and approaches for assigning persistent identifiers as part of the "Identités de confiance pour les données de l’art et du design" (ICOPAD) project in partnership with the Swiss Institute for Art Research (SIK-ISEA), the Zentralbibliothek Zürich and the Zürcher Hochschule der Künste
 	- Coordinating the "Towards IIIF-Compliance Knowledge in Switzerland" (TICKS) project and the uptake of the International Image Interoperability Framework (IIIF) in Switzerland
-	- Coordinating the "Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project aimed at developing an Archival Resource Key (ARK) allocation service in Switzerland.
+	- Coordinating the "Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables" (INCIPIT) project aimed at developing [ARKetype][arketype] an Archival Resource Key (ARK) allocation service in Switzerland.
 
 January 2015 - July 2017: **Photo Archivist for the Montreux Jazz Digital Project** at the Ecole Polytechnique Fédérale de Lausanne (EPFL), [Cultural Heritage & Innovation Center (previously MetaMedia Center)][mmc]
 - Assessing the photography archives and digitizing pictures for the Montreux Jazz Digital Project
@@ -87,7 +90,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Projects :wrench:
 
-- January 2020 to December 2020: *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) [:link:][incipit]
+- Since February 2021: *Participatory Knowledge Practices in Analog and Digital Image Archives* - Swiss National Science Foundation (SNSF) Sinergia funded project
+- January 2020 to December 2020: *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) - swissuniversities-p5 funded project [:link:][incipit]
 - March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) [:link:][ticks]
 - June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
@@ -149,7 +153,11 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [aito-naan]: https://wiki.lyrasis.org/display/ARKs/NAAN+Registry+Working+Group
 [aito-technical]: https://wiki.lyrasis.org/display/ARKs/Technical+Working+Group
 [amda]: http://www.ailleurs.ch/en/amda/
+[arketype]: https://www.arketype.ch/
+[cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
+[cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [bibliosuisse]: https://bibliosuisse.ch/
+[dasch]: https://dasch.swiss/
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [iiif]: https://iiif.io/
 [idcc-19]: https://doi.org/10.5281/zenodo.2415995
@@ -177,7 +185,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [hub-rero]: https://doc.rero.ch/record/328460
 [mmc]: https://metamedia.epfl.ch/
 [mjhl]: http://www.epfl-ecal-lab.ch/work/montreux-jazz-heritage-lab-ii/
-[dhlab]: http://dhlab.unibas.ch/
+[dhlab]: https://dhlab.philhist.unibas.ch/
 [icopad]: https://campus.hesge.ch/id_bilingue/projekte/icopad/index_fr.asp
 [ticks]: https://campus.hesge.ch/id_bilingue/projekte/ticks/index_fr.asp
 [ticks-wp]: http://dx.doi.org/10.5281/zenodo.2640415
@@ -198,6 +206,4 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [sari]: https://swissartresearch.net/
 [name]: https://name.pn/julien-antoine-raemy
 [dv-video]: https://www.youtube.com/watch?v=1Z5EfUC_OQ0
-[cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
-[cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [pidapa]: https://doi.org/10.5281/zenodo.4436022
