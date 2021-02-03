@@ -12,7 +12,7 @@ Below are a selected list of things I am doing or that I have done. See [here][n
 
 Since February 2021: **PhD Student in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
 
-Since February 2021: **Scientific Collaborator** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
+Since February 2021: **Interoperability Consultant** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
 
 July 2020 - December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
 - Developing an overarching strategy for the integration of the International Image Interoperability Framework (IIIF) within the Swiss Art Research Infrastructure (SARI)
