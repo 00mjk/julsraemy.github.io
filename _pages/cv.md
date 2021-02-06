@@ -11,8 +11,16 @@ Below are a selected list of things I am doing or that I have done. See [here][n
 ## Experience :office:
 
 Since February 2021: **PhD Student in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
+_PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" approved by the Swiss National Science Foundation (SNSF)_ 
 
 Since February 2021: **Interoperability Consultant** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
+- Representing DaSCH on the Coordinating Committee and Technical Review Committee of the International Image Interoperability Framework (IIIF).
+- Representing DaSCH within the Archival Resource Key (ARK) Alliance community, notably though the Outreach Working Group.
+- Raising awareness of the use of IIIF and ARK identifiers in the humanities and social sciences
+- Conducting an assessment of the tools developed by DaSCH in terms of compatibility and future upgrades in relation to the IIIF APIs and the broader IIIF ecosystem.
+- Promoting DaSCH through seminars, workshops and conferences as well as on social networks.
+- Writing papers and reports in collaboration with the rest of the DaSCH team on the topics of information interoperability, digital preservation, and linked open data.
+- Identifying further initiatives that DaSCH could engage in with a view to improving its infrastructure.
 
 July 2020 - December 2020: **Knowledge Graph Engineer / IIIF Systems Architect** for the [Swiss Art Research Infrastructure (SARI)][sari] at the University of Zurich
 - Developing an overarching strategy for the integration of the International Image Interoperability Framework (IIIF) within the Swiss Art Research Infrastructure (SARI)
