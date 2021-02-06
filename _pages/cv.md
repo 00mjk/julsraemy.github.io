@@ -90,9 +90,9 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Projects :wrench:
 
-- Since February 2021: *Participatory Knowledge Practices in Analog and Digital Image Archives* - Swiss National Science Foundation (SNSF) Sinergia funded project
+- Since February 2021: *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives* - Swiss National Science Foundation (SNSF) Sinergia funded project
 - January 2020 to December 2020: *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) - swissuniversities-p5 funded project [:link:][incipit]
-- March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) [:link:][ticks]
+- March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) - Hasler Foundation funded project [:link:][ticks]
 - June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
 ## Workshops, assignments and mandates :mortar_board:
