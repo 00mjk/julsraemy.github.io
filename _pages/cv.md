@@ -90,6 +90,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Education :school:
 
+- 2021-2025 (expected): **PhD in Digital Humanities** at the University of Basel
 - 2018-2020: **Master of Science in Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2013-2017: **Bachelor of Science in Library and Information Science** at the HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève
 - 2010-2011: **Professional Business Baccalaureate** ("Maturité professionnelle commerciale") at the Ecole professionnelle artisanale et commerciale (EPAC)
