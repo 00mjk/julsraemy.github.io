@@ -116,7 +116,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Publications :pencil:
 
-- RAEMY, Julien Antoine. *Vers la fin d’OAI-PMH pour Europeana ?*. Bibliosuisse INFO. 2020. Vol. 2, no. 4, p. 10. ISSN 2624-8646
+- RAEMY, Julien Antoine. [*Vers la fin d’OAI-PMH pour Europeana ?*][bibioinfo]. Bibliosuisse INFO. 2020. Vol. 2, no. 4, p. 10. ISSN 2624-8646
 - RAEMY, Julien Antoine. [*Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions*][tm]. Master's thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - CEVEY, Matthieu, RAEMY, Julien Antoine and SCHNEIDER, René (dir). [*Swiss PID Hub : Création d’un Hub pour la gestion des identifiants pérennes en Suisse*][hub-rero]. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Towards Trusted Identities for Swiss Researchers and their Data][ijdc-19]. *International Journal of Digital Curation (IJDC)*. 11 September 2019. Vol. 14, no. 1, p. 303–314. DOI 10.2218/ijdc.v14i1.596
@@ -164,6 +164,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [arketype]: https://www.arketype.ch/
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
+[bibioinfo]: https://julsraemy.github.io/assets/doc/biblioinfo_4_2020_oai_pmh_europeana.pdf
 [bibliosuisse]: https://bibliosuisse.ch/
 [dasch]: https://dasch.swiss/
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
