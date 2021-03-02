@@ -10,9 +10,9 @@ Below are a selected list of things I am doing or that I have done. See [here][n
 
 ## Experience :office:
 
-Since February 2021: **PhD Student in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab] - _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" approved by the Swiss National Science Foundation (SNSF)_ 
+Since February 2021: **Asisstant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab] - _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" approved by the Swiss National Science Foundation (SNSF)_ 
 
-Since February 2021: **Interoperability Consultant** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
+Since February 2021: **Interoperability and Metadata Consultant** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
 - Representing DaSCH on the Coordinating Committee and Technical Review Committee of the International Image Interoperability Framework (IIIF).
 - Representing DaSCH within the Archival Resource Key (ARK) Alliance community, notably though the Outreach Working Group.
 - Raising awareness of the use of IIIF and ARK identifiers in the humanities and social sciences

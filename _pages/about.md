@@ -20,7 +20,7 @@ Between August 2017 and January 2021, I was working as a Research and Teaching A
 
 Starting July 2020 and in parallel to my assistantship in Geneva, I started working as a Knowledge Graph Engineer and IIIF Systems Architect for the [Swiss Art Research Infrastructure][sari] (SARI) hosted at the University of Zurich and operated in cooperation with the Swiss Federal Institute of Technology in Zurich (ETH Zurich) and the Swiss Institute for Art Research (SIK-ISEA). I was committed to working there for a longer period of time but finally I stayed there for six months until the end of 2020 as I received an opportunity to pursue a funded PhD at the University of Basel.  
 
-Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, [Digital Humanities Lab][dhlab] in the context of the multidisciplinary project funded by the SNSF titled "Participatory Knowledge Practices in Analogue and Digital Image Archive". Simultaneously, I have also started working on a contract basis as an interoperability consultant at the [Data & Service Center for the Humanities (DaSCH)][dasch].
+Since February 2021, I have embarked on a PhD in Digital Humanities at the University of Basel, [Digital Humanities Lab][dhlab] in the context of the multidisciplinary project funded by the SNSF titled "Participatory Knowledge Practices in Analogue and Digital Image Archive". Simultaneously, I have also started working on a contract basis as an Interoperability and Metadata Consultant at the [Data & Service Center for the Humanities (DaSCH)][dasch].
 
 Have a look at my [CV](../cv/) for further information about my background, my projects and my publications
 
