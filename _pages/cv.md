@@ -105,6 +105,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Workshops, assignments and mandates :mortar_board:
 
+- 26 February 2021: *IIIF* - Half-day course given with Elias Kreyenbühl in the context of the Certificate of Advanced Study (CAS) Datenmanagement und Informationstechnologien, University of Zürich and ZB Zürich [:link:][cas-dmit]
 - 11 November 2019: *Research Data Literacy : acquérir des compétences
 pour la gestion des données de la recherche*  One-day workshop given in the context of the Bibliosuisse's continuing education programme at Bibliomedia, Lausanne [:link:][bibliosuisse]
 - 30 September - 1 October 2019: *User centred design for the Handschriftenportal project* Two-day workshop given in the context of the creation of the Handschriftenportal, a DFG-funded project, at the Berlin State Library (Staatsbibliothek zu Berlin) [:link:][hsp]
@@ -162,6 +163,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [aito-technical]: https://wiki.lyrasis.org/display/ARKs/Technical+Working+Group
 [amda]: http://www.ailleurs.ch/en/amda/
 [arketype]: https://www.arketype.ch/
+[cas-dmit]: https://www.biw.uzh.ch/de/casdmit.html
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
 [cniprezi]: https://doi.org/10.5281/zenodo.4302427
 [bibioinfo]: https://julsraemy.github.io/assets/doc/biblioinfo_4_2020_oai_pmh_europeana.pdf
