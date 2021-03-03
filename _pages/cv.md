@@ -59,15 +59,14 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ### International Image Interoperability Framework (IIIF) [:link:][iiif]
 
-- Since February 2019: IIIF [Technical Review Committee][trc] Community Representative
+- Since May 2020: IIIF Coordinating Committee Member
+- Since February 2019: IIIF [Technical Review Committee][trc] Member
 - Since September 2017: IIIF [Code of Conduct][coc] Team Member
 - January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
 
-### ARKs in the Open (AITO) Project [:link:][aito]
+### Archival Resource Key Alliance [:link:][aito]
 
-- Since April 2020: AITO [NAAN Registry Working Group][aito-naan] Member
-- Since April 2020: AITO [Technical Working Group][aito-technical] Member
-- Since January 2020: AITO [Outreach Working Group][aito-outreach] Member
+- Since January 2020: ARK Alliance [Outreach Working Group][aito-outreach] Member
 
 ### Bibliosuisse [:link:][bibliosuisse]
 *formerly "Bibliothèque Information Suisse" (BIS)*
@@ -76,7 +75,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ### Association genevoise des bibliothécaires et professionnels diplômés en information documentaire (AGBD) [:link:][agbd]
 
-- Since May 2018: Member
+- May 2018 - February 2021: Member
 
 ### Fri-Son [:link:][fri-son]
 
@@ -159,8 +158,6 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [agbd]: https://www.agbd.ch/
 [aito]: https://wiki.lyrasis.org/display/ARKs/ARKs+in+the+Open+Project
 [aito-outreach]: https://wiki.lyrasis.org/display/ARKs/Outreach+Working+Group
-[aito-naan]: https://wiki.lyrasis.org/display/ARKs/NAAN+Registry+Working+Group
-[aito-technical]: https://wiki.lyrasis.org/display/ARKs/Technical+Working+Group
 [amda]: http://www.ailleurs.ch/en/amda/
 [arketype]: https://www.arketype.ch/
 [cas-dmit]: https://www.biw.uzh.ch/de/casdmit.html
