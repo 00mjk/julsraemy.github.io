@@ -61,7 +61,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 - Since May 2020: IIIF Coordinating Committee Member
 - Since February 2019: IIIF [Technical Review Committee][trc] Member
-- Since September 2017: IIIF [Code of Conduct][coc] Team Member
+- September 2017 - July 2020: IIIF [Code of Conduct][coc] Team Member
 - January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
 
 ### Archival Resource Key Alliance [:link:][aito]
