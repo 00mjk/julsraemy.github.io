@@ -147,6 +147,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Posts :computer:
 
+- RAEMY, Julien Antoine. [New service: ARKetype][arks-arketype]. *ARK Alliance*. 20 January 2021
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Ce Hub a plus d’une corde à son arc !][swisspidhub-post2]. *Recherche d’IdéeS*. 28 January 2020. 
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
 - RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018. 
@@ -159,6 +160,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [aito]: https://wiki.lyrasis.org/display/ARKs/ARKs+in+the+Open+Project
 [aito-outreach]: https://wiki.lyrasis.org/display/ARKs/Outreach+Working+Group
 [amda]: http://www.ailleurs.ch/en/amda/
+[arks-arketype]: https://arks.org/blog/new-service-arketype/
 [arketype]: https://www.arketype.ch/
 [cas-dmit]: https://www.biw.uzh.ch/de/casdmit.html
 [cnifallvideo]: https://www.youtube.com/watch?v=giw9stetjy8
