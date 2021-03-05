@@ -130,7 +130,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Presentations :microphone:
 
-- RAEMY, Julien Antoine, SCHNEIDER, René 2021. [INCIPIT: ein ARK-Attributionsservice in der Schweiz][pidapa]. *PIDapalooza 2021*. German session. 28 January 2021.
+- RAEMY, Julien Antoine, SCHNEIDER, René 2021. [INCIPIT: ein ARK-Attributionsservice in der Schweiz][pidapa]. *PIDapalooza 2021*. German session. 28 January 2021. Video recording: [:video_camera:][pidapa-prezi]
 - RAEMY, Julien Antoine, ALWASH, Amir, GAUDINAT, Arnaud and SCHNEIDER, René. [INCIPIT: An Archival Resource Key (ARK) Allocation Service in Switzerland][cniprezi]. *Coalition for Networked Information (CNI) Fall 2020 Virtual Membership Meeting*. Virtual event. 1 December 2020 - Video recording: [:video_camera:][cnifallvideo]
 - SCHNEIDER, René and RAEMY, Julien Antoine. [Auspacken, Identifizieren, Anpacken: Überlegungen zur Konvergenz von Linked Data und persistenter Identifikation][digitalverpackt]. *Informationen - digital verpackt*. Virtual event - Zentralbibliothek Zürich, Switzerland. 22 September 2020 DOI: 10.5281/zenodo.4043572 - Video recording: [:video_camera:][dv-video]
 - RAEMY, Julien Antoine. [Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions][tm-prezi]. *Master's thesis oral defence*. Haute école de gestion de Genève, Geneva, Switzerland. 28 August 2020. DOI: 10.5281/zenodo.3975522 - Video recording: [:video_camera:][tm-defence]
@@ -217,3 +217,4 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [name]: https://name.pn/julien-antoine-raemy
 [dv-video]: https://www.youtube.com/watch?v=1Z5EfUC_OQ0
 [pidapa]: https://doi.org/10.5281/zenodo.4436022
+[pidapa-prezi]: https://www.youtube.com/watch?v=NxNpqowQlF8
