@@ -10,7 +10,7 @@ Below are a selected list of things I am doing or that I have done. See [here][n
 
 ## Experience :office:
 
-Since February 2021: **Asisstant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab] - _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" approved by the Swiss National Science Foundation (SNSF)_ 
+Since February 2021: **Asisstant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab] - _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" (PIA) approved by the Swiss National Science Foundation (SNSF)_ 
 
 Since February 2021: **Interoperability and Metadata Consultant** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
 - Representing DaSCH on the Coordinating Committee and Technical Review Committee of the International Image Interoperability Framework (IIIF).
@@ -97,7 +97,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ## Projects :wrench:
 
-- Since February 2021: *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives* - Swiss National Science Foundation (SNSF) Sinergia funded project
+- Since February 2021: *Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives (PIA)* - Swiss National Science Foundation (SNSF) Sinergia funded project
 - January 2020 to December 2020: *Infrastructure Nationale d’un Complément d’Identifiants Pérennes, Interopérables et Traçables* (INCIPIT) - swissuniversities-p5 funded project [:link:][incipit]
 - March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) - Hasler Foundation funded project [:link:][ticks]
 - June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
@@ -112,7 +112,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - 5 December 2018: *The role of the Swiss National Library in the digital society* (_Rolle der National Bibliothek in der digitalen Gesellschaft_) - presentations, moderation of the workshop and summary of the results 
 - 21 June 2018: *Data Professionals Day* - presentation, moderation of questions and organization of the half-day event with Professor René Schneider as part of the 100th anniversary of training in Information sciences in Geneva (_100 ID_) [:link:][100id-dpd]
 - 27-28 November 2017: *Web Usability* Two-day workshop given at the European Organization for Nuclear Research (CERN)
-- Since October 2017: *User Friendly Online Services for Scientific Information* (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019), histHub (2019)
+- October 2017 - December 2019: *User Friendly Online Services for Scientific Information* (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019), histHub (2019)
 
 ## Publications :pencil:
 
