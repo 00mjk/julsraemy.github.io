@@ -64,7 +64,8 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - September 2017 - July 2020: IIIF [Code of Conduct][coc] Team Member
 - January 2018 - September 2019: IIIF [Outreach Community Group][outreach] Co-Chair
 
-### Archival Resource Key Alliance [:link:][aito]
+### Archival Resource Key (ARK) Alliance [:link:][aito]
+*formerly "ARKs in the Open (AITO)"*
 
 - Since January 2020: ARK Alliance [Outreach Working Group][aito-outreach] Member
 
@@ -102,7 +103,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 - March 2018 to February 2019: *Towards IIIF-Compliance Knowledge in Switzerland* (TICKS) - Hasler Foundation funded project [:link:][ticks]
 - June 2017 to December 2018: *Identités de confiance pour les données de l’art et du design* (ICOPAD) [:link:][icopad]
 
-## Workshops, assignments and mandates :mortar_board:
+## Conducted workshops and training programmes :mortar_board:
 
 - 26 February 2021: *IIIF* - Half-day course given with Elias Kreyenbühl in the context of the Certificate of Advanced Study (CAS) Datenmanagement und Informationstechnologien, University of Zürich and ZB Zürich [:link:][cas-dmit]
 - 11 November 2019: *Research Data Literacy : acquérir des compétences
