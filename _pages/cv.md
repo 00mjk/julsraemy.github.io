@@ -151,6 +151,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Posts :computer:
 
+- RAEMY, Julien Antoine. [IIIF: there is more than meets the eye][iiif-dhch]. *DH-CH*. 20 April 2021 
 - RAEMY, Julien Antoine. [New service: ARKetype][arks-arketype]. *ARK Alliance*. 20 January 2021
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Ce Hub a plus d’une corde à son arc !][swisspidhub-post2]. *Recherche d’IdéeS*. 28 January 2020. 
 - CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
@@ -175,6 +176,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [digitalverpackt]: https://doi.org/10.5281/zenodo.4043572
 [eccp]: https://doi.org/10.1007/978-3-030-71903-6_35
 [iiif]: https://iiif.io/
+[iiif-dhch]: https://www.dh-ch.ch/blog/posts/iiif:-there-is-more-than-meets-the-eye.html
 [idcc-19]: https://doi.org/10.5281/zenodo.2415995
 [ijdc-19]: https://doi.org/10.2218/ijdc.v14i1.596 
 [blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
