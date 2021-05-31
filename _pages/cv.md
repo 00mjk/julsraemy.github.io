@@ -134,7 +134,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Presentations :microphone:
 
-- RAEMY, Julien Antoine, CHIQUET Vera, ROSENTHALER Lukas 2021. [Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren][vdhdsipi]. *vDHd21 - Experimente*. Zwischenevents. 31 May 2021. Video recording: [:video_camera][vdhdsipi-rec]
+- RAEMY, Julien Antoine, CHIQUET Vera, ROSENTHALER Lukas 2021. [Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren][vdhdsipi]. *vDHd21 - Experimente*. Zwischenevents. 31 May 2021. Video recording: [:video_camera:][vdhdsipi-rec]
 - RAEMY, Julien Antoine, SCHNEIDER, René 2021. [INCIPIT: ein ARK-Attributionsservice in der Schweiz][pidapa]. *PIDapalooza 2021*. German session. 28 January 2021. Video recording: [:video_camera:][pidapa-prezi]
 - RAEMY, Julien Antoine, ALWASH, Amir, GAUDINAT, Arnaud and SCHNEIDER, René. [INCIPIT: An Archival Resource Key (ARK) Allocation Service in Switzerland][cniprezi]. *Coalition for Networked Information (CNI) Fall 2020 Virtual Membership Meeting*. Virtual event. 1 December 2020 - Video recording: [:video_camera:][cnifallvideo]
 - SCHNEIDER, René and RAEMY, Julien Antoine. [Auspacken, Identifizieren, Anpacken: Überlegungen zur Konvergenz von Linked Data und persistenter Identifikation][digitalverpackt]. *Informationen - digital verpackt*. Virtual event - Zentralbibliothek Zürich, Switzerland. 22 September 2020 DOI: 10.5281/zenodo.4043572 - Video recording: [:video_camera:][dv-video]
