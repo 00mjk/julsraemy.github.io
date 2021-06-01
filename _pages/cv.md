@@ -223,7 +223,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [incipit]: https://www.researchgate.net/project/INCIPIT-3
 [sari]: https://swissartresearch.net/
 [vdhdsipi]: https://doi.org/10.5281/zenodo.4875466
-[vdhdsipi-rec]: https://example.org
+[vdhdsipi-rec]: https://youtu.be/eKcJzSP6Uec
 [name]: https://name.pn/julien-antoine-raemy
 [dv-video]: https://www.youtube.com/watch?v=1Z5EfUC_OQ0
 [pidapa]: https://doi.org/10.5281/zenodo.4436022
