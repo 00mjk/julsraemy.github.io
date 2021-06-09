@@ -134,6 +134,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Presentations :microphone:
 
+- RAEMY, Julien Antoine. [The International Image Interoperability Framework (IIIF) APIs as the backbone of scientific and participatory research][dhch21]. *DHCH@ISR 2021 – Digital Visual Media and Metadata*. Image frameworks and archives. Istituto Svizzero, Rome, Italy. 8 June 2021. DOI: 10.5281/zenodo.4890820
 - RAEMY, Julien Antoine, CHIQUET Vera, ROSENTHALER Lukas 2021. [Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren][vdhdsipi]. *vDHd21 - Experimente*. Zwischenevents. 31 May 2021. Video recording: [:video_camera:][vdhdsipi-rec]
 - RAEMY, Julien Antoine, SCHNEIDER, René 2021. [INCIPIT: ein ARK-Attributionsservice in der Schweiz][pidapa]. *PIDapalooza 2021*. German session. 28 January 2021. Video recording: [:video_camera:][pidapa-prezi]
 - RAEMY, Julien Antoine, ALWASH, Amir, GAUDINAT, Arnaud and SCHNEIDER, René. [INCIPIT: An Archival Resource Key (ARK) Allocation Service in Switzerland][cniprezi]. *Coalition for Networked Information (CNI) Fall 2020 Virtual Membership Meeting*. Virtual event. 1 December 2020 - Video recording: [:video_camera:][cnifallvideo]
@@ -181,6 +182,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [idcc-19]: https://doi.org/10.5281/zenodo.2415995
 [ijdc-19]: https://doi.org/10.2218/ijdc.v14i1.596 
 [blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
+[dhch21]: https://doi.org/10.5281/zenodo.4890820
 [fri-son]: https://fri-son.ch/
 [eaf-prezi]: https://doi.org/10.5281/zenodo.4011512
 [eaf-video]: https://vimeo.com/410919947/3023e31d7c
