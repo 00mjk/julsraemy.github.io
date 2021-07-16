@@ -134,7 +134,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Presentations :microphone:
 
-- RAEMY, Julien Antoine, ROSENTHALER Lukas 2021. [Presenting SIPI – a versatile IIIF Image API 3 Server][iiif2021sipi]. *2021 IIIF Annual Conference*. Lightning talks. 22 June 2021. DOI: 10.5281/zenodo.4923706
+- RAEMY, Julien Antoine, ROSENTHALER Lukas 2021. [Presenting SIPI – a versatile IIIF Image API 3 Server][iiif2021sipi]. *2021 IIIF Annual Conference*. Lightning talks. 22 June 2021. DOI: 10.5281/zenodo.4923706 [:video_camera][iiif2021sipi-rec]
 - RAEMY, Julien Antoine. [The International Image Interoperability Framework (IIIF) APIs as the backbone of scientific and participatory research][dhch21]. *DHCH@ISR 2021 – Digital Visual Media and Metadata*. Image frameworks and archives. Istituto Svizzero, Rome, Italy. 8 June 2021. DOI: 10.5281/zenodo.4890820
 - RAEMY, Julien Antoine, CHIQUET Vera, ROSENTHALER Lukas 2021. [Simple Image Presentation Interface (SIPI) – Bilder IIIF kompatibel speichern und publizieren][vdhdsipi]. *vDHd21 - Experimente*. Zwischenevents. 31 May 2021. DOI: 10.5281/zenodo.4875466. Video recording: [:video_camera:][vdhdsipi-rec]
 - RAEMY, Julien Antoine, SCHNEIDER, René 2021. [INCIPIT: ein ARK-Attributionsservice in der Schweiz][pidapa]. *PIDapalooza 2021*. German session. 28 January 2021. Video recording: [:video_camera:][pidapa-prezi]
@@ -181,6 +181,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [iiif]: https://iiif.io/
 [iiif-dhch]: https://www.dh-ch.ch/blog/posts/iiif:-there-is-more-than-meets-the-eye.html
 [iiif2021sipi]: https://doi.org/10.5281/zenodo.4923706
+[iiif2021sipi-rec]: https://youtu.be/IOPZ5Gx-sH8?t=2498
 [idcc-19]: https://doi.org/10.5281/zenodo.2415995
 [ijdc-19]: https://doi.org/10.2218/ijdc.v14i1.596 
 [blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
