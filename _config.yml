@@ -5,18 +5,28 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Theme Settings
+#
+# Review documentation to determine if you should use `theme` or `remote_theme`
+# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+
+# theme                  : "minimal-mistakes-jekyll"
+# remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "dark" # default" # "air", "aqua", "contrast", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
 title                    : "Thoughts and discombobulations of Julien A. Raemy"
 title_separator          : "-"
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Julien Antoine Raemy"
 description              : "Thoughts and discombobulations of a Library and Information Science Specialist interested in the International Image Interoperability Framework (IIIF), Digital Humanities, Linked Open Data, User-centred design (UCD) methods, Research Data Management, Digital Preservation, and all sorts of things related to digital data curation in the cultural heritage field."
 url                      : https://julsraemy.github.io
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : julsraemy/julsraemy.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # false (default)
 words_per_minute         : 250
 comments                 : 
