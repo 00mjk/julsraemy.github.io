@@ -6,12 +6,12 @@ toc_label: Table of Contents
 permalink: /cv/
 ---
 
-Below are a selected list of things I am doing or that I have done. See [here][name] my preferred pronouns and how to pronounce my name. 
+Below are a selected list of things I am doing or that I have done. See [here][name] my preferred pronouns and how to pronounce my name.
 
 ## Experience :office:
 
-Since February 2021: **Asisstant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab] 
-- _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" (PIA) approved by the Swiss National Science Foundation (SNSF)_ 
+Since February 2021: **Asisstant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
+- _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" (PIA) approved by the Swiss National Science Foundation (SNSF)_
 - Working title of the dissertation: "The role of open and interoperable standards in the dissemination of digital cultural heritage objects"
 
 Since February 2021: **Interoperability and Metadata Consultant** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
@@ -88,7 +88,7 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 
 ### Association des amis de la Maison d'Ailleurs (AMDA) [:link:][amda]
 
-- Since January 2008: Member 
+- Since January 2008: Member
 
 ## Education :school:
 
@@ -112,14 +112,14 @@ August 2016 - October 2016: **University Intern** at the University of Basel, [D
 pour la gestion des données de la recherche*  One-day workshop given in the context of the Bibliosuisse's continuing education programme at Bibliomedia, Lausanne [:link:][bibliosuisse]
 - 30 September - 1 October 2019: *User centred design for the Handschriftenportal project* Two-day workshop given in the context of the creation of the Handschriftenportal, a DFG-funded project, at the Berlin State Library (Staatsbibliothek zu Berlin) [:link:][hsp]
 - 15 May 2019: *Bern IIIF Showcase Event* - presentations, moderation and organization of the event at the Swiss National Library as part of the TICKS project [:link:][bern-iiif]
-- 5 December 2018: *The role of the Swiss National Library in the digital society* (_Rolle der National Bibliothek in der digitalen Gesellschaft_) - presentations, moderation of the workshop and summary of the results 
+- 5 December 2018: *The role of the Swiss National Library in the digital society* (_Rolle der National Bibliothek in der digitalen Gesellschaft_) - presentations, moderation of the workshop and summary of the results
 - 21 June 2018: *Data Professionals Day* - presentation, moderation of questions and organization of the half-day event with Professor René Schneider as part of the 100th anniversary of training in Information sciences in Geneva (_100 ID_) [:link:][100id-dpd]
 - 27-28 November 2017: *Web Usability* Two-day workshop given at the European Organization for Nuclear Research (CERN)
 - October 2017 - December 2019: *User Friendly Online Services for Scientific Information* (UFO), a mandate funded by swissuniversities-p5, in collaboration with the Fachhochschule Graubünden [:link:][ufo]. Assessed projects: SWITCH Swiss edu-ID (2018), Enhancer (2018), SWITCHhub (2019), histHub (2019)
 
 ## Publications :pencil:
 
-- FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine. [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021 
+- FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine. [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021
 - RAEMY, Julien Antoine. [*Vers la fin d’OAI-PMH pour Europeana ?*][bibioinfo]. Bibliosuisse INFO. 2020. Vol. 2, no. 4, p. 10. ISSN 2624-8646
 - RAEMY, Julien Antoine. [*Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions*][tm]. Master's thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
 - CEVEY, Matthieu, RAEMY, Julien Antoine and SCHNEIDER, René (dir). [*Swiss PID Hub : Création d’un Hub pour la gestion des identifiants pérennes en Suisse*][hub-rero]. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
@@ -130,7 +130,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - RAEMY, Julien Antoine. [Interopérabilité des images : de la nécessité des tests d’utilisabilité][ressi1]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
 - RAEMY, Julien Antoine. [Retour sur la conférence IIIF (International Image Interoperability Framework), 7-9 juin 2017 au Vatican][ressi2]. *Revue électronique suisse de science de l’information*. 20 December 2017. Vol. 2017, no. 18.
 - RAEMY, Julien Antoine. [*The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions*][tb]. Bachelor’s thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
-- RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68. 
+- RAEMY, Julien Antoine, FORNARO, Peter and ROSENTHALER, Lukas. [Implementing a Video Framework based on IIIF: A Customized Approach from Long-Term Preservation Video Formats to Conversion on Demand][archiving]. *Archiving Conference*. 15 May 2017. Vol. 2017, no. 1, p. 68–73. DOI 10.2352/issn.2168-3204.2017.1.0.68.
 
 ## Presentations :microphone:
 
@@ -142,7 +142,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - SCHNEIDER, René and RAEMY, Julien Antoine. [Auspacken, Identifizieren, Anpacken: Überlegungen zur Konvergenz von Linked Data und persistenter Identifikation][digitalverpackt]. *Informationen - digital verpackt*. Virtual event - Zentralbibliothek Zürich, Switzerland. 22 September 2020 DOI: 10.5281/zenodo.4043572 - Video recording: [:video_camera:][dv-video]
 - RAEMY, Julien Antoine. [Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions][tm-prezi]. *Master's thesis oral defence*. Haute école de gestion de Genève, Geneva, Switzerland. 28 August 2020. DOI: 10.5281/zenodo.3975522 - Video recording: [:video_camera:][tm-defence]
 - RAEMY, Julien Antoine and FREIRE, Nuno. [Overview of alternative technologies for (meta)data aggregation][eaf-prezi]. *Europeana Aggregators Forum Spring 2020*. Virtual event. 6 May 2020. DOI: 10.5281/zenodo.4011512 - Video recording: [:video_camera:][eaf-video]
-- CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008 
+- CEVEY, Matthieu and RAEMY, Julien Antoine. [Swiss PID Hub : création d’un Hub pour la gestion des identifiants pérennes en Suisse][hub-poster]. *Session des posters scientifiques*. Scientific poster. Haute école de gestion de Genève, Geneva, Switzerland. 12 December 2019. DOI 10.5281/zenodo.3551008
 - RAEMY, Julien Antoine. [Das International Image Interoperability Framework (IIIF): eine Reihe von Standards für eine bessere Veröffentlichung der Ressourcen im Web][iiif-alexandria]. *Informationsanlass Alexandria*. Bibliothek am Guisanplatz, Bern, Switzerland. 30 October 2019. DOI 10.5281/zenodo.3463088
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Swiss institutions climbing up the IIIF ladder][ticks-19]. *2019 IIIF Conference*. Alte Mensa, Georg-August-Universität, Göttingen, Germany. 26 June 2019. DOI 10.5281/zenodo.3238161 - Video recording: [:video_camera:][climbing-video]
 - RAEMY, Julien Antoine, SCHNEIDER, René. [Assigning persistent identifiers to art and design entities][vkks]. *Fourth Swiss Congress for Art History, Quid pro quo: linked data in art history research. VKKS 2019*. Accademia di architettura, Mendrisio, Switzerland. 7 June 2019. DOI 10.5281/zenodo.3241453
@@ -150,15 +150,16 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 - RAEMY, Julien Antoine. [The uptake of IIIF in Switzerland and the current state of TICKS: building a IIIF-alignment outreach programme][ticks-18]. *2018 IIIF Conference*. Library of Congress, Washington D.C., USA, 24 May 2018. DOI 10.5281/zenodo.1252084
 - RAEMY, Julien Antoine. [The International Image Interoperability Framework (IIIF): raising awareness of the user benefits for scholarly editions][midi-agbd]. *Midi-AGBD - Prix romand en bibliothéconomie 2017*. Université de Genève, Site Uni Mail, Genève, Switzerland. 27 March 2018.
 - RAEMY, Julien Antoine. [Présentation brève de IIIF et du travail de bachelor][seminaire]. *Séminaire en bibliothéconomie*. Haute école de gestion de Genève, Carouge, Switzerland. 9 November 2017.
-- Raemy, Julien Antoine. [Usability testing conducted on the UV and Mirador][vatican-prezi], *2017 IIIF Conference*. Augustinianum, The Vatican City. 5 June 2017. 
+- Raemy, Julien Antoine. [Usability testing conducted on the UV and Mirador][vatican-prezi], *2017 IIIF Conference*. Augustinianum, The Vatican City. 5 June 2017.
 
 ## Posts :computer:
 
-- RAEMY, Julien Antoine. [IIIF: there is more than meets the eye][iiif-dhch]. *DH-CH*. 20 April 2021 
+- MANZ, Marian Clemens, RAEMY, Julien Antoine, GAUVAIN, Béatrice, CHIQUET, Vera. [Let's talk about standards – A write-up of a discussion on metadata standardization in the Digital Humanities][standards-dhch]. *DH-CH*. 29 September 2021
+- RAEMY, Julien Antoine. [IIIF: there is more than meets the eye][iiif-dhch]. *DH-CH*. 20 April 2021
 - RAEMY, Julien Antoine. [New service: ARKetype][arks-arketype]. *ARK Alliance*. 20 January 2021
-- CEVEY, Matthieu and RAEMY, Julien Antoine. [Ce Hub a plus d’une corde à son arc !][swisspidhub-post2]. *Recherche d’IdéeS*. 28 January 2020. 
-- CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019. 
-- RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018. 
+- CEVEY, Matthieu and RAEMY, Julien Antoine. [Ce Hub a plus d’une corde à son arc !][swisspidhub-post2]. *Recherche d’IdéeS*. 28 January 2020.
+- CEVEY, Matthieu and RAEMY, Julien Antoine. [Un PID pour (enfin?) les gouverner tous][swisspidhub-post1]. *Recherche d’IdéeS*. 2 September 2019.
+- RAEMY, Julien Antoine. [De la nécessité de la visualisation face au déluge des données][blog-necessite]. *Recherche d’IdéeS*. 21 November 2018.
 
 ## Awards :tada:
 
@@ -183,7 +184,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [iiif2021sipi]: https://doi.org/10.5281/zenodo.4923706
 [iiif2021sipi-rec]: https://youtu.be/IOPZ5Gx-sH8?t=2498
 [idcc-19]: https://doi.org/10.5281/zenodo.2415995
-[ijdc-19]: https://doi.org/10.2218/ijdc.v14i1.596 
+[ijdc-19]: https://doi.org/10.2218/ijdc.v14i1.596
 [blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
 [dhch21]: https://doi.org/10.5281/zenodo.4890820
 [dhch21-rec]: https://youtu.be/V6uWB_9oobc?t=1225
@@ -219,6 +220,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [arodes-ht1]: https://hesso.tind.io/record/2394
 [arodes-ht2]: https://hesso.tind.io/record/4063
 [vkks]: https://doi.org/10.5281/zenodo.3241452
+[standards-dhch]: https://dh-ch.ch/blog/posts/let's-talk-about-standards-a-write-up-of-a-discussion-on-metadata-standardization-in-the-digital-humanities.html
 [swisspidhub-post1]: https://campus.hesge.ch/blog-master-is/un-pid-pour-les-gouverner-tous/
 [swisspidhub-post2]: https://campus.hesge.ch/blog-master-is/ce-hub-a-plus-dune-corde-a-son-arc/
 [ufo]: https://www.fhgr.ch/fhgr/angewandte-zukunftstechnologien/schweizerisches-institut-fuer-informationswissenschaft-sii/projekte/ufo/
