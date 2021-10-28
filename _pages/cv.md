@@ -11,8 +11,8 @@ Below are a selected list of things I am doing or that I have done. See [here][n
 ## Experience :office:
 
 Since February 2021: **Asisstant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
-- _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" (PIA) approved by the Swiss National Science Foundation (SNSF)_
-- Second working title of the dissertation: "Web-based standards for Citizen Science initiatives in the cultural heritage domain: from data modelling to deploying an open infrastructure"
+- _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" (PIA) funded by the Swiss National Science Foundation (SNSF)_
+- Second and current working title of the dissertation: "Web-based standards for Citizen Science initiatives in the cultural heritage domain: from data modelling to deploying an open infrastructure"
 - First working title of the dissertation: "The role of open and interoperable standards in the dissemination of digital cultural heritage objects"
 
 Since February 2021: **Interoperability and Metadata Consultant** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
