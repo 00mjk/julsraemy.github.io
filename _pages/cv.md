@@ -136,6 +136,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Presentations :microphone:
 
+- RAEMY, Julien Antoine 2021. [Data modelling and Citizen Science: impact of user-generated content within the PIA research project][dhsemepfl2021]. *Digital Humanities PhD Seminar. Human Factors in DH*. Ecole Polytechnique Fédérale de Lausanne (EPFL), Switzerland, 2 December 2021. DOI: 10.5281/zenodo.5763545
 - GAUTSCHY, Rita, RAEMY, Julien Antoine 2021. [Normen und Standards: Empfehlungen DaSCH][sgg2021]. *Workshop Normen und Standards in den digitalen Geschichtswissenschaften*. Bern, Switzerland, 12 November 2021. [:video_camera:][sgg2021-rec]
 - RAEMY, Julien Antoine, ROSENTHALER Lukas 2021. [Presenting SIPI – a versatile IIIF Image API 3 Server][iiif2021sipi]. *2021 IIIF Annual Conference*. Lightning talks. 22 June 2021. DOI: 10.5281/zenodo.4923706 [:video_camera:][iiif2021sipi-rec]
 - RAEMY, Julien Antoine. [The International Image Interoperability Framework (IIIF) APIs as the backbone of scientific and participatory research][dhch21]. *DHCH@ISR 2021 – Digital Visual Media and Metadata*. Image frameworks and archives. Istituto Svizzero, Rome, Italy. 8 June 2021. DOI: 10.5281/zenodo.4890820 [:video_camera:][dhch21-rec]
@@ -241,3 +242,4 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [pidapa-prezi]: https://www.youtube.com/watch?v=NxNpqowQlF8
 [sgg2021]: https://www.sgg-ssh.ch/sites/default/files/gautschy_raemy_sggworkshopnov2021.pdf
 [sgg2021-rec]: https://tube.switch.ch/videos/rVJ3us4OTD
+[dhsemepfl2021]: https://doi.org/10.5281/zenodo.5763545
