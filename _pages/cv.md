@@ -121,6 +121,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Publications :pencil:
 
+- RAEMY, Julien Antoine. [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities. December 2021. 
 - FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine. [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021
 - RAEMY, Julien Antoine. [*Vers la fin d’OAI-PMH pour Europeana ?*][bibioinfo]. Bibliosuisse INFO. 2020. Vol. 2, no. 4, p. 10. ISSN 2624-8646
 - RAEMY, Julien Antoine. [*Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions*][tm]. Master's thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
@@ -193,6 +194,8 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [blog-necessite]: https://campus.hesge.ch/blog-master-is/de-la-necessite-de-la-visualisation-face-au-deluge-des-donnees/
 [dhch21]: https://doi.org/10.5281/zenodo.4890820
 [dhch21-rec]: https://youtu.be/V6uWB_9oobc?t=1225
+[dhsemepfl2021]: https://doi.org/10.5281/zenodo.5763545
+[dhsemepfl2021-paper]: https://www.researchgate.net/publication/357649220
 [fri-son]: https://fri-son.ch/
 [eaf-prezi]: https://doi.org/10.5281/zenodo.4011512
 [eaf-video]: https://vimeo.com/410919947/3023e31d7c
@@ -243,6 +246,5 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 [pidapa-prezi]: https://www.youtube.com/watch?v=NxNpqowQlF8
 [sgg2021]: https://www.sgg-ssh.ch/sites/default/files/gautschy_raemy_sggworkshopnov2021.pdf
 [sgg2021-rec]: https://tube.switch.ch/videos/rVJ3us4OTD
-[dhsemepfl2021]: https://doi.org/10.5281/zenodo.5763545
 [pidsiiif]: https://doi.org/10.5281/zenodo.5780055
 [pidsiiif-rec]: https://www.youtube.com/playlist?list=PLRIxrpy54RHYeABK9t8EIaCWwr6hy7bkz
