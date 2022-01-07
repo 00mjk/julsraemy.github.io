@@ -12,7 +12,7 @@ Below are a selected list of things I am doing or that I have done. See [here][n
 
 Since February 2021: **Asisstant and PhD Candidate in Digital Humanities** at the University of Basel, [Digital Humanities Lab][dhlab]
 - _PhD undertaken within the Sinergia project titled "Partizipative Wissenspraktiken in analogen und digitalen Bildarchiven / Participatory Knowledge Practices in Analogue and Digital Image Archives" (PIA) funded by the Swiss National Science Foundation (SNSF)_
-- Third and current working title of the dissertation: "Deploying a Citizen Science infrastructure with Linked Open Usable Data (LOUD) standards: data modelling and long-term access perspectives of the PIA research project"
+- Third and current working title of the dissertation: "Deploying a Citizen Science infrastructure with Linked Open Usable Data (LOUD) standards: perspectives on data modelling and long-term access"
 - Second working title of the dissertation: "Web-based standards for Citizen Science initiatives in the cultural heritage domain: from data modelling to deploying an open infrastructure"
 - First working title of the dissertation: "The role of open and interoperable standards in the dissemination of digital cultural heritage objects"
 
@@ -121,7 +121,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Publications :pencil:
 
-- RAEMY, Julien Antoine. [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities. December 2021. 
+- RAEMY, Julien Antoine. [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities. December 2021.
 - FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine. [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021
 - RAEMY, Julien Antoine. [*Vers la fin d’OAI-PMH pour Europeana ?*][bibioinfo]. Bibliosuisse INFO. 2020. Vol. 2, no. 4, p. 10. ISSN 2624-8646
 - RAEMY, Julien Antoine. [*Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions*][tm]. Master's thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
