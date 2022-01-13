@@ -16,7 +16,7 @@ Since February 2021: **Asisstant and PhD Candidate in Digital Humanities** at th
 - Second working title of the dissertation: "Web-based standards for Citizen Science initiatives in the cultural heritage domain: from data modelling to deploying an open infrastructure"
 - First working title of the dissertation: "The role of open and interoperable standards in the dissemination of digital cultural heritage objects"
 
-Since February 2021: **Interoperability and Metadata Consultant** at the [Data & Service Center for the Humanities (DaSCH)][dasch]
+Since February 2021: **Interoperability and Metadata Consultant** at the [DaSCH, Swiss National Data & Service Center for the Humanities][dasch]
 - Representing DaSCH on the Coordinating Committee and Technical Review Committee of the International Image Interoperability Framework (IIIF).
 - Representing DaSCH within the Archival Resource Key (ARK) Alliance community, notably though the Outreach Working Group.
 - Raising awareness of the use of IIIF and ARK identifiers in the humanities and social sciences
