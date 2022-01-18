@@ -121,7 +121,7 @@ pour la gestion des données de la recherche*  One-day workshop given in the con
 
 ## Publications :pencil:
 
-- RAEMY, Julien Antoine. [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities (PhD Seminar). Ecole Polytechnique Fédérale de Lausanne (EPF), Lausanne, Switzerland. December 2021.
+- RAEMY, Julien Antoine. [*Applying Effective Data Modelling Approaches for the Creation of a Participatory Archive Platform*][dhsemepfl2021-paper]. Human Factors in Digital Humanities (PhD Seminar). Ecole Polytechnique Fédérale de Lausanne (EPFL), Lausanne, Switzerland. 16 December 2021.
 - FREIRE, Nuno, MEIJERS, Enno, DE VALK, Sjors, RAEMY, Julien Antoine, ISAAC, Antoine. [*Metadata Aggregation via Linked Data: Results of the Europeana Common Culture Project*][eccp]. In GAROUFALLOU E., OVALLE-PERANDONES, M.-A. (Eds.). Metadata and Semantic Research. MTSR 2020. Communications in Computer and Information Science, vol 1355 (pp. 383–394). 2021
 - RAEMY, Julien Antoine. [*Vers la fin d’OAI-PMH pour Europeana ?*][bibioinfo]. Bibliosuisse INFO. 2020. Vol. 2, no. 4, p. 10. ISSN 2624-8646
 - RAEMY, Julien Antoine. [*Enabling better aggregation and discovery of cultural heritage content for Europeana and its partner institutions*][tm]. Master's thesis. Geneva, Switzerland : HES-SO University of Applied Sciences and Arts, Haute école de gestion de Genève, 2020.
